@@ -1,1 +1,1 @@
-# gp_5_DL
+# Групповой проект 5: Deep Learning
