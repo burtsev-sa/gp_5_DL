@@ -1,51 +1,1000 @@
-2026-06-05 02:40:07,065 - kolesa_parser.py - INFO - Выбранная марка: lexus | страниц: ['1', '1']
-2026-06-05 02:40:07,065 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 1
-2026-06-05 02:40:08,321 - kolesa_parser.py - INFO - Открыта страница 1 | LEXUS
-2026-06-05 02:40:08,407 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | LEXUS
-2026-06-05 02:40:15,819 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222337474?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=1
-2026-06-05 02:40:15,838 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 24000000₸. id = 222337474 | затрачено 7.431651084101759 сек.
-2026-06-05 02:40:24,505 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221858695?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=2
-2026-06-05 02:40:24,536 - kolesa_parser.py - INFO - Получено объявление Lexus RX 330 7000000₸. id = 221858695 | затрачено 8.697304375004023 сек.
-2026-06-05 02:40:29,342 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222335175?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=3
-2026-06-05 02:40:29,365 - kolesa_parser.py - INFO - Получено объявление Lexus RX 330 6600000₸. id = 222335175 | затрачено 4.8287404590519145 сек.
-2026-06-05 02:40:34,141 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222333930?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=4
-2026-06-05 02:40:34,150 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 7300000₸. id = 222333930 | затрачено 4.7853350839577615 сек.
-2026-06-05 02:40:39,356 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221417080?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=5
-2026-06-05 02:40:39,372 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 20500000₸. id = 221417080 | затрачено 5.221539499936625 сек.
-2026-06-05 02:40:47,465 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222334129?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=6
-2026-06-05 02:40:47,475 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300 4200000₸. id = 222334129 | затрачено 8.103061500005424 сек.
-2026-06-05 02:40:54,788 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222333325?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=7
-2026-06-05 02:40:54,799 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 8000000₸. id = 222333325 | затрачено 7.3235442080767825 сек.
-2026-06-05 02:41:00,220 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221108552?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=8
-2026-06-05 02:41:00,230 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 20500000₸. id = 221108552 | затрачено 5.431050540995784 сек.
-2026-06-05 02:41:06,230 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/170571327?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=9
-2026-06-05 02:41:06,267 - kolesa_parser.py - INFO - Получено объявление Lexus IS 250 5000000₸. id = 170571327 | затрачено 6.036563084111549 сек.
-2026-06-05 02:41:14,995 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222332117?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=10
-2026-06-05 02:41:15,025 - kolesa_parser.py - INFO - Получено объявление Lexus GS 300 3500000₸. id = 222332117 | затрачено 8.756677584024146 сек.
-2026-06-05 02:41:22,539 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222035682?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=11
-2026-06-05 02:41:22,560 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 25000000₸. id = 222035682 | затрачено 7.535060458001681 сек.
-2026-06-05 02:41:28,767 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222331903?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=12
-2026-06-05 02:41:28,796 - kolesa_parser.py - INFO - Получено объявление Lexus RX 300 22500000₸. id = 222331903 | затрачено 6.235632541938685 сек.
-2026-06-05 02:41:34,044 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220012459?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=13
-2026-06-05 02:41:34,069 - kolesa_parser.py - INFO - Получено объявление Lexus RX 400h 7200000₸. id = 220012459 | затрачено 5.2719224580796435 сек.
-2026-06-05 02:41:42,507 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221763671?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=14
-2026-06-05 02:41:42,525 - kolesa_parser.py - INFO - Получено объявление Lexus NX 250 23850000₸. id = 221763671 | затрачено 8.456220583058894 сек.
-2026-06-05 02:41:49,790 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218937601?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=15
-2026-06-05 02:41:49,807 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 8000000₸. id = 218937601 | затрачено 7.281315541942604 сек.
-2026-06-05 02:41:58,189 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216770912?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=16
-2026-06-05 02:41:58,213 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 13900000₸. id = 216770912 | затрачено 8.406768292072229 сек.
-2026-06-05 02:42:04,828 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221976343?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=17
-2026-06-05 02:42:04,852 - kolesa_parser.py - INFO - Получено объявление Lexus GX 460 27500000₸. id = 221976343 | затрачено 6.6379608749412 сек.
-2026-06-05 02:42:09,701 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221675361?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=18
-2026-06-05 02:42:09,723 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 8600000₸. id = 221675361 | затрачено 4.87044208298903 сек.
-2026-06-05 02:42:18,708 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222181995?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=19
-2026-06-05 02:42:18,721 - kolesa_parser.py - INFO - Получено объявление Lexus RX 300 5890000₸. id = 222181995 | затрачено 8.998402958037332 сек.
-2026-06-05 02:42:25,995 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216245375?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=20
-2026-06-05 02:42:26,016 - kolesa_parser.py - INFO - Получено объявление Lexus GX 470 13200000₸. id = 216245375 | затрачено 7.2946114159421995 сек.
-2026-06-05 02:42:26,016 - kolesa_parser.py - INFO - Страница 1 (для LEXUS) собрана | затрачено 138.95030504197348 сек.
-2026-06-05 02:42:33,423 - kolesa_parser.py - INFO - Датасет lexus_1_1.csv для LEXUS, страницы 1 - 1 собран | затрачено 146.33298666705377 сек.2026-06-05 14:44:48,862 - kolesa_parser.py - INFO - Выбранная марка: kia | страницы: с 1 по 1
-2026-06-05 14:44:48,862 - kolesa_parser.py - INFO - Получаем список объявлений для KIA, страница: 1
-2026-06-05 14:44:49,480 - kolesa_parser.py - INFO - Открыта страница 1 | KIA
-2026-06-05 14:44:49,556 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | KIA
-2026-06-05 14:44:56,229 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220356629?search_id=c6c5e3106fce95054f6fb68a25b8b2dedc6ca6d1&search_type=filter&advert_position=1
-2026-06-05 14:44:56,258 - kolesa_parser.py - INFO - Получено объявление Kia Sportage 6700000₸. id = 220356629 | затрачено 6.702317583025433 сек.
+2026-06-05 21:54:14,763 - kolesa_parser.py - INFO - Выбранная марка: bmw | страницы: с 1 по 5
+2026-06-05 21:54:14,773 - kolesa_parser.py - INFO - Получаем список объявлений для BMW, страница: 1
+2026-06-05 21:54:15,718 - kolesa_parser.py - INFO - Открыта страница 1 | BMW
+2026-06-05 21:54:15,811 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | BMW
+2026-06-05 21:54:18,636 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220804937?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=1
+2026-06-05 21:54:18,658 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/220804937?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=1 | пропускаем
+2026-06-05 21:54:20,981 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222422298?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=2
+2026-06-05 21:54:21,003 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222422298?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=2 | пропускаем
+2026-06-05 21:54:23,806 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/198460638?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=3
+2026-06-05 21:54:25,393 - kolesa_parser.py - INFO - Получено объявление BMW 320 11500000₸. id = 198460638 | затрачено 4.389867249992676 сек.
+2026-06-05 21:54:27,916 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/195127066?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=4
+2026-06-05 21:54:28,833 - kolesa_parser.py - INFO - Получено объявление BMW X5 36000000₸. id = 195127066 | затрачено 3.4390118329320103 сек.
+2026-06-05 21:54:31,071 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222421447?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=5
+2026-06-05 21:54:31,997 - kolesa_parser.py - INFO - Получено объявление BMW X5 6000000₸. id = 222421447 | затрачено 3.164558709017001 сек.
+2026-06-05 21:54:33,993 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220587901?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=6
+2026-06-05 21:54:34,016 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/220587901?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=6 | пропускаем
+2026-06-05 21:54:36,969 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222421312?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=7
+2026-06-05 21:54:38,182 - kolesa_parser.py - INFO - Получено объявление BMW 525 4400000₸. id = 222421312 | затрачено 4.165948790963739 сек.
+2026-06-05 21:54:40,247 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/206175903?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=8
+2026-06-05 21:54:41,569 - kolesa_parser.py - INFO - Получено объявление BMW 525 5400000₸. id = 206175903 | затрачено 3.386140584014356 сек.
+2026-06-05 21:54:44,632 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221842720?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=9
+2026-06-05 21:54:44,645 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221842720?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=9
+2026-06-05 21:54:45,276 - kolesa_parser.py - INFO - Получено объявление BMW X5 40500000₸. id = 221842720 | затрачено 3.7070362908998504 сек.
+2026-06-05 21:54:48,089 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222073172?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=10
+2026-06-05 21:54:49,616 - kolesa_parser.py - INFO - Получено объявление BMW X6 9590000₸. id = 222073172 | затрачено 4.339975874987431 сек.
+2026-06-05 21:54:52,095 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/206769448?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=11
+2026-06-05 21:54:53,417 - kolesa_parser.py - INFO - Получено объявление BMW 528 7500000₸. id = 206769448 | затрачено 3.8011947089107707 сек.
+2026-06-05 21:54:56,328 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219270325?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=12
+2026-06-05 21:54:56,352 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/219270325?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=12 | пропускаем
+2026-06-05 21:54:59,040 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220997511?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=13
+2026-06-05 21:54:59,063 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/220997511?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=13
+2026-06-05 21:55:00,275 - kolesa_parser.py - INFO - Получено объявление BMW X5 28000000₸. id = 220997511 | затрачено 3.923135125078261 сек.
+2026-06-05 21:55:02,088 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222418461?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=14
+2026-06-05 21:55:02,101 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222418461?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=14 | пропускаем
+2026-06-05 21:55:04,205 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218288425?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=15
+2026-06-05 21:55:05,568 - kolesa_parser.py - INFO - Получено объявление BMW 530 7500000₸. id = 218288425 | затрачено 3.466572624980472 сек.
+2026-06-05 21:55:08,068 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221829535?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=16
+2026-06-05 21:55:09,258 - kolesa_parser.py - INFO - Получено объявление BMW X5 13000000₸. id = 221829535 | затрачено 3.690358875086531 сек.
+2026-06-05 21:55:11,466 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/205784721?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=17
+2026-06-05 21:55:11,488 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/205784721?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=17
+2026-06-05 21:55:12,144 - kolesa_parser.py - INFO - Получено объявление BMW Gran Turismo 9000000₸. id = 205784721 | затрачено 2.8852684170706198 сек.
+2026-06-05 21:55:14,550 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217005437?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=18
+2026-06-05 21:55:16,059 - kolesa_parser.py - INFO - Получено объявление BMW 530 25500000₸. id = 217005437 | затрачено 3.9146377079887316 сек.
+2026-06-05 21:55:17,788 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222417577?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=19
+2026-06-05 21:55:18,670 - kolesa_parser.py - INFO - Получено объявление BMW 325 6000000₸. id = 222417577 | затрачено 2.6110086670378223 сек.
+2026-06-05 21:55:20,691 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/206420089?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=20
+2026-06-05 21:55:20,706 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/206420089?search_id=94329d78e5ae0a6199c016b3ae0921ce4f126598&search_type=filter&advert_position=20
+2026-06-05 21:55:21,766 - kolesa_parser.py - INFO - Получено объявление BMW X6 18500000₸. id = 206420089 | затрачено 3.0960627499734983 сек.
+2026-06-05 21:55:21,766 - kolesa_parser.py - INFO - Страница 1 (для BMW) собрана | затрачено 66.99317629099824 сек.
+2026-06-05 21:55:26,099 - kolesa_parser.py - INFO - Получаем список объявлений для BMW, страница: 2
+2026-06-05 21:55:26,520 - kolesa_parser.py - INFO - Открыта страница 2 | BMW
+2026-06-05 21:55:26,631 - kolesa_parser.py - INFO - Получены карточек для страницы 2 | BMW
+2026-06-05 21:55:29,896 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222377668?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=21
+2026-06-05 21:55:31,224 - kolesa_parser.py - INFO - Получено объявление BMW 520 8200000₸. id = 222377668 | затрачено 4.592669583042152 сек.
+2026-06-05 21:55:33,444 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218336631?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=22
+2026-06-05 21:55:33,466 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/218336631?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=22
+2026-06-05 21:55:34,631 - kolesa_parser.py - INFO - Получено объявление BMW 750 21000000₸. id = 218336631 | затрачено 3.4067398339975625 сек.
+2026-06-05 21:55:37,383 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222240348?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=23
+2026-06-05 21:55:37,397 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222240348?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=23
+2026-06-05 21:55:38,473 - kolesa_parser.py - INFO - Получено объявление BMW M3 34800000₸. id = 222240348 | затрачено 3.842438417021185 сек.
+2026-06-05 21:55:41,344 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/215551121?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=24
+2026-06-05 21:55:41,367 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/215551121?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=24 | пропускаем
+2026-06-05 21:55:43,880 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222200360?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=25
+2026-06-05 21:55:43,888 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222200360?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=25 | пропускаем
+2026-06-05 21:55:46,225 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221997956?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=26
+2026-06-05 21:55:47,079 - kolesa_parser.py - INFO - Получено объявление BMW X5 47000000₸. id = 221997956 | затрачено 3.1899695420870557 сек.
+2026-06-05 21:55:50,264 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221406702?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=27
+2026-06-05 21:55:50,280 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221406702?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=27
+2026-06-05 21:55:51,535 - kolesa_parser.py - INFO - Получено объявление BMW X5 6500000₸. id = 221406702 | затрачено 4.455682124942541 сек.
+2026-06-05 21:55:53,876 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219846508?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=28
+2026-06-05 21:55:53,889 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/219846508?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=28
+2026-06-05 21:55:55,079 - kolesa_parser.py - INFO - Получено объявление BMW X5 27000000₸. id = 219846508 | затрачено 3.544203707948327 сек.
+2026-06-05 21:55:57,091 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221093473?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=29
+2026-06-05 21:55:57,106 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221093473?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=29
+2026-06-05 21:55:57,906 - kolesa_parser.py - INFO - Получено объявление BMW 530 36000000₸. id = 221093473 | затрачено 2.827179666957818 сек.
+2026-06-05 21:56:01,068 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221482902?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=30
+2026-06-05 21:56:02,416 - kolesa_parser.py - INFO - Получено объявление BMW 530 5200000₸. id = 221482902 | затрачено 4.509422709001228 сек.
+2026-06-05 21:56:04,826 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/213186410?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=31
+2026-06-05 21:56:04,852 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/213186410?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=31 | пропускаем
+2026-06-05 21:56:07,660 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222291902?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=32
+2026-06-05 21:56:07,687 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222291902?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=32 | пропускаем
+2026-06-05 21:56:10,420 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221346551?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=33
+2026-06-05 21:56:10,441 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221346551?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=33 | пропускаем
+2026-06-05 21:56:13,077 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217799330?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=34
+2026-06-05 21:56:13,090 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/217799330?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=34
+2026-06-05 21:56:14,356 - kolesa_parser.py - INFO - Получено объявление BMW M5 33000000₸. id = 217799330 | затрачено 3.9147888330044225 сек.
+2026-06-05 21:56:16,955 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222313082?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=35
+2026-06-05 21:56:17,954 - kolesa_parser.py - INFO - Получено объявление BMW X7 50000000₸. id = 222313082 | затрачено 3.5981022079940885 сек.
+2026-06-05 21:56:20,002 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220642300?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=36
+2026-06-05 21:56:21,530 - kolesa_parser.py - INFO - Получено объявление BMW 535 12500000₸. id = 220642300 | затрачено 3.575227165943943 сек.
+2026-06-05 21:56:24,090 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221180987?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=37
+2026-06-05 21:56:24,723 - kolesa_parser.py - INFO - Получено объявление BMW M235 26000000₸. id = 221180987 | затрачено 3.192399875028059 сек.
+2026-06-05 21:56:27,012 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221060735?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=38
+2026-06-05 21:56:27,677 - kolesa_parser.py - INFO - Получено объявление BMW X6 10000000₸. id = 221060735 | затрачено 2.953736583935097 сек.
+2026-06-05 21:56:29,585 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222018638?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=39
+2026-06-05 21:56:29,607 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222018638?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=39 | пропускаем
+2026-06-05 21:56:32,886 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220129249?search_id=07d2f56ab8a39fd4c21678d43e7d4a0d51fee7fe&search_type=filter&advert_position=40
+2026-06-05 21:56:34,256 - kolesa_parser.py - INFO - Получено объявление BMW X6 13000000₸. id = 220129249 | затрачено 4.648953541996889 сек.
+2026-06-05 21:56:34,257 - kolesa_parser.py - INFO - Страница 2 (для BMW) собрана | затрачено 68.15780950000044 сек.
+2026-06-05 21:56:38,309 - kolesa_parser.py - INFO - Получаем список объявлений для BMW, страница: 3
+2026-06-05 21:56:38,736 - kolesa_parser.py - INFO - Открыта страница 3 | BMW
+2026-06-05 21:56:38,820 - kolesa_parser.py - INFO - Получены карточек для страницы 3 | BMW
+2026-06-05 21:56:41,846 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222018638?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=41
+2026-06-05 21:56:41,868 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222018638?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=41 | пропускаем
+2026-06-05 21:56:44,149 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220129249?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=42
+2026-06-05 21:56:45,326 - kolesa_parser.py - INFO - Получено объявление BMW X6 13000000₸. id = 220129249 | затрачено 3.457226541941054 сек.
+2026-06-05 21:56:48,299 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/187833983?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=43
+2026-06-05 21:56:48,316 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/187833983?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=43 | пропускаем
+2026-06-05 21:56:51,035 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218764531?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=44
+2026-06-05 21:56:51,721 - kolesa_parser.py - INFO - Получено объявление BMW X5 50700000₸. id = 218764531 | затрачено 3.4048913329606876 сек.
+2026-06-05 21:56:54,299 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217898910?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=45
+2026-06-05 21:56:54,314 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/217898910?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=45
+2026-06-05 21:56:55,473 - kolesa_parser.py - INFO - Получено объявление BMW 528 11500000₸. id = 217898910 | затрачено 3.752334750024602 сек.
+2026-06-05 21:56:58,729 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/209707491?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=46
+2026-06-05 21:56:59,433 - kolesa_parser.py - INFO - Получено объявление BMW 530 6000000₸. id = 209707491 | затрачено 3.9593157910276204 сек.
+2026-06-05 21:57:14,286 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/188041061?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=47
+2026-06-05 21:57:14,287 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Operation timed out after 12002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 21:57:28,485 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/222052957?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=48
+2026-06-05 21:57:28,485 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Recv failure: Operation timed out. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 21:57:42,900 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/221746606?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=49
+2026-06-05 21:57:42,901 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 21:57:56,523 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/221891933?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=50
+2026-06-05 21:57:56,523 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 21:58:10,052 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/221852701?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=51
+2026-06-05 21:58:10,052 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 21:58:24,809 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/219717363?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=52
+2026-06-05 21:58:24,810 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 21:58:38,969 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/221608389?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=53
+2026-06-05 21:58:38,969 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 21:58:52,593 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/216902586?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=54
+2026-06-05 21:58:52,593 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 21:59:07,254 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/217548711?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=55
+2026-06-05 21:59:07,254 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 21:59:22,166 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/221677166?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=56
+2026-06-05 21:59:22,167 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 21:59:30,632 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/173629004?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=57
+2026-06-05 21:59:30,633 - kolesa_parser.py - ERROR - Failed to perform, curl: (7) Failed to connect to kolesa.kz port 443 after 6007 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 21:59:32,830 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/221861043?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=58
+2026-06-05 21:59:32,830 - kolesa_parser.py - ERROR - Failed to perform, curl: (7) Failed to connect to kolesa.kz port 443 after 11 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 21:59:34,866 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/219164140?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=59
+2026-06-05 21:59:34,867 - kolesa_parser.py - ERROR - Failed to perform, curl: (7) Failed to connect to kolesa.kz port 443 after 9 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 21:59:37,010 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/221469808?search_id=96c7035dd18deb91d5833a4467f48d66aaec1387&search_type=filter&advert_position=60
+2026-06-05 21:59:37,010 - kolesa_parser.py - ERROR - Failed to perform, curl: (7) Failed to connect to kolesa.kz port 443 after 8 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 21:59:37,010 - kolesa_parser.py - INFO - Страница 3 (для BMW) собрана | затрачено 178.70053837494925 сек.
+2026-06-05 21:59:40,740 - kolesa_parser.py - INFO - Получаем список объявлений для BMW, страница: 4
+2026-06-05 21:59:40,751 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/bmw/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=4
+2026-06-05 21:59:40,751 - kolesa_parser.py - ERROR - Failed to perform, curl: (7) Failed to connect to kolesa.kz port 443 after 9 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 21:59:40,751 - kolesa_parser.py - INFO - Получаем список объявлений для BMW, страница: 5
+2026-06-05 21:59:40,761 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/bmw/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=5
+2026-06-05 21:59:40,761 - kolesa_parser.py - ERROR - Failed to perform, curl: (7) Failed to connect to kolesa.kz port 443 after 8 ms: Could not connect to server. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 21:59:40,800 - kolesa_parser.py - INFO - Датасет bmw_1_5.csv для BMW, страницы 1 - 5 собран | затрачено 325.9966587079689 сек.
+2026-06-05 21:59:40,800 - kolesa_parser.py - INFO - Объявлений без фото: 0
+2026-06-05 22:20:03,373 - kolesa_parser.py - INFO - Выбранная марка: mercedes-benz | страницы: с 1 по 5
+2026-06-05 22:20:03,385 - kolesa_parser.py - INFO - Получаем список объявлений для MERCEDES-BENZ, страница: 1
+2026-06-05 22:20:07,971 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/mercedes-benz/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000 | пробуем еще раз
+2026-06-05 22:20:07,971 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:20:31,478 - kolesa_parser.py - INFO - Выбранная марка: mercedes-benz | страницы: с 1 по 5
+2026-06-05 22:20:31,490 - kolesa_parser.py - INFO - Получаем список объявлений для MERCEDES-BENZ, страница: 1
+2026-06-05 22:20:43,496 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/mercedes-benz/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000 | пробуем еще раз
+2026-06-05 22:20:43,497 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:26:30,566 - kolesa_parser.py - INFO - Выбранная марка: mercedes-benz | страницы: с 1 по 5
+2026-06-05 22:26:30,571 - kolesa_parser.py - INFO - Получаем список объявлений для MERCEDES-BENZ, страница: 1
+2026-06-05 22:26:33,118 - kolesa_parser.py - INFO - Открыта страница 1 | MERCEDES-BENZ
+2026-06-05 22:26:33,207 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | MERCEDES-BENZ
+2026-06-05 22:26:35,798 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222424963?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=1
+2026-06-05 22:26:35,824 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222424963?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=1 | пропускаем
+2026-06-05 22:26:38,839 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221303438?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=2
+2026-06-05 22:26:40,651 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz E 320 6300000₸. id = 221303438 | затрачено 4.826471457956359 сек.
+2026-06-05 22:26:43,377 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217711869?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=3
+2026-06-05 22:26:43,400 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/217711869?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=3 | пропускаем
+2026-06-05 22:26:46,508 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222420021?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=4
+2026-06-05 22:26:46,521 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222420021?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=4 | пропускаем
+2026-06-05 22:26:49,354 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216461336?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=5
+2026-06-05 22:26:49,384 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/216461336?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=5 | пропускаем
+2026-06-05 22:26:51,284 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/151351174?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=6
+2026-06-05 22:26:52,390 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz Sprinter 11500000₸. id = 151351174 | затрачено 3.006279999972321 сек.
+2026-06-05 22:26:55,564 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222422647?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=7
+2026-06-05 22:26:55,577 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222422647?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=7 | пропускаем
+2026-06-05 22:26:58,705 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222179470?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=8
+2026-06-05 22:26:58,718 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222179470?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=8
+2026-06-05 22:26:59,497 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz S 450 32000000₸. id = 222179470 | затрачено 3.919191375025548 сек.
+2026-06-05 22:27:02,479 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/210107467?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=9
+2026-06-05 22:27:03,915 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz E 500 8000000₸. id = 210107467 | затрачено 4.417630707961507 сек.
+2026-06-05 22:27:06,360 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222420817?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=10
+2026-06-05 22:27:08,070 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz C 180 2500000₸. id = 222420817 | затрачено 4.155020790989511 сек.
+2026-06-05 22:27:10,584 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222421544?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=11
+2026-06-05 22:27:10,605 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222421544?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=11
+2026-06-05 22:27:11,612 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz S 500 8500000₸. id = 222421544 | затрачено 3.5415630839997903 сек.
+2026-06-05 22:27:14,886 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/185186852?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=12
+2026-06-05 22:27:16,423 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz G 55 AMG 28000000₸. id = 185186852 | затрачено 4.81133408297319 сек.
+2026-06-05 22:27:18,926 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222002732?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=13
+2026-06-05 22:27:20,214 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz S 320 3700000₸. id = 222002732 | затрачено 3.7906469160225242 сек.
+2026-06-05 22:27:23,809 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222420801?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=14
+2026-06-05 22:27:23,819 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222420801?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=14 | пропускаем
+2026-06-05 22:27:26,385 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/213095489?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=15
+2026-06-05 22:27:28,095 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz E 320 4850000₸. id = 213095489 | затрачено 4.27550616604276 сек.
+2026-06-05 22:27:30,283 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222274936?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=16
+2026-06-05 22:27:30,309 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222274936?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=16
+2026-06-05 22:27:31,782 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz GLC 43 AMG 39500000₸. id = 222274936 | затрачено 3.686401083949022 сек.
+2026-06-05 22:27:34,786 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220839989?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=17
+2026-06-05 22:27:34,797 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/220839989?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=17 | пропускаем
+2026-06-05 22:27:36,938 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/142035778?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=18
+2026-06-05 22:27:38,317 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz GLE 400 16500000₸. id = 142035778 | затрачено 3.519373583025299 сек.
+2026-06-05 22:27:40,545 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222418436?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=19
+2026-06-05 22:27:40,563 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222418436?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=19 | пропускаем
+2026-06-05 22:27:43,016 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222417871?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=20
+2026-06-05 22:27:43,032 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222417871?search_id=fa4edcec424cd293776d23ef8dbc5d456a28605b&search_type=filter&advert_position=20 | пропускаем
+2026-06-05 22:27:43,033 - kolesa_parser.py - INFO - Страница 1 (для MERCEDES-BENZ) собрана | затрачено 72.46104725007899 сек.
+2026-06-05 22:27:45,761 - kolesa_parser.py - INFO - Получаем список объявлений для MERCEDES-BENZ, страница: 2
+2026-06-05 22:27:48,043 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/mercedes-benz/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=2 | пробуем еще раз
+2026-06-05 22:27:48,043 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:28:29,988 - kolesa_parser.py - INFO - Открыта страница 2 | MERCEDES-BENZ
+2026-06-05 22:28:30,094 - kolesa_parser.py - INFO - Получены карточек для страницы 2 | MERCEDES-BENZ
+2026-06-05 22:28:32,302 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219632939?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=21
+2026-06-05 22:28:32,326 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/219632939?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=21 | пропускаем
+2026-06-05 22:28:35,474 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/214542799?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=22
+2026-06-05 22:28:38,961 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/214542799?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=22 | попробуем еще раз
+2026-06-05 22:28:38,962 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:28:41,643 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz S 500 7200000₸. id = 214542799 | затрачено 9.316496249986812 сек.
+2026-06-05 22:28:45,167 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219952021?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=23
+2026-06-05 22:28:46,909 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz C 180 15000000₸. id = 219952021 | затрачено 5.265877582947724 сек.
+2026-06-05 22:28:49,854 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220733052?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=24
+2026-06-05 22:28:49,874 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/220733052?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=24 | пропускаем
+2026-06-05 22:28:52,706 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220603102?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=25
+2026-06-05 22:28:52,725 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/220603102?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=25 | пропускаем
+2026-06-05 22:28:56,056 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217562807?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=26
+2026-06-05 22:28:56,066 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/217562807?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=26 | пропускаем
+2026-06-05 22:28:58,807 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218312960?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=27
+2026-06-05 22:29:01,183 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz Sprinter 7800000₸. id = 218312960 | затрачено 5.116812375024892 сек.
+2026-06-05 22:29:04,463 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222416573?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=28
+2026-06-05 22:29:04,483 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222416573?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=28 | пропускаем
+2026-06-05 22:29:06,713 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222416801?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=29
+2026-06-05 22:29:06,736 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222416801?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=29
+2026-06-05 22:29:07,949 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz E 220 2500000₸. id = 222416801 | затрачено 3.46550470800139 сек.
+2026-06-05 22:29:10,156 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221809418?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=30
+2026-06-05 22:29:10,179 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221809418?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=30 | пропускаем
+2026-06-05 22:29:13,670 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221890040?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=31
+2026-06-05 22:29:13,691 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221890040?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=31
+2026-06-05 22:29:14,804 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz S 300 8500000₸. id = 221890040 | затрачено 4.6251342500327155 сек.
+2026-06-05 22:29:17,459 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220259481?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=32
+2026-06-05 22:29:17,481 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/220259481?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=32 | пропускаем
+2026-06-05 22:29:20,485 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/214705745?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=33
+2026-06-05 22:29:22,571 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz E 400 13500000₸. id = 214705745 | затрачено 5.089518332970329 сек.
+2026-06-05 22:29:25,728 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217831500?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=34
+2026-06-05 22:29:25,750 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/217831500?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=34
+2026-06-05 22:29:26,992 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz E 200 50000000₸. id = 217831500 | затрачено 4.420525374938734 сек.
+2026-06-05 22:29:30,015 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222165494?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=35
+2026-06-05 22:29:30,927 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz CLS 450 36500000₸. id = 222165494 | затрачено 3.9353537500137463 сек.
+2026-06-05 22:29:34,252 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/136173027?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=36
+2026-06-05 22:29:34,269 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/136173027?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=36
+2026-06-05 22:29:35,761 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz GL 450 7300000₸. id = 136173027 | затрачено 4.833059457945637 сек.
+2026-06-05 22:29:38,445 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219691670?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=37
+2026-06-05 22:29:40,171 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz G 63 AMG 34000000₸. id = 219691670 | затрачено 4.409842374967411 сек.
+2026-06-05 22:29:42,118 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218554139?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=38
+2026-06-05 22:29:43,605 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz C 43 AMG 23000000₸. id = 218554139 | затрачено 3.434469625004567 сек.
+2026-06-05 22:29:45,824 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220256831?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=39
+2026-06-05 22:29:46,679 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz S 500 7500000₸. id = 220256831 | затрачено 3.07269570895005 сек.
+2026-06-05 22:29:49,019 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/204940884?search_id=6066ab973474ef06748b70fec4d16f1ffc64496c&search_type=filter&advert_position=40
+2026-06-05 22:29:50,545 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz S 350 11500000₸. id = 204940884 | затрачено 3.866431124974042 сек.
+2026-06-05 22:29:50,545 - kolesa_parser.py - INFO - Страница 2 (для MERCEDES-BENZ) собрана | затрачено 124.78404041705653 сек.
+2026-06-05 22:29:52,729 - kolesa_parser.py - INFO - Получаем список объявлений для MERCEDES-BENZ, страница: 3
+2026-06-05 22:30:04,732 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/mercedes-benz/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=3 | пробуем еще раз
+2026-06-05 22:30:04,733 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:30:49,364 - kolesa_parser.py - INFO - Открыта страница 3 | MERCEDES-BENZ
+2026-06-05 22:30:49,452 - kolesa_parser.py - INFO - Получены карточек для страницы 3 | MERCEDES-BENZ
+2026-06-05 22:30:53,111 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/204940884?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=41
+2026-06-05 22:31:01,110 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz S 350 11500000₸. id = 204940884 | затрачено 11.657504624919966 сек.
+2026-06-05 22:31:04,247 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220174529?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=42
+2026-06-05 22:31:06,241 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz S 500 29000000₸. id = 220174529 | затрачено 5.130928667029366 сек.
+2026-06-05 22:31:08,667 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222410292?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=43
+2026-06-05 22:31:10,219 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz S 320 2700000₸. id = 222410292 | затрачено 3.9774397080764174 сек.
+2026-06-05 22:31:13,621 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222237060?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=44
+2026-06-05 22:31:15,130 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz E 500 6000000₸. id = 222237060 | затрачено 4.909807582967915 сек.
+2026-06-05 22:31:17,857 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222240822?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=45
+2026-06-05 22:31:18,920 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz C 280 2400000₸. id = 222240822 | затрачено 3.7896913329605013 сек.
+2026-06-05 22:31:22,423 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/209902381?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=46
+2026-06-05 22:31:23,752 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz C 180 12000000₸. id = 209902381 | затрачено 4.832331374986097 сек.
+2026-06-05 22:31:26,710 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221184724?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=47
+2026-06-05 22:31:27,642 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz S 500 12200000₸. id = 221184724 | затрачено 3.889076541061513 сек.
+2026-06-05 22:31:30,213 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/212251028?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=48
+2026-06-05 22:31:32,015 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz AMG GT 59000000₸. id = 212251028 | затрачено 4.372850292013027 сек.
+2026-06-05 22:31:34,497 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222037086?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=49
+2026-06-05 22:31:34,519 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222037086?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=49 | пропускаем
+2026-06-05 22:31:37,475 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222050128?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=50
+2026-06-05 22:31:38,675 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz S 500 8000000₸. id = 222050128 | затрачено 4.155954457935877 сек.
+2026-06-05 22:31:42,230 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220449411?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=51
+2026-06-05 22:31:42,246 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/220449411?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=51
+2026-06-05 22:31:44,513 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz C 230 7200000₸. id = 220449411 | затрачено 5.837131042033434 сек.
+2026-06-05 22:31:48,095 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219812845?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=52
+2026-06-05 22:31:49,411 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz E 400 16500000₸. id = 219812845 | затрачено 4.897665249998681 сек.
+2026-06-05 22:31:52,409 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/211516257?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=53
+2026-06-05 22:31:52,435 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/211516257?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=53
+2026-06-05 22:31:54,561 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz S 560 38000000₸. id = 211516257 | затрачено 5.149821583996527 сек.
+2026-06-05 22:31:58,120 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217614424?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=54
+2026-06-05 22:31:58,134 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/217614424?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=54 | пропускаем
+2026-06-05 22:32:01,807 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221876269?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=55
+2026-06-05 22:32:03,126 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz GL 450 18500000₸. id = 221876269 | затрачено 4.9917104579508305 сек.
+2026-06-05 22:32:05,698 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/188751093?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=56
+2026-06-05 22:32:06,809 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz C 230 6500000₸. id = 188751093 | затрачено 3.6828810839215294 сек.
+2026-06-05 22:32:09,613 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219687187?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=57
+2026-06-05 22:32:10,929 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz G 500 19500000₸. id = 219687187 | затрачено 4.119414917076938 сек.
+2026-06-05 22:32:13,999 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221867239?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=58
+2026-06-05 22:32:14,022 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221867239?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=58 | пропускаем
+2026-06-05 22:32:15,979 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221846380?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=59
+2026-06-05 22:32:16,005 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221846380?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=59 | пропускаем
+2026-06-05 22:32:19,125 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218212687?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=60
+2026-06-05 22:32:19,139 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/218212687?search_id=ea8fb8c2d3c90acaeacb453d959982f0eb92360e&search_type=filter&advert_position=60
+2026-06-05 22:32:20,267 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz Sprinter 5800000₸. id = 218212687 | затрачено 4.261992457904853 сек.
+2026-06-05 22:32:20,267 - kolesa_parser.py - INFO - Страница 3 (для MERCEDES-BENZ) собрана | затрачено 147.5376247499371 сек.
+2026-06-05 22:32:22,404 - kolesa_parser.py - INFO - Получаем список объявлений для MERCEDES-BENZ, страница: 4
+2026-06-05 22:32:26,461 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/mercedes-benz/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=4 | пробуем еще раз
+2026-06-05 22:32:26,461 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:33:16,946 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/mercedes-benz/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=4
+2026-06-05 22:33:16,947 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:33:16,948 - kolesa_parser.py - INFO - Получаем список объявлений для MERCEDES-BENZ, страница: 5
+2026-06-05 22:33:19,559 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/mercedes-benz/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=5 | пробуем еще раз
+2026-06-05 22:33:19,559 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:34:03,980 - kolesa_parser.py - INFO - Открыта страница 5 | MERCEDES-BENZ
+2026-06-05 22:34:04,073 - kolesa_parser.py - INFO - Получены карточек для страницы 5 | MERCEDES-BENZ
+2026-06-05 22:34:08,309 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/206731928?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=81
+2026-06-05 22:34:14,522 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz G 55 AMG 18000000₸. id = 206731928 | затрачено 10.448733249912038 сек.
+2026-06-05 22:34:18,110 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221744475?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=82
+2026-06-05 22:34:18,134 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221744475?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=82 | пропускаем
+2026-06-05 22:34:22,216 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222410170?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=83
+2026-06-05 22:34:22,235 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222410170?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=83 | пропускаем
+2026-06-05 22:34:25,687 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222021425?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=84
+2026-06-05 22:34:27,153 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz GLK 280 7000000₸. id = 222021425 | затрачено 4.918565166997723 сек.
+2026-06-05 22:34:29,948 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221986348?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=85
+2026-06-05 22:34:31,044 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz C 300 12800000₸. id = 221986348 | затрачено 3.8901363749755546 сек.
+2026-06-05 22:34:33,981 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221744185?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=86
+2026-06-05 22:34:33,993 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221744185?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=86 | пропускаем
+2026-06-05 22:34:36,422 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218935730?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=87
+2026-06-05 22:34:37,551 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz E 280 2300000₸. id = 218935730 | затрачено 3.557790874969214 сек.
+2026-06-05 22:34:39,932 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216333376?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=88
+2026-06-05 22:34:41,127 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz G 63 AMG 34500000₸. id = 216333376 | затрачено 3.5761395840672776 сек.
+2026-06-05 22:34:43,607 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221742899?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=89
+2026-06-05 22:34:45,104 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz G 320 9900000₸. id = 221742899 | затрачено 3.9760577080305666 сек.
+2026-06-05 22:34:48,563 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219383883?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=90
+2026-06-05 22:34:49,481 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz E 290 2300000₸. id = 219383883 | затрачено 4.376906499965116 сек.
+2026-06-05 22:34:51,557 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221915501?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=91
+2026-06-05 22:34:52,761 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz A 180 3500000₸. id = 221915501 | затрачено 3.2806032079970464 сек.
+2026-06-05 22:34:55,958 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221466070?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=92
+2026-06-05 22:34:56,966 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz E 300 19000000₸. id = 221466070 | затрачено 4.204318333999254 сек.
+2026-06-05 22:35:00,181 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222283171?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=93
+2026-06-05 22:35:00,190 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222283171?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=93 | пропускаем
+2026-06-05 22:35:03,165 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221315851?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=94
+2026-06-05 22:35:03,178 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221315851?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=94 | пропускаем
+2026-06-05 22:35:06,609 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/203923402?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=95
+2026-06-05 22:35:06,642 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/203923402?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=95 | пропускаем
+2026-06-05 22:35:08,901 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/204865815?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=96
+2026-06-05 22:35:10,405 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz ML 350 7000000₸. id = 204865815 | затрачено 3.7631302080117166 сек.
+2026-06-05 22:35:13,054 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221179727?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=97
+2026-06-05 22:35:13,069 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221179727?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=97 | пропускаем
+2026-06-05 22:35:16,171 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221010305?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=98
+2026-06-05 22:35:16,192 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221010305?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=98 | пропускаем
+2026-06-05 22:35:18,526 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218136762?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=99
+2026-06-05 22:35:18,549 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/218136762?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=99
+2026-06-05 22:35:19,509 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz GL 500 11500000₸. id = 218136762 | затрачено 3.316436625085771 сек.
+2026-06-05 22:35:22,366 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218059319?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=100
+2026-06-05 22:35:22,376 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/218059319?search_id=efea45b18d3d38b80e8a809fa0b0315c68fae44b&search_type=filter&advert_position=100
+2026-06-05 22:35:23,630 - kolesa_parser.py - INFO - Получено объявление Mercedes-Benz CLA 45 AMG 14500000₸. id = 218059319 | затрачено 4.121278750011697 сек.
+2026-06-05 22:35:23,631 - kolesa_parser.py - INFO - Страница 5 (для MERCEDES-BENZ) собрана | затрачено 126.68251574994065 сек.
+2026-06-05 22:35:26,597 - kolesa_parser.py - INFO - Датасет mercedes-benz_1_5.csv для MERCEDES-BENZ, страницы 1 - 5 собран | затрачено 535.9969701669179 сек.
+2026-06-05 22:35:26,597 - kolesa_parser.py - INFO - Объявлений без фото: 0
+2026-06-05 22:35:26,597 - kolesa_parser.py - INFO - Объявлений не собрано 0
+2026-06-05 22:38:56,757 - kolesa_parser.py - INFO - Выбранная марка: audi | страницы: с 1 по 5
+2026-06-05 22:38:56,767 - kolesa_parser.py - INFO - Получаем список объявлений для AUDI, страница: 1
+2026-06-05 22:38:57,957 - kolesa_parser.py - INFO - Открыта страница 1 | AUDI
+2026-06-05 22:38:58,043 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | AUDI
+2026-06-05 22:39:04,993 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222423630?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=1
+2026-06-05 22:39:05,017 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222423630?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=1 | пропускаем
+2026-06-05 22:39:11,934 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222413107?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=2
+2026-06-05 22:39:15,605 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/222413107?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=2 | попробуем еще раз
+2026-06-05 22:39:15,606 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:39:19,167 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/222413107?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=2 | попробуем еще раз
+2026-06-05 22:39:19,167 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:39:19,168 - kolesa_parser.py - INFO - Получено объявление Audi Q7 7000000₸. id = 222413107 | затрачено 14.150918875006028 сек.
+2026-06-05 22:39:26,895 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221139067?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=3
+2026-06-05 22:39:28,970 - kolesa_parser.py - INFO - Получено объявление Audi A4 6500000₸. id = 221139067 | затрачено 9.801788666984066 сек.
+2026-06-05 22:39:36,636 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218612221?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=4
+2026-06-05 22:39:36,659 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/218612221?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=4 | пропускаем
+2026-06-05 22:39:44,564 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222139884?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=5
+2026-06-05 22:39:44,577 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222139884?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=5 | пропускаем
+2026-06-05 22:39:52,628 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221203304?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=6
+2026-06-05 22:39:53,994 - kolesa_parser.py - INFO - Получено объявление Audi A6 5500000₸. id = 221203304 | затрачено 9.416892500012182 сек.
+2026-06-05 22:40:02,212 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222355539?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=7
+2026-06-05 22:40:03,636 - kolesa_parser.py - INFO - Получено объявление Audi A6 4000000₸. id = 222355539 | затрачено 9.641394875012338 сек.
+2026-06-05 22:40:10,459 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222310810?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=8
+2026-06-05 22:40:10,477 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222310810?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=8 | пропускаем
+2026-06-05 22:40:16,524 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/207300939?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=9
+2026-06-05 22:40:16,548 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/207300939?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=9
+2026-06-05 22:40:18,664 - kolesa_parser.py - INFO - Получено объявление Audi 100 3500000₸. id = 207300939 | затрачено 8.18598104105331 сек.
+2026-06-05 22:40:23,466 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220585637?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=10
+2026-06-05 22:40:23,494 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/220585637?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=10 | пропускаем
+2026-06-05 22:40:31,363 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222058937?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=11
+2026-06-05 22:40:31,391 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222058937?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=11
+2026-06-05 22:40:32,101 - kolesa_parser.py - INFO - Получено объявление Audi e-tron GT 31000000₸. id = 222058937 | затрачено 8.606436125002801 сек.
+2026-06-05 22:40:39,758 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/204201803?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=12
+2026-06-05 22:40:41,320 - kolesa_parser.py - INFO - Получено объявление Audi A4 3400000₸. id = 204201803 | затрачено 9.21807395806536 сек.
+2026-06-05 22:40:46,728 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221903162?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=13
+2026-06-05 22:40:48,105 - kolesa_parser.py - INFO - Получено объявление Audi A6 3200000₸. id = 221903162 | затрачено 6.7845542499562725 сек.
+2026-06-05 22:40:52,758 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221617097?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=14
+2026-06-05 22:40:52,771 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221617097?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=14 | пропускаем
+2026-06-05 22:40:57,277 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222368751?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=15
+2026-06-05 22:40:58,831 - kolesa_parser.py - INFO - Получено объявление Audi Q3 7900000₸. id = 222368751 | затрачено 6.059477915987372 сек.
+2026-06-05 22:41:06,281 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221432945?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=16
+2026-06-05 22:41:07,908 - kolesa_parser.py - INFO - Получено объявление Audi SQ5 14000000₸. id = 221432945 | затрачено 9.076637709047645 сек.
+2026-06-05 22:41:13,756 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/174325634?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=17
+2026-06-05 22:41:15,146 - kolesa_parser.py - INFO - Получено объявление Audi A4 2300000₸. id = 174325634 | затрачено 7.238023624988273 сек.
+2026-06-05 22:41:20,097 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222299436?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=18
+2026-06-05 22:41:21,755 - kolesa_parser.py - INFO - Получено объявление Audi A6 3000000₸. id = 222299436 | затрачено 6.608923707972281 сек.
+2026-06-05 22:41:26,123 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/208309844?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=19
+2026-06-05 22:41:26,141 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/208309844?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=19
+2026-06-05 22:41:27,425 - kolesa_parser.py - INFO - Получено объявление Audi A6 2700000₸. id = 208309844 | затрачено 5.669608333031647 сек.
+2026-06-05 22:41:35,451 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221935774?search_id=e2df16db6a29d952312305d3b0556572ae9217ac&search_type=filter&advert_position=20
+2026-06-05 22:41:36,439 - kolesa_parser.py - INFO - Получено объявление Audi 80 4000000₸. id = 221935774 | затрачено 9.013688916922547 сек.
+2026-06-05 22:41:36,439 - kolesa_parser.py - INFO - Страница 1 (для AUDI) собрана | затрачено 159.6711547919549 сек.
+2026-06-05 22:41:39,275 - kolesa_parser.py - INFO - Получаем список объявлений для AUDI, страница: 2
+2026-06-05 22:41:41,488 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/audi/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=2 | пробуем еще раз
+2026-06-05 22:41:41,488 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:42:35,513 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/audi/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=2
+2026-06-05 22:42:35,515 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:42:35,516 - kolesa_parser.py - INFO - Получаем список объявлений для AUDI, страница: 3
+2026-06-05 22:42:36,616 - kolesa_parser.py - INFO - Открыта страница 3 | AUDI
+2026-06-05 22:42:36,699 - kolesa_parser.py - INFO - Получены карточек для страницы 3 | AUDI
+2026-06-05 22:42:41,618 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/214658269?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=41
+2026-06-05 22:42:41,633 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/214658269?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=41
+2026-06-05 22:42:43,309 - kolesa_parser.py - INFO - Получено объявление Audi A6 3000000₸. id = 214658269 | затрачено 6.609702708083205 сек.
+2026-06-05 22:42:49,093 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218439639?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=42
+2026-06-05 22:42:49,124 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/218439639?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=42 | пропускаем
+2026-06-05 22:42:56,158 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222065910?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=43
+2026-06-05 22:42:56,180 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222065910?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=43 | пропускаем
+2026-06-05 22:43:03,122 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222204455?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=44
+2026-06-05 22:43:03,976 - kolesa_parser.py - INFO - Получено объявление Audi Q5 5700000₸. id = 222204455 | затрачено 7.7960473749553785 сек.
+2026-06-05 22:43:08,756 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221752715?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=45
+2026-06-05 22:43:10,731 - kolesa_parser.py - INFO - Получено объявление Audi Q7 14800000₸. id = 221752715 | затрачено 6.754416832933202 сек.
+2026-06-05 22:43:18,789 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216166277?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=46
+2026-06-05 22:43:18,820 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/216166277?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=46
+2026-06-05 22:43:19,668 - kolesa_parser.py - INFO - Получено объявление Audi S7 24900000₸. id = 216166277 | затрачено 8.936562917078845 сек.
+2026-06-05 22:43:27,887 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219832025?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=47
+2026-06-05 22:43:29,157 - kolesa_parser.py - INFO - Получено объявление Audi A4 3000000₸. id = 219832025 | затрачено 9.489434250048362 сек.
+2026-06-05 22:43:34,174 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222124979?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=48
+2026-06-05 22:43:34,199 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222124979?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=48
+2026-06-05 22:43:35,304 - kolesa_parser.py - INFO - Получено объявление Audi A6 3000000₸. id = 222124979 | затрачено 6.1461061659501866 сек.
+2026-06-05 22:43:42,341 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222328771?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=49
+2026-06-05 22:43:43,679 - kolesa_parser.py - INFO - Получено объявление Audi A5 3200000₸. id = 222328771 | затрачено 8.374987999908626 сек.
+2026-06-05 22:43:50,739 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216550331?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=50
+2026-06-05 22:43:50,749 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/216550331?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=50 | пропускаем
+2026-06-05 22:43:56,984 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/202667585?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=51
+2026-06-05 22:43:57,008 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/202667585?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=51
+2026-06-05 22:43:58,246 - kolesa_parser.py - INFO - Получено объявление Audi A4 7300000₸. id = 202667585 | затрачено 7.4966722909593955 сек.
+2026-06-05 22:44:03,029 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221505244?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=52
+2026-06-05 22:44:03,059 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221505244?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=52 | пропускаем
+2026-06-05 22:44:11,496 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221712577?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=53
+2026-06-05 22:44:13,919 - kolesa_parser.py - INFO - Получено объявление Audi A6 6290000₸. id = 221712577 | затрачено 10.859973416896537 сек.
+2026-06-05 22:44:22,661 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222216897?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=54
+2026-06-05 22:44:24,258 - kolesa_parser.py - INFO - Получено объявление Audi A6 2300000₸. id = 222216897 | затрачено 10.338234125054441 сек.
+2026-06-05 22:44:30,148 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222171506?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=55
+2026-06-05 22:44:30,161 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222171506?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=55 | пропускаем
+2026-06-05 22:44:36,820 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221150823?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=56
+2026-06-05 22:44:36,844 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221150823?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=56 | пропускаем
+2026-06-05 22:44:42,464 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222334584?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=57
+2026-06-05 22:44:44,218 - kolesa_parser.py - INFO - Получено объявление Audi A6 allroad 4500000₸. id = 222334584 | затрачено 7.37429104198236 сек.
+2026-06-05 22:44:51,973 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219146549?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=58
+2026-06-05 22:44:53,221 - kolesa_parser.py - INFO - Получено объявление Audi A6 6000000₸. id = 219146549 | затрачено 9.003001707955264 сек.
+2026-06-05 22:44:59,309 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/205327035?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=59
+2026-06-05 22:45:00,336 - kolesa_parser.py - INFO - Получено объявление Audi Q8 32500000₸. id = 205327035 | затрачено 7.114892332931049 сек.
+2026-06-05 22:45:08,490 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/211245506?search_id=eb5ad84e17ccbdc9f72995125cc4fbf5ef0725cc&search_type=filter&advert_position=60
+2026-06-05 22:45:09,628 - kolesa_parser.py - INFO - Получено объявление Audi A6 2500000₸. id = 211245506 | затрачено 9.291841499973089 сек.
+2026-06-05 22:45:09,628 - kolesa_parser.py - INFO - Страница 3 (для AUDI) собрана | затрачено 154.1120021659881 сек.
+2026-06-05 22:45:14,607 - kolesa_parser.py - INFO - Получаем список объявлений для AUDI, страница: 4
+2026-06-05 22:45:17,322 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/audi/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=4 | пробуем еще раз
+2026-06-05 22:45:17,322 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:46:00,131 - kolesa_parser.py - INFO - Открыта страница 4 | AUDI
+2026-06-05 22:46:00,224 - kolesa_parser.py - INFO - Получены карточек для страницы 4 | AUDI
+2026-06-05 22:46:05,294 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222264693?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=61
+2026-06-05 22:46:05,314 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222264693?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=61
+2026-06-05 22:46:09,203 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/222264693?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=61 | попробуем еще раз
+2026-06-05 22:46:09,203 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:46:14,404 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/222264693?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=61 | попробуем еще раз
+2026-06-05 22:46:14,404 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:46:14,404 - kolesa_parser.py - INFO - Получено объявление Audi A6 2900000₸. id = 222264693 | затрачено 14.180360750062391 сек.
+2026-06-05 22:46:21,269 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/187365754?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=62
+2026-06-05 22:46:21,287 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/187365754?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=62 | пропускаем
+2026-06-05 22:46:28,452 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220394590?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=63
+2026-06-05 22:46:30,789 - kolesa_parser.py - INFO - Получено объявление Audi A6 3300000₸. id = 220394590 | затрачено 9.501133624929935 сек.
+2026-06-05 22:46:37,102 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222369263?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=64
+2026-06-05 22:46:38,497 - kolesa_parser.py - INFO - Получено объявление Audi 100 2000000₸. id = 222369263 | затрачено 7.707383709028363 сек.
+2026-06-05 22:46:42,945 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221691773?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=65
+2026-06-05 22:46:42,969 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221691773?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=65 | пропускаем
+2026-06-05 22:46:48,830 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222360854?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=66
+2026-06-05 22:46:48,854 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222360854?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=66 | пропускаем
+2026-06-05 22:46:56,250 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221690837?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=67
+2026-06-05 22:46:56,272 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221690837?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=67 | пропускаем
+2026-06-05 22:47:03,322 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221613478?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=68
+2026-06-05 22:47:04,567 - kolesa_parser.py - INFO - Получено объявление Audi A6 allroad 3500000₸. id = 221613478 | затрачено 8.294333291007206 сек.
+2026-06-05 22:47:11,032 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/185202730?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=69
+2026-06-05 22:47:11,055 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/185202730?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=69 | пропускаем
+2026-06-05 22:47:17,059 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/213758173?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=70
+2026-06-05 22:47:18,829 - kolesa_parser.py - INFO - Получено объявление Audi RS 6 45000000₸. id = 213758173 | затрачено 7.773707166081294 сек.
+2026-06-05 22:47:24,347 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220164908?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=71
+2026-06-05 22:47:24,375 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/220164908?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=71
+2026-06-05 22:47:25,818 - kolesa_parser.py - INFO - Получено объявление Audi Q8 27000000₸. id = 220164908 | затрачено 6.988044832949527 сек.
+2026-06-05 22:47:33,879 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222263346?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=72
+2026-06-05 22:47:33,894 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222263346?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=72
+2026-06-05 22:47:35,128 - kolesa_parser.py - INFO - Получено объявление Audi A8 16500000₸. id = 222263346 | затрачено 9.310542916995473 сек.
+2026-06-05 22:47:40,342 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218515372?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=73
+2026-06-05 22:47:41,734 - kolesa_parser.py - INFO - Получено объявление Audi A6 2700000₸. id = 218515372 | затрачено 6.605269332998432 сек.
+2026-06-05 22:47:46,654 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/209422160?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=74
+2026-06-05 22:47:46,682 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/209422160?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=74 | пропускаем
+2026-06-05 22:47:54,862 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/213731500?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=75
+2026-06-05 22:47:56,745 - kolesa_parser.py - INFO - Получено объявление Audi A4 3200000₸. id = 213731500 | затрачено 10.063185708946548 сек.
+2026-06-05 22:48:02,825 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222403231?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=76
+2026-06-05 22:48:02,848 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222403231?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=76 | пропускаем
+2026-06-05 22:48:10,453 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221939194?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=77
+2026-06-05 22:48:10,481 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221939194?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=77
+2026-06-05 22:48:11,989 - kolesa_parser.py - INFO - Получено объявление Audi A6 3890000₸. id = 221939194 | затрачено 9.13937683403492 сек.
+2026-06-05 22:48:16,995 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/194356481?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=78
+2026-06-05 22:48:18,276 - kolesa_parser.py - INFO - Получено объявление Audi Q7 5200000₸. id = 194356481 | затрачено 6.287332125008106 сек.
+2026-06-05 22:48:25,391 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222117242?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=79
+2026-06-05 22:48:25,402 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222117242?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=79
+2026-06-05 22:48:26,610 - kolesa_parser.py - INFO - Получено объявление Audi 100 2500000₸. id = 222117242 | затрачено 8.333249582909048 сек.
+2026-06-05 22:48:32,478 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217418795?search_id=9a3c2d4953324516f8355a74612df235e3c2053d&search_type=filter&advert_position=80
+2026-06-05 22:48:34,178 - kolesa_parser.py - INFO - Получено объявление Audi A6 2300000₸. id = 217418795 | затрачено 7.567764417035505 сек.
+2026-06-05 22:48:34,178 - kolesa_parser.py - INFO - Страница 4 (для AUDI) собрана | затрачено 199.5696981670335 сек.
+2026-06-05 22:48:36,593 - kolesa_parser.py - INFO - Получаем список объявлений для AUDI, страница: 5
+2026-06-05 22:48:38,161 - kolesa_parser.py - INFO - Открыта страница 5 | AUDI
+2026-06-05 22:48:38,245 - kolesa_parser.py - INFO - Получены карточек для страницы 5 | AUDI
+2026-06-05 22:48:44,848 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/198303020?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=81
+2026-06-05 22:48:48,655 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/198303020?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=81 | попробуем еще раз
+2026-06-05 22:48:48,655 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:48:52,768 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/198303020?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=81 | попробуем еще раз
+2026-06-05 22:48:52,771 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:48:52,771 - kolesa_parser.py - INFO - Получено объявление Audi A8 9000000₸. id = 198303020 | затрачено 14.526038999902084 сек.
+2026-06-05 22:49:00,638 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222091627?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=82
+2026-06-05 22:49:00,653 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222091627?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=82 | пропускаем
+2026-06-05 22:49:07,069 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221160143?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=83
+2026-06-05 22:49:07,090 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221160143?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=83 | пропускаем
+2026-06-05 22:49:12,759 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219042089?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=84
+2026-06-05 22:49:12,769 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/219042089?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=84
+2026-06-05 22:49:15,667 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/219042089?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=84 | попробуем еще раз
+2026-06-05 22:49:15,667 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:49:18,077 - kolesa_parser.py - INFO - Получено объявление Audi 100 2400000₸. id = 219042089 | затрачено 10.985791541985236 сек.
+2026-06-05 22:49:24,894 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221976771?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=85
+2026-06-05 22:49:25,021 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221976771?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=85 | пропускаем
+2026-06-05 22:49:29,642 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219321252?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=86
+2026-06-05 22:49:29,664 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/219321252?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=86 | пропускаем
+2026-06-05 22:49:34,687 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221177108?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=87
+2026-06-05 22:49:34,703 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221177108?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=87 | пропускаем
+2026-06-05 22:49:41,463 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221851725?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=88
+2026-06-05 22:49:41,483 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221851725?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=88 | пропускаем
+2026-06-05 22:49:46,596 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222384790?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=89
+2026-06-05 22:49:47,373 - kolesa_parser.py - INFO - Получено объявление Audi A6 3400000₸. id = 222384790 | затрачено 5.889885999960825 сек.
+2026-06-05 22:49:55,389 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222318747?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=90
+2026-06-05 22:49:55,408 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222318747?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=90 | пропускаем
+2026-06-05 22:50:00,531 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222362742?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=91
+2026-06-05 22:50:00,553 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222362742?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=91
+2026-06-05 22:50:02,356 - kolesa_parser.py - INFO - Получено объявление Audi A6 12400000₸. id = 222362742 | затрачено 6.947389791952446 сек.
+2026-06-05 22:50:09,609 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220504799?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=92
+2026-06-05 22:50:09,631 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/220504799?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=92
+2026-06-05 22:50:11,566 - kolesa_parser.py - INFO - Получено объявление Audi 100 2500000₸. id = 220504799 | затрачено 9.209454333060421 сек.
+2026-06-05 22:50:16,792 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220600538?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=93
+2026-06-05 22:50:16,806 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/220600538?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=93 | пропускаем
+2026-06-05 22:50:24,369 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221883143?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=94
+2026-06-05 22:50:25,723 - kolesa_parser.py - INFO - Получено объявление Audi A6 4100000₸. id = 221883143 | затрачено 8.916754125035368 сек.
+2026-06-05 22:50:30,733 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222200755?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=95
+2026-06-05 22:50:30,758 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222200755?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=95 | пропускаем
+2026-06-05 22:50:35,461 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219636677?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=96
+2026-06-05 22:50:35,481 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/219636677?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=96 | пропускаем
+2026-06-05 22:50:40,872 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222166733?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=97
+2026-06-05 22:50:40,899 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222166733?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=97 | пропускаем
+2026-06-05 22:50:47,754 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222098574?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=98
+2026-06-05 22:50:47,768 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222098574?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=98 | пропускаем
+2026-06-05 22:50:56,215 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220605450?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=99
+2026-06-05 22:50:57,862 - kolesa_parser.py - INFO - Получено объявление Audi A6 2000000₸. id = 220605450 | затрачено 10.092993791098706 сек.
+2026-06-05 22:51:05,806 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/180297138?search_id=90a8c78f0f5379c585187030ad9fe593a98bd8f1&search_type=filter&advert_position=100
+2026-06-05 22:51:07,313 - kolesa_parser.py - INFO - Получено объявление Audi Q7 45000000₸. id = 180297138 | затрачено 9.451215958106332 сек.
+2026-06-05 22:51:07,313 - kolesa_parser.py - INFO - Страница 5 (для AUDI) собрана | затрачено 150.7197294580983 сек.
+2026-06-05 22:51:09,540 - kolesa_parser.py - INFO - Датасет audi_1_5.csv для AUDI, страницы 1 - 5 собран | затрачено 732.7433833749965 сек.
+2026-06-05 22:51:09,540 - kolesa_parser.py - INFO - Объявлений без фото: 3
+2026-06-05 22:51:09,540 - kolesa_parser.py - INFO - Объявлений не собрано 0
+2026-06-05 22:54:56,240 - kolesa_parser.py - INFO - Выбранная марка: toyota | страницы: с 1 по 10
+2026-06-05 22:54:56,251 - kolesa_parser.py - INFO - Получаем список объявлений для TOYOTA, страница: 1
+2026-06-05 22:54:58,597 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/toyota/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000 | пробуем еще раз
+2026-06-05 22:54:58,597 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:55:38,145 - kolesa_parser.py - INFO - Открыта страница 1 | TOYOTA
+2026-06-05 22:55:38,239 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | TOYOTA
+2026-06-05 22:55:44,043 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222136300?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=1
+2026-06-05 22:55:44,071 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222136300?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=1
+2026-06-05 22:55:48,422 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/222136300?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=1 | попробуем еще раз
+2026-06-05 22:55:48,422 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:55:52,051 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/222136300?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=1 | попробуем еще раз
+2026-06-05 22:55:52,051 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:55:52,053 - kolesa_parser.py - INFO - Получено объявление Toyota Sequoia 19000000₸. id = 222136300 | затрачено 13.814547875081189 сек.
+2026-06-05 22:56:00,122 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221974049?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=2
+2026-06-05 22:56:00,147 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221974049?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=2
+2026-06-05 22:56:04,134 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/221974049?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=2 | попробуем еще раз
+2026-06-05 22:56:04,135 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:56:08,562 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/221974049?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=2 | попробуем еще раз
+2026-06-05 22:56:08,562 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:56:08,562 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 8000000₸. id = 221974049 | затрачено 16.508702583028935 сек.
+2026-06-05 22:56:15,129 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222337311?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=3
+2026-06-05 22:56:17,468 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 3000000₸. id = 222337311 | затрачено 8.905202542082407 сек.
+2026-06-05 22:56:25,251 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222201110?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=4
+2026-06-05 22:56:25,278 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222201110?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=4 | пропускаем
+2026-06-05 22:56:29,901 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217382109?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=5
+2026-06-05 22:56:29,915 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/217382109?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=5 | пропускаем
+2026-06-05 22:56:34,986 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222428316?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=6
+2026-06-05 22:56:35,001 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222428316?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=6 | пропускаем
+2026-06-05 22:56:43,027 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/208267508?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=7
+2026-06-05 22:56:45,066 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 3500000₸. id = 208267508 | затрачено 10.064892791910097 сек.
+2026-06-05 22:56:49,883 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222427957?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=8
+2026-06-05 22:56:49,897 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222427957?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=8 | пропускаем
+2026-06-05 22:56:55,883 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222427605?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=9
+2026-06-05 22:56:57,072 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 10000000₸. id = 222427605 | затрачено 7.17537191696465 сек.
+2026-06-05 22:57:01,598 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/211616241?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=10
+2026-06-05 22:57:02,545 - kolesa_parser.py - INFO - Получено объявление Toyota FJ Cruiser 14700000₸. id = 211616241 | затрачено 5.4732437080238014 сек.
+2026-06-05 22:57:09,161 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222427754?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=11
+2026-06-05 22:57:09,178 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222427754?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=11 | пропускаем
+2026-06-05 22:57:17,314 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/211617215?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=12
+2026-06-05 22:57:18,910 - kolesa_parser.py - INFO - Получено объявление Toyota FJ Cruiser 14700000₸. id = 211617215 | затрачено 9.73241512500681 сек.
+2026-06-05 22:57:27,025 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219510494?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=13
+2026-06-05 22:57:28,553 - kolesa_parser.py - INFO - Получено объявление Toyota 4Runner 13000000₸. id = 219510494 | затрачено 9.64154695905745 сек.
+2026-06-05 22:57:34,736 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217494156?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=14
+2026-06-05 22:57:34,759 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/217494156?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=14 | пропускаем
+2026-06-05 22:57:40,190 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222268819?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=15
+2026-06-05 22:57:41,998 - kolesa_parser.py - INFO - Получено объявление Toyota 4Runner 13000000₸. id = 222268819 | затрачено 7.23876220791135 сек.
+2026-06-05 22:57:46,655 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221745884?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=16
+2026-06-05 22:57:48,023 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 10000000₸. id = 221745884 | затрачено 6.024254624964669 сек.
+2026-06-05 22:57:54,833 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222056646?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=17
+2026-06-05 22:57:56,443 - kolesa_parser.py - INFO - Получено объявление Toyota RAV4 7000000₸. id = 222056646 | затрачено 8.419673707918264 сек.
+2026-06-05 22:58:03,859 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220988576?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=18
+2026-06-05 22:58:05,482 - kolesa_parser.py - INFO - Получено объявление Toyota RAV4 8500000₸. id = 220988576 | затрачено 9.03860633308068 сек.
+2026-06-05 22:58:13,208 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222033875?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=19
+2026-06-05 22:58:13,232 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222033875?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=19
+2026-06-05 22:58:16,236 - kolesa_parser.py - INFO - Получено объявление Toyota Highlander 16500000₸. id = 222033875 | затрачено 10.753545874962583 сек.
+2026-06-05 22:58:24,223 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221367713?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=20
+2026-06-05 22:58:24,283 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221367713?search_id=fc4417c3b8fed9cc16879deeed725cc5d3581684&search_type=filter&advert_position=20
+2026-06-05 22:58:25,419 - kolesa_parser.py - INFO - Получено объявление Toyota Avensis 4200000₸. id = 221367713 | затрачено 9.183457165956497 сек.
+2026-06-05 22:58:25,419 - kolesa_parser.py - INFO - Страница 1 (для TOYOTA) собрана | затрачено 209.16761245799717 сек.
+2026-06-05 22:58:29,284 - kolesa_parser.py - INFO - Получаем список объявлений для TOYOTA, страница: 2
+2026-06-05 22:58:30,609 - kolesa_parser.py - INFO - Открыта страница 2 | TOYOTA
+2026-06-05 22:58:30,697 - kolesa_parser.py - INFO - Получены карточек для страницы 2 | TOYOTA
+2026-06-05 22:58:37,946 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220988576?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=21
+2026-06-05 22:58:47,173 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/220988576?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=21 | попробуем еще раз
+2026-06-05 22:58:47,174 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 8002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:58:55,804 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/220988576?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=21 | попробуем еще раз
+2026-06-05 22:58:55,804 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 8002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 22:58:55,805 - kolesa_parser.py - INFO - Получено объявление Toyota RAV4 8500000₸. id = 220988576 | затрачено 25.10687941708602 сек.
+2026-06-05 22:59:05,591 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222033875?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=22
+2026-06-05 22:59:05,604 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222033875?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=22
+2026-06-05 22:59:07,786 - kolesa_parser.py - INFO - Получено объявление Toyota Highlander 16500000₸. id = 222033875 | затрачено 11.980921000009403 сек.
+2026-06-05 22:59:12,760 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221367713?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=23
+2026-06-05 22:59:12,777 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221367713?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=23
+2026-06-05 22:59:14,121 - kolesa_parser.py - INFO - Получено объявление Toyota Avensis 4200000₸. id = 221367713 | затрачено 6.334496750030667 сек.
+2026-06-05 22:59:23,602 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222425465?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=24
+2026-06-05 22:59:23,626 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222425465?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=24 | пропускаем
+2026-06-05 22:59:31,602 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221082501?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=25
+2026-06-05 22:59:31,624 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221082501?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=25
+2026-06-05 22:59:33,082 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 5150000₸. id = 221082501 | затрачено 9.456082958029583 сек.
+2026-06-05 22:59:41,535 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217199687?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=26
+2026-06-05 22:59:41,557 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/217199687?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=26
+2026-06-05 22:59:43,033 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 11900000₸. id = 217199687 | затрачено 9.949935792014003 сек.
+2026-06-05 22:59:48,907 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222057555?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=27
+2026-06-05 22:59:50,597 - kolesa_parser.py - INFO - Получено объявление Toyota RAV4 7800000₸. id = 222057555 | затрачено 7.564285959000699 сек.
+2026-06-05 22:59:57,326 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219399150?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=28
+2026-06-05 22:59:57,353 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/219399150?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=28
+2026-06-05 22:59:58,965 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 7400000₸. id = 219399150 | затрачено 8.367067042039707 сек.
+2026-06-05 23:00:04,763 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222421615?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=29
+2026-06-05 23:00:06,068 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 14300000₸. id = 222421615 | затрачено 7.10295008297544 сек.
+2026-06-05 23:00:13,766 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/197067224?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=30
+2026-06-05 23:00:16,144 - kolesa_parser.py - INFO - Получено объявление Toyota Estima 5700000₸. id = 197067224 | затрачено 10.07619424990844 сек.
+2026-06-05 23:00:24,556 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222282778?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=31
+2026-06-05 23:00:24,578 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222282778?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=31
+2026-06-05 23:00:25,678 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 22900000₸. id = 222282778 | затрачено 9.533861250034533 сек.
+2026-06-05 23:00:31,116 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221182764?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=32
+2026-06-05 23:00:32,386 - kolesa_parser.py - INFO - Получено объявление Toyota Mark II 2450000₸. id = 221182764 | затрачено 6.707022583927028 сек.
+2026-06-05 23:00:38,059 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221976782?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=33
+2026-06-05 23:00:38,069 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221976782?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=33 | пропускаем
+2026-06-05 23:00:45,249 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222229378?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=34
+2026-06-05 23:00:45,269 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222229378?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=34 | пропускаем
+2026-06-05 23:00:54,172 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/210709973?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=35
+2026-06-05 23:00:55,262 - kolesa_parser.py - INFO - Получено объявление Toyota Highlander 6250000₸. id = 210709973 | затрачено 9.993016207939945 сек.
+2026-06-05 23:01:02,561 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222424749?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=36
+2026-06-05 23:01:02,585 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222424749?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=36
+2026-06-05 23:01:03,992 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 4900000₸. id = 222424749 | затрачено 8.729659082950093 сек.
+2026-06-05 23:01:11,671 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220625805?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=37
+2026-06-05 23:01:11,694 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/220625805?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=37
+2026-06-05 23:01:13,184 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser 19800000₸. id = 220625805 | затрачено 9.191764333983883 сек.
+2026-06-05 23:01:20,864 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/215822908?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=38
+2026-06-05 23:01:21,796 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser 41000000₸. id = 215822908 | затрачено 8.610915124998428 сек.
+2026-06-05 23:01:28,458 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/200919473?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=39
+2026-06-05 23:01:30,086 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 7900000₸. id = 200919473 | затрачено 8.290131750050932 сек.
+2026-06-05 23:01:35,916 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222202610?search_id=f3ed7009195bed737291b8fd291b72c92fd69f7d&search_type=filter&advert_position=40
+2026-06-05 23:01:37,211 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 8000000₸. id = 222202610 | затрачено 7.124031417071819 сек.
+2026-06-05 23:01:37,211 - kolesa_parser.py - INFO - Страница 2 (для TOYOTA) собрана | затрачено 187.92571199999657 сек.
+2026-06-05 23:01:40,413 - kolesa_parser.py - INFO - Получаем список объявлений для TOYOTA, страница: 3
+2026-06-05 23:01:42,825 - kolesa_parser.py - INFO - Открыта страница 3 | TOYOTA
+2026-06-05 23:01:42,899 - kolesa_parser.py - INFO - Получены карточек для страницы 3 | TOYOTA
+2026-06-05 23:01:49,951 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222202610?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=41
+2026-06-05 23:01:53,981 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 8000000₸. id = 222202610 | затрачено 11.08201245800592 сек.
+2026-06-05 23:02:00,788 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221342178?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=42
+2026-06-05 23:02:02,343 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 4000000₸. id = 221342178 | затрачено 8.361356709036045 сек.
+2026-06-05 23:02:06,966 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221919059?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=43
+2026-06-05 23:02:06,984 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221919059?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=43
+2026-06-05 23:02:08,203 - kolesa_parser.py - INFO - Получено объявление Toyota Highlander 37500000₸. id = 221919059 | затрачено 5.8593972499947995 сек.
+2026-06-05 23:02:12,883 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222050052?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=44
+2026-06-05 23:02:14,428 - kolesa_parser.py - INFO - Получено объявление Toyota Ipsum 3200000₸. id = 222050052 | затрачено 6.22476374998223 сек.
+2026-06-05 23:02:22,509 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222180502?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=45
+2026-06-05 23:02:22,527 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222180502?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=45 | пропускаем
+2026-06-05 23:02:30,098 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217389456?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=46
+2026-06-05 23:02:31,526 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 14000000₸. id = 217389456 | затрачено 8.999089458025992 сек.
+2026-06-05 23:02:36,462 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221435375?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=47
+2026-06-05 23:02:38,086 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser 42000000₸. id = 221435375 | затрачено 6.559506250079721 сек.
+2026-06-05 23:02:44,935 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222424021?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=48
+2026-06-05 23:02:46,453 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 11000000₸. id = 222424021 | затрачено 8.367023375001736 сек.
+2026-06-05 23:02:54,669 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220625586?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=49
+2026-06-05 23:02:55,750 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 14700000₸. id = 220625586 | затрачено 9.295943666948006 сек.
+2026-06-05 23:03:03,090 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217724215?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=50
+2026-06-05 23:03:04,468 - kolesa_parser.py - INFO - Получено объявление Toyota RAV4 8800000₸. id = 217724215 | затрачено 8.717723082983866 сек.
+2026-06-05 23:03:10,651 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222422449?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=51
+2026-06-05 23:03:12,545 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser 12900000₸. id = 222422449 | затрачено 8.077436999999918 сек.
+2026-06-05 23:03:18,594 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219762282?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=52
+2026-06-05 23:03:18,616 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/219762282?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=52 | пропускаем
+2026-06-05 23:03:24,647 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221833797?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=53
+2026-06-05 23:03:24,675 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221833797?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=53 | пропускаем
+2026-06-05 23:03:30,708 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221841850?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=54
+2026-06-05 23:03:32,002 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 17500000₸. id = 221841850 | затрачено 7.326557625085115 сек.
+2026-06-05 23:03:39,514 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222278974?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=55
+2026-06-05 23:03:41,052 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 5500000₸. id = 222278974 | затрачено 9.049999167094938 сек.
+2026-06-05 23:03:46,479 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222079446?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=56
+2026-06-05 23:03:48,243 - kolesa_parser.py - INFO - Получено объявление Toyota RAV4 13555000₸. id = 222079446 | затрачено 7.190269791055471 сек.
+2026-06-05 23:03:53,645 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222327112?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=57
+2026-06-05 23:03:55,689 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 11300000₸. id = 222327112 | затрачено 7.4457861670525745 сек.
+2026-06-05 23:04:00,340 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220904851?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=58
+2026-06-05 23:04:00,371 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/220904851?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=58 | пропускаем
+2026-06-05 23:04:06,244 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222423363?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=59
+2026-06-05 23:04:07,269 - kolesa_parser.py - INFO - Получено объявление Toyota Corolla 6600000₸. id = 222423363 | затрачено 6.8971713749924675 сек.
+2026-06-05 23:04:13,921 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221975773?search_id=3431cba8e1fbff3b9cd25e5ea8480c9150222c05&search_type=filter&advert_position=60
+2026-06-05 23:04:14,978 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 23900000₸. id = 221975773 | затрачено 7.708905291976407 сек.
+2026-06-05 23:04:14,978 - kolesa_parser.py - INFO - Страница 3 (для TOYOTA) собрана | затрачено 154.56452329200692 сек.
+2026-06-05 23:04:17,181 - kolesa_parser.py - INFO - Получаем список объявлений для TOYOTA, страница: 4
+2026-06-05 23:04:19,731 - kolesa_parser.py - INFO - Открыта страница 4 | TOYOTA
+2026-06-05 23:04:19,867 - kolesa_parser.py - INFO - Получены карточек для страницы 4 | TOYOTA
+2026-06-05 23:04:27,749 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218418725?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=61
+2026-06-05 23:04:27,773 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/218418725?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=61 | пропускаем
+2026-06-05 23:04:35,850 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222422853?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=62
+2026-06-05 23:04:38,300 - kolesa_parser.py - INFO - Получено объявление Toyota Alphard 5000000₸. id = 222422853 | затрачено 10.527228082995862 сек.
+2026-06-05 23:04:45,728 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/214346968?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=63
+2026-06-05 23:04:47,955 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 4100000₸. id = 214346968 | затрачено 9.654622625093907 сек.
+2026-06-05 23:04:55,188 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221091741?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=64
+2026-06-05 23:04:55,200 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221091741?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=64 | пропускаем
+2026-06-05 23:05:02,583 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221946011?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=65
+2026-06-05 23:05:02,606 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221946011?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=65
+2026-06-05 23:05:04,089 - kolesa_parser.py - INFO - Получено объявление Toyota RAV4 14500000₸. id = 221946011 | затрачено 8.88840966601856 сек.
+2026-06-05 23:05:11,368 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218496562?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=66
+2026-06-05 23:05:12,215 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 4650000₸. id = 218496562 | затрачено 8.12548649997916 сек.
+2026-06-05 23:05:20,202 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/215824027?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=67
+2026-06-05 23:05:20,225 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/215824027?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=67 | пропускаем
+2026-06-05 23:05:28,375 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218399677?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=68
+2026-06-05 23:05:29,373 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 6300000₸. id = 218399677 | затрачено 9.147491917014122 сек.
+2026-06-05 23:05:37,481 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/203766303?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=69
+2026-06-05 23:05:38,365 - kolesa_parser.py - INFO - Получено объявление Toyota Alphard 7635000₸. id = 203766303 | затрачено 8.99148433294613 сек.
+2026-06-05 23:05:46,397 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222421303?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=70
+2026-06-05 23:05:47,943 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 8300000₸. id = 222421303 | затрачено 9.577929583960213 сек.
+2026-06-05 23:05:55,693 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222371021?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=71
+2026-06-05 23:05:56,583 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 6500000₸. id = 222371021 | затрачено 8.639778792043217 сек.
+2026-06-05 23:06:03,452 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220017783?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=72
+2026-06-05 23:06:04,682 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 3800000₸. id = 220017783 | затрачено 8.098968166974373 сек.
+2026-06-05 23:06:12,675 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/185753914?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=73
+2026-06-05 23:06:14,222 - kolesa_parser.py - INFO - Получено объявление Toyota Corolla 3100000₸. id = 185753914 | затрачено 9.540195250068791 сек.
+2026-06-05 23:06:20,004 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222024870?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=74
+2026-06-05 23:06:21,127 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser 24500000₸. id = 222024870 | затрачено 6.904259167029522 сек.
+2026-06-05 23:06:27,097 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221525292?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=75
+2026-06-05 23:06:28,203 - kolesa_parser.py - INFO - Получено объявление Toyota Crown Majesta 5000000₸. id = 221525292 | затрачено 7.075321666081436 сек.
+2026-06-05 23:06:34,919 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222125679?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=76
+2026-06-05 23:06:34,931 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222125679?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=76 | пропускаем
+2026-06-05 23:06:43,280 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/214381188?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=77
+2026-06-05 23:06:44,566 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 13000000₸. id = 214381188 | затрачено 9.635375833022408 сек.
+2026-06-05 23:06:50,698 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222421019?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=78
+2026-06-05 23:06:51,989 - kolesa_parser.py - INFO - Получено объявление Toyota Avensis 4000000₸. id = 222421019 | затрачено 7.422320457990281 сек.
+2026-06-05 23:06:57,769 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222084083?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=79
+2026-06-05 23:06:59,201 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 7300000₸. id = 222084083 | затрачено 7.2118870000122115 сек.
+2026-06-05 23:07:05,960 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222420469?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=80
+2026-06-05 23:07:05,969 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222420469?search_id=d1bb7a866532cd04d726a2f4a0bf6b644b0c089c&search_type=filter&advert_position=80
+2026-06-05 23:07:07,233 - kolesa_parser.py - INFO - Получено объявление Toyota Mark X 3500000₸. id = 222420469 | затрачено 8.03134254203178 сек.
+2026-06-05 23:07:07,233 - kolesa_parser.py - INFO - Страница 4 (для TOYOTA) собрана | затрачено 170.0509920839686 сек.
+2026-06-05 23:07:11,760 - kolesa_parser.py - INFO - Получаем список объявлений для TOYOTA, страница: 5
+2026-06-05 23:07:13,360 - kolesa_parser.py - INFO - Открыта страница 5 | TOYOTA
+2026-06-05 23:07:13,443 - kolesa_parser.py - INFO - Получены карточек для страницы 5 | TOYOTA
+2026-06-05 23:07:21,962 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221731195?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=81
+2026-06-05 23:07:21,978 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221731195?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=81 | пропускаем
+2026-06-05 23:07:28,171 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222276569?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=82
+2026-06-05 23:07:28,188 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222276569?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=82
+2026-06-05 23:07:29,748 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 23690000₸. id = 222276569 | затрачено 7.769640290993266 сек.
+2026-06-05 23:07:35,960 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221586908?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=83
+2026-06-05 23:07:35,987 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221586908?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=83 | пропускаем
+2026-06-05 23:07:42,616 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218069035?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=84
+2026-06-05 23:07:42,640 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/218069035?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=84
+2026-06-05 23:07:44,478 - kolesa_parser.py - INFO - Получено объявление Toyota Progres 7000000₸. id = 218069035 | затрачено 8.490840708022006 сек.
+2026-06-05 23:07:49,782 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222419631?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=85
+2026-06-05 23:07:49,808 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222419631?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=85 | пропускаем
+2026-06-05 23:07:57,258 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/160638755?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=86
+2026-06-05 23:07:57,268 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/160638755?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=86 | пропускаем
+2026-06-05 23:08:04,683 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/203049942?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=87
+2026-06-05 23:08:06,316 - kolesa_parser.py - INFO - Получено объявление Toyota RAV4 8500000₸. id = 203049942 | затрачено 9.047710874932818 сек.
+2026-06-05 23:08:14,565 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222419666?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=88
+2026-06-05 23:08:14,589 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222419666?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=88 | пропускаем
+2026-06-05 23:08:19,947 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222419268?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=89
+2026-06-05 23:08:19,972 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222419268?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=89
+2026-06-05 23:08:21,952 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser 27500000₸. id = 222419268 | затрачено 7.362013333942741 сек.
+2026-06-05 23:08:27,775 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222419688?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=90
+2026-06-05 23:08:28,791 - kolesa_parser.py - INFO - Получено объявление Toyota Corolla 9200000₸. id = 222419688 | затрачено 6.83882095804438 сек.
+2026-06-05 23:08:36,944 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/162240308?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=91
+2026-06-05 23:08:36,967 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/162240308?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=91 | пропускаем
+2026-06-05 23:08:43,544 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218373481?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=92
+2026-06-05 23:08:43,556 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/218373481?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=92 | пропускаем
+2026-06-05 23:08:49,904 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216565427?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=93
+2026-06-05 23:08:50,830 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser 36000000₸. id = 216565427 | затрачено 7.274293291964568 сек.
+2026-06-05 23:08:57,320 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222419575?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=94
+2026-06-05 23:08:58,634 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 7000000₸. id = 222419575 | затрачено 7.803182750009 сек.
+2026-06-05 23:09:05,663 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222419024?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=95
+2026-06-05 23:09:05,677 - kolesa_parser.py - ERROR - Ошибка получение ссылки для фото для объявления https://kolesa.kz/a/show/222419024?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=95 | пропускаем
+2026-06-05 23:09:05,677 - kolesa_parser.py - ERROR - 'NoneType' object has no attribute 'find'
+2026-06-05 23:09:05,679 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser 23000000₸. id = 222419024 | затрачено 7.045181332970969 сек.
+2026-06-05 23:09:12,524 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221686374?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=96
+2026-06-05 23:09:13,665 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 4800000₸. id = 221686374 | затрачено 7.985470333020203 сек.
+2026-06-05 23:09:20,922 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220059118?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=97
+2026-06-05 23:09:20,944 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/220059118?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=97
+2026-06-05 23:09:22,023 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 5300000₸. id = 220059118 | затрачено 8.35762166697532 сек.
+2026-06-05 23:09:30,343 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/194882707?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=98
+2026-06-05 23:09:31,966 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 11000000₸. id = 194882707 | затрачено 9.943281917017885 сек.
+2026-06-05 23:09:38,052 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220877617?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=99
+2026-06-05 23:09:39,805 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 11800000₸. id = 220877617 | затрачено 7.838474582997151 сек.
+2026-06-05 23:09:47,545 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221970439?search_id=53c7b0a967ea03d1136f3e604850a43dc30ca002&search_type=filter&advert_position=100
+2026-06-05 23:09:48,974 - kolesa_parser.py - INFO - Получено объявление Toyota RAV4 14000000₸. id = 221970439 | затрачено 9.169050374999642 сек.
+2026-06-05 23:09:48,975 - kolesa_parser.py - INFO - Страница 5 (для TOYOTA) собрана | затрачено 157.21395662496798 сек.
+2026-06-05 23:09:53,165 - kolesa_parser.py - INFO - Получаем список объявлений для TOYOTA, страница: 6
+2026-06-05 23:09:57,171 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/toyota/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=6 | пробуем еще раз
+2026-06-05 23:09:57,171 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 23:10:35,309 - kolesa_parser.py - INFO - Открыта страница 6 | TOYOTA
+2026-06-05 23:10:35,408 - kolesa_parser.py - INFO - Получены карточек для страницы 6 | TOYOTA
+2026-06-05 23:10:40,363 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/208200975?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=101
+2026-06-05 23:10:43,265 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 13500000₸. id = 208200975 | затрачено 7.856916250078939 сек.
+2026-06-05 23:10:50,318 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222189817?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=102
+2026-06-05 23:10:51,790 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 10300000₸. id = 222189817 | затрачено 8.52476012497209 сек.
+2026-06-05 23:10:57,255 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221499817?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=103
+2026-06-05 23:10:58,850 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser 11500000₸. id = 221499817 | затрачено 7.059824249939993 сек.
+2026-06-05 23:11:06,101 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219364348?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=104
+2026-06-05 23:11:06,116 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/219364348?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=104 | пропускаем
+2026-06-05 23:11:13,961 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/184938398?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=105
+2026-06-05 23:11:15,826 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 14500000₸. id = 184938398 | затрачено 9.70963387505617 сек.
+2026-06-05 23:11:21,843 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222419501?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=106
+2026-06-05 23:11:21,864 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222419501?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=106
+2026-06-05 23:11:23,600 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 5300000₸. id = 222419501 | затрачено 7.773649208014831 сек.
+2026-06-05 23:11:29,365 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222011485?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=107
+2026-06-05 23:11:30,499 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 18600000₸. id = 222011485 | затрачено 6.899139375076629 сек.
+2026-06-05 23:11:36,501 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216248060?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=108
+2026-06-05 23:11:37,619 - kolesa_parser.py - INFO - Получено объявление Toyota Rush 8500000₸. id = 216248060 | затрачено 7.119430875056423 сек.
+2026-06-05 23:11:45,367 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221701173?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=109
+2026-06-05 23:11:45,381 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221701173?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=109
+2026-06-05 23:11:47,118 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 6200000₸. id = 221701173 | затрачено 9.498175624990836 сек.
+2026-06-05 23:11:54,604 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/215570127?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=110
+2026-06-05 23:11:55,595 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 6100000₸. id = 215570127 | затрачено 8.476427708053961 сек.
+2026-06-05 23:12:02,816 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221911997?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=111
+2026-06-05 23:12:03,684 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 12000000₸. id = 221911997 | затрачено 8.088638041983359 сек.
+2026-06-05 23:12:10,907 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/181050350?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=112
+2026-06-05 23:12:10,932 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/181050350?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=112
+2026-06-05 23:12:12,880 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 10000000₸. id = 181050350 | затрачено 9.196041332907043 сек.
+2026-06-05 23:12:19,305 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222172833?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=113
+2026-06-05 23:12:20,252 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 16000000₸. id = 222172833 | затрачено 7.37137845903635 сек.
+2026-06-05 23:12:27,605 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/179349799?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=114
+2026-06-05 23:12:28,842 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser 9200000₸. id = 179349799 | затрачено 8.589114500093274 сек.
+2026-06-05 23:12:36,263 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221456310?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=115
+2026-06-05 23:12:36,287 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221456310?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=115
+2026-06-05 23:12:37,493 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 11900000₸. id = 221456310 | затрачено 8.651253334013745 сек.
+2026-06-05 23:12:44,079 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221407713?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=116
+2026-06-05 23:12:45,211 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 2200000₸. id = 221407713 | затрачено 7.718116292031482 сек.
+2026-06-05 23:12:49,977 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217616954?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=117
+2026-06-05 23:12:50,005 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/217616954?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=117
+2026-06-05 23:12:51,445 - kolesa_parser.py - INFO - Получено объявление Toyota Alphard 13500000₸. id = 217616954 | затрачено 6.233152207918465 сек.
+2026-06-05 23:12:57,823 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222220235?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=118
+2026-06-05 23:12:59,204 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 30000000₸. id = 222220235 | затрачено 7.758544125012122 сек.
+2026-06-05 23:13:05,076 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222171419?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=119
+2026-06-05 23:13:06,730 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 12490000₸. id = 222171419 | затрачено 7.525575374951586 сек.
+2026-06-05 23:13:13,008 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220964427?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=120
+2026-06-05 23:13:13,031 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/220964427?search_id=7534506736d74bdf99a2289c0e98d8015c3fb5fa&search_type=filter&advert_position=120 | пропускаем
+2026-06-05 23:13:13,032 - kolesa_parser.py - INFO - Страница 6 (для TOYOTA) собрана | затрачено 199.8657890839968 сек.
+2026-06-05 23:13:16,088 - kolesa_parser.py - INFO - Получаем список объявлений для TOYOTA, страница: 7
+2026-06-05 23:13:20,928 - kolesa_parser.py - INFO - Открыта страница 7 | TOYOTA
+2026-06-05 23:13:21,015 - kolesa_parser.py - INFO - Получены карточек для страницы 7 | TOYOTA
+2026-06-05 23:13:27,176 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219370316?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=121
+2026-06-05 23:13:29,160 - kolesa_parser.py - INFO - Получено объявление Toyota Avalon 2500000₸. id = 219370316 | затрачено 8.14992662507575 сек.
+2026-06-05 23:13:34,731 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222417771?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=122
+2026-06-05 23:13:36,516 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 6400000₸. id = 222417771 | затрачено 7.360448874998838 сек.
+2026-06-05 23:13:43,259 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222415724?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=123
+2026-06-05 23:13:43,284 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222415724?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=123 | пропускаем
+2026-06-05 23:13:50,459 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222408263?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=124
+2026-06-05 23:13:52,703 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 7500000₸. id = 222408263 | затрачено 9.421519082970917 сек.
+2026-06-05 23:13:59,071 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222071952?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=125
+2026-06-05 23:13:59,095 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222071952?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=125 | пропускаем
+2026-06-05 23:14:05,582 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222068474?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=126
+2026-06-05 23:14:07,219 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser 30990000₸. id = 222068474 | затрачено 8.124207832966931 сек.
+2026-06-05 23:14:12,671 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222067765?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=127
+2026-06-05 23:14:14,387 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 14390000₸. id = 222067765 | затрачено 7.1685322499834 сек.
+2026-06-05 23:14:22,682 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221237628?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=128
+2026-06-05 23:14:22,693 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221237628?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=128 | пропускаем
+2026-06-05 23:14:30,971 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219626052?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=129
+2026-06-05 23:14:30,995 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/219626052?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=129
+2026-06-05 23:14:31,741 - kolesa_parser.py - INFO - Получено объявление Toyota Alphard 13500000₸. id = 219626052 | затрачено 9.048174584051594 сек.
+2026-06-05 23:14:37,631 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222416975?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=130
+2026-06-05 23:14:39,298 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 6400000₸. id = 222416975 | затрачено 7.557608665898442 сек.
+2026-06-05 23:14:45,927 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221657737?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=131
+2026-06-05 23:14:47,463 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 12800000₸. id = 221657737 | затрачено 8.16441708302591 сек.
+2026-06-05 23:14:52,992 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221887796?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=132
+2026-06-05 23:14:54,221 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 8400000₸. id = 221887796 | затрачено 6.757212458061986 сек.
+2026-06-05 23:15:00,493 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222350649?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=133
+2026-06-05 23:15:02,208 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser 31500000₸. id = 222350649 | затрачено 7.987406291998923 сек.
+2026-06-05 23:15:09,172 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222269591?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=134
+2026-06-05 23:15:10,616 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 44000000₸. id = 222269591 | затрачено 8.407318540965207 сек.
+2026-06-05 23:15:16,749 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/209316078?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=135
+2026-06-05 23:15:18,174 - kolesa_parser.py - INFO - Получено объявление Toyota RAV4 8500000₸. id = 209316078 | затрачено 7.55741670797579 сек.
+2026-06-05 23:15:25,046 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/215128847?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=136
+2026-06-05 23:15:26,543 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 12000000₸. id = 215128847 | затрачено 8.369088749983348 сек.
+2026-06-05 23:15:34,496 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/215858063?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=137
+2026-06-05 23:15:35,594 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 7800000₸. id = 215858063 | затрачено 9.050176874967292 сек.
+2026-06-05 23:15:42,057 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221966063?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=138
+2026-06-05 23:15:42,068 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221966063?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=138
+2026-06-05 23:15:43,528 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 25000000₸. id = 221966063 | затрачено 7.9337019169470295 сек.
+2026-06-05 23:15:51,263 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221153331?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=139
+2026-06-05 23:15:53,317 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 13000000₸. id = 221153331 | затрачено 9.789275874965824 сек.
+2026-06-05 23:16:01,698 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222416883?search_id=95b145fb2d4f98dd85dd9df853e83bf5aa116f35&search_type=filter&advert_position=140
+2026-06-05 23:16:03,804 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 5150000₸. id = 222416883 | затрачено 10.48658212495502 сек.
+2026-06-05 23:16:03,805 - kolesa_parser.py - INFO - Страница 7 (для TOYOTA) собрана | затрачено 167.73304258298595 сек.
+2026-06-05 23:16:08,126 - kolesa_parser.py - INFO - Получаем список объявлений для TOYOTA, страница: 8
+2026-06-05 23:16:10,405 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/toyota/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=8 | пробуем еще раз
+2026-06-05 23:16:10,405 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 23:16:55,681 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/toyota/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=8
+2026-06-05 23:16:55,682 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 23:16:55,682 - kolesa_parser.py - INFO - Получаем список объявлений для TOYOTA, страница: 9
+2026-06-05 23:16:57,111 - kolesa_parser.py - INFO - Открыта страница 9 | TOYOTA
+2026-06-05 23:16:57,216 - kolesa_parser.py - INFO - Получены карточек для страницы 9 | TOYOTA
+2026-06-05 23:17:04,591 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222200205?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=161
+2026-06-05 23:17:08,767 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/222200205?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=161 | попробуем еще раз
+2026-06-05 23:17:08,768 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 23:17:11,517 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 9800000₸. id = 222200205 | затрачено 14.30041229201015 сек.
+2026-06-05 23:17:18,828 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222414012?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=162
+2026-06-05 23:17:19,846 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 11300000₸. id = 222414012 | затрачено 8.328949250048026 сек.
+2026-06-05 23:17:25,890 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221898708?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=163
+2026-06-05 23:17:27,483 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 7300000₸. id = 221898708 | затрачено 7.636176042025909 сек.
+2026-06-05 23:17:34,413 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222407804?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=164
+2026-06-05 23:17:35,347 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 5200000₸. id = 222407804 | затрачено 7.863846749998629 сек.
+2026-06-05 23:17:40,802 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/206571464?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=165
+2026-06-05 23:17:40,821 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/206571464?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=165
+2026-06-05 23:17:42,594 - kolesa_parser.py - INFO - Получено объявление Toyota Estima 7000000₸. id = 206571464 | затрачено 7.246733417036012 сек.
+2026-06-05 23:17:49,838 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221480378?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=166
+2026-06-05 23:17:51,329 - kolesa_parser.py - INFO - Получено объявление Toyota Alphard 40000000₸. id = 221480378 | затрачено 8.735553542035632 сек.
+2026-06-05 23:17:59,516 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221121176?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=167
+2026-06-05 23:18:01,015 - kolesa_parser.py - INFO - Получено объявление Toyota RAV4 3750000₸. id = 221121176 | затрачено 9.685691292048432 сек.
+2026-06-05 23:18:07,035 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222383814?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=168
+2026-06-05 23:18:08,615 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 5000000₸. id = 222383814 | затрачено 7.59890062501654 сек.
+2026-06-05 23:18:15,353 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222378182?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=169
+2026-06-05 23:18:15,458 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222378182?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=169
+2026-06-05 23:18:16,622 - kolesa_parser.py - INFO - Получено объявление Toyota RAV4 11800000₸. id = 222378182 | затрачено 8.0067486660555 сек.
+2026-06-05 23:18:23,983 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/200237503?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=170
+2026-06-05 23:18:25,825 - kolesa_parser.py - INFO - Получено объявление Toyota Mark II 3000000₸. id = 200237503 | затрачено 9.203499458963051 сек.
+2026-06-05 23:18:32,233 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/191268870?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=171
+2026-06-05 23:18:33,584 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser 23500000₸. id = 191268870 | затрачено 7.758468915941194 сек.
+2026-06-05 23:18:41,892 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/195442433?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=172
+2026-06-05 23:18:41,902 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/195442433?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=172
+2026-06-05 23:18:43,117 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser 11300000₸. id = 195442433 | затрачено 9.53299275005702 сек.
+2026-06-05 23:18:47,432 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220191251?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=173
+2026-06-05 23:18:47,454 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/220191251?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=173
+2026-06-05 23:18:48,642 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 4500000₸. id = 220191251 | затрачено 5.52477533405181 сек.
+2026-06-05 23:18:54,201 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222303681?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=174
+2026-06-05 23:18:55,886 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 13850000₸. id = 222303681 | затрачено 7.243334374972619 сек.
+2026-06-05 23:19:05,519 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/211880901?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=175
+2026-06-05 23:19:07,178 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 6200000₸. id = 211880901 | затрачено 11.291555375093594 сек.
+2026-06-05 23:19:26,411 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/221365481?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=176
+2026-06-05 23:19:26,411 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Operation timed out after 12003 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 23:19:42,980 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/193232130?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=177
+2026-06-05 23:19:42,982 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Operation timed out after 12002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 23:20:02,641 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/222315887?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=178
+2026-06-05 23:20:02,641 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Operation timed out after 12002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 23:20:12,084 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/204061187?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=179
+2026-06-05 23:20:15,450 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/204061187?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=179 | попробуем еще раз
+2026-06-05 23:20:15,451 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 23:20:17,336 - kolesa_parser.py - INFO - Получено объявление Toyota RAV4 14000000₸. id = 204061187 | затрачено 14.694450584007427 сек.
+2026-06-05 23:20:21,828 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222297129?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=180
+2026-06-05 23:20:21,849 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222297129?search_id=3364be09f12c827e7774dfe0084e0229f51ab241&search_type=filter&advert_position=180
+2026-06-05 23:20:23,032 - kolesa_parser.py - INFO - Получено объявление Toyota Sienna 6999999₸. id = 222297129 | затрачено 5.695839292020537 сек.
+2026-06-05 23:20:23,032 - kolesa_parser.py - INFO - Страница 9 (для TOYOTA) собрана | затрачено 207.35024562501349 сек.
+2026-06-05 23:20:26,093 - kolesa_parser.py - INFO - Получаем список объявлений для TOYOTA, страница: 10
+2026-06-05 23:20:28,422 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/toyota/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=10 | пробуем еще раз
+2026-06-05 23:20:28,423 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 23:21:24,580 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/toyota/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=10
+2026-06-05 23:21:24,581 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 23:21:24,617 - kolesa_parser.py - INFO - Датасет toyota_1_10.csv для TOYOTA, страницы 1 - 10 собран | затрачено 1588.3516186660854 сек.
+2026-06-05 23:21:24,617 - kolesa_parser.py - INFO - Объявлений без фото: 4
+2026-06-05 23:21:24,617 - kolesa_parser.py - INFO - Объявлений не собрано 3

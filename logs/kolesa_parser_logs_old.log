@@ -1,0 +1,778 @@
+2026-06-05 02:40:07,065 - kolesa_parser.py - INFO - Выбранная марка: lexus | страниц: ['1', '1']
+2026-06-05 02:40:07,065 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 1
+2026-06-05 02:40:08,321 - kolesa_parser.py - INFO - Открыта страница 1 | LEXUS
+2026-06-05 02:40:08,407 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | LEXUS
+2026-06-05 02:40:15,819 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222337474?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=1
+2026-06-05 02:40:15,838 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 24000000₸. id = 222337474 | затрачено 7.431651084101759 сек.
+2026-06-05 02:40:24,505 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221858695?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=2
+2026-06-05 02:40:24,536 - kolesa_parser.py - INFO - Получено объявление Lexus RX 330 7000000₸. id = 221858695 | затрачено 8.697304375004023 сек.
+2026-06-05 02:40:29,342 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222335175?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=3
+2026-06-05 02:40:29,365 - kolesa_parser.py - INFO - Получено объявление Lexus RX 330 6600000₸. id = 222335175 | затрачено 4.8287404590519145 сек.
+2026-06-05 02:40:34,141 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222333930?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=4
+2026-06-05 02:40:34,150 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 7300000₸. id = 222333930 | затрачено 4.7853350839577615 сек.
+2026-06-05 02:40:39,356 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221417080?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=5
+2026-06-05 02:40:39,372 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 20500000₸. id = 221417080 | затрачено 5.221539499936625 сек.
+2026-06-05 02:40:47,465 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222334129?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=6
+2026-06-05 02:40:47,475 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300 4200000₸. id = 222334129 | затрачено 8.103061500005424 сек.
+2026-06-05 02:40:54,788 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222333325?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=7
+2026-06-05 02:40:54,799 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 8000000₸. id = 222333325 | затрачено 7.3235442080767825 сек.
+2026-06-05 02:41:00,220 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221108552?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=8
+2026-06-05 02:41:00,230 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 20500000₸. id = 221108552 | затрачено 5.431050540995784 сек.
+2026-06-05 02:41:06,230 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/170571327?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=9
+2026-06-05 02:41:06,267 - kolesa_parser.py - INFO - Получено объявление Lexus IS 250 5000000₸. id = 170571327 | затрачено 6.036563084111549 сек.
+2026-06-05 02:41:14,995 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222332117?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=10
+2026-06-05 02:41:15,025 - kolesa_parser.py - INFO - Получено объявление Lexus GS 300 3500000₸. id = 222332117 | затрачено 8.756677584024146 сек.
+2026-06-05 02:41:22,539 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222035682?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=11
+2026-06-05 02:41:22,560 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 25000000₸. id = 222035682 | затрачено 7.535060458001681 сек.
+2026-06-05 02:41:28,767 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222331903?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=12
+2026-06-05 02:41:28,796 - kolesa_parser.py - INFO - Получено объявление Lexus RX 300 22500000₸. id = 222331903 | затрачено 6.235632541938685 сек.
+2026-06-05 02:41:34,044 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220012459?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=13
+2026-06-05 02:41:34,069 - kolesa_parser.py - INFO - Получено объявление Lexus RX 400h 7200000₸. id = 220012459 | затрачено 5.2719224580796435 сек.
+2026-06-05 02:41:42,507 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221763671?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=14
+2026-06-05 02:41:42,525 - kolesa_parser.py - INFO - Получено объявление Lexus NX 250 23850000₸. id = 221763671 | затрачено 8.456220583058894 сек.
+2026-06-05 02:41:49,790 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218937601?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=15
+2026-06-05 02:41:49,807 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 8000000₸. id = 218937601 | затрачено 7.281315541942604 сек.
+2026-06-05 02:41:58,189 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216770912?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=16
+2026-06-05 02:41:58,213 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 13900000₸. id = 216770912 | затрачено 8.406768292072229 сек.
+2026-06-05 02:42:04,828 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221976343?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=17
+2026-06-05 02:42:04,852 - kolesa_parser.py - INFO - Получено объявление Lexus GX 460 27500000₸. id = 221976343 | затрачено 6.6379608749412 сек.
+2026-06-05 02:42:09,701 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221675361?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=18
+2026-06-05 02:42:09,723 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 8600000₸. id = 221675361 | затрачено 4.87044208298903 сек.
+2026-06-05 02:42:18,708 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222181995?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=19
+2026-06-05 02:42:18,721 - kolesa_parser.py - INFO - Получено объявление Lexus RX 300 5890000₸. id = 222181995 | затрачено 8.998402958037332 сек.
+2026-06-05 02:42:25,995 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216245375?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=20
+2026-06-05 02:42:26,016 - kolesa_parser.py - INFO - Получено объявление Lexus GX 470 13200000₸. id = 216245375 | затрачено 7.2946114159421995 сек.
+2026-06-05 02:42:26,016 - kolesa_parser.py - INFO - Страница 1 (для LEXUS) собрана | затрачено 138.95030504197348 сек.
+2026-06-05 02:42:33,423 - kolesa_parser.py - INFO - Датасет lexus_1_1.csv для LEXUS, страницы 1 - 1 собран | затрачено 146.33298666705377 сек.2026-06-05 14:44:48,862 - kolesa_parser.py - INFO - Выбранная марка: kia | страницы: с 1 по 1
+2026-06-05 14:44:48,862 - kolesa_parser.py - INFO - Получаем список объявлений для KIA, страница: 1
+2026-06-05 14:44:49,480 - kolesa_parser.py - INFO - Открыта страница 1 | KIA
+2026-06-05 14:44:49,556 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | KIA
+2026-06-05 14:44:56,229 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220356629?search_id=c6c5e3106fce95054f6fb68a25b8b2dedc6ca6d1&search_type=filter&advert_position=1
+2026-06-05 14:44:56,258 - kolesa_parser.py - INFO - Получено объявление Kia Sportage 6700000₸. id = 220356629 | затрачено 6.702317583025433 сек.
+2026-06-05 16:41:13,169 - kolesa_parser.py - INFO - Выбранная марка: bmw | страницы: с 1 по 1
+2026-06-05 16:41:13,170 - kolesa_parser.py - INFO - Получаем список объявлений для BMW, страница: 1
+2026-06-05 16:41:13,899 - kolesa_parser.py - INFO - Открыта страница 1 | BMW
+2026-06-05 16:41:13,960 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | BMW
+2026-06-05 16:41:21,635 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221870876?search_id=8b464b96fd3e0139d2cbcafbd87560050cdd61a3&search_type=filter&advert_position=1
+2026-06-05 16:41:21,657 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/221870876?search_id=8b464b96fd3e0139d2cbcafbd87560050cdd61a3&search_type=filter&advert_position=1
+2026-06-05 16:41:21,659 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221870876?search_id=8b464b96fd3e0139d2cbcafbd87560050cdd61a3&search_type=filter&advert_position=1 | пропускаем
+2026-06-05 16:41:27,787 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/125434421?search_id=8b464b96fd3e0139d2cbcafbd87560050cdd61a3&search_type=filter&advert_position=2
+2026-06-05 16:41:27,805 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/125434421?search_id=8b464b96fd3e0139d2cbcafbd87560050cdd61a3&search_type=filter&advert_position=2
+2026-06-05 16:41:27,808 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/125434421?search_id=8b464b96fd3e0139d2cbcafbd87560050cdd61a3&search_type=filter&advert_position=2
+2026-06-05 16:41:28,243 - kolesa_parser.py - ERROR - Неизвестная ошибка получения объявления https://kolesa.kz/a/show/125434421?search_id=8b464b96fd3e0139d2cbcafbd87560050cdd61a3&search_type=filter&advert_position=2
+2026-06-05 16:41:36,212 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222363516?search_id=8b464b96fd3e0139d2cbcafbd87560050cdd61a3&search_type=filter&advert_position=3
+2026-06-05 16:41:36,237 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/222363516?search_id=8b464b96fd3e0139d2cbcafbd87560050cdd61a3&search_type=filter&advert_position=3
+2026-06-05 16:41:36,240 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222363516?search_id=8b464b96fd3e0139d2cbcafbd87560050cdd61a3&search_type=filter&advert_position=3
+2026-06-05 16:41:36,241 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/222363516?search_id=8b464b96fd3e0139d2cbcafbd87560050cdd61a3&search_type=filter&advert_position=3
+2026-06-05 16:41:36,663 - kolesa_parser.py - ERROR - Неизвестная ошибка получения объявления https://kolesa.kz/a/show/222363516?search_id=8b464b96fd3e0139d2cbcafbd87560050cdd61a3&search_type=filter&advert_position=3
+2026-06-05 16:46:55,088 - kolesa_parser.py - INFO - Выбранная марка: bmw | страницы: с 1 по 1
+2026-06-05 16:46:55,089 - kolesa_parser.py - INFO - Получаем список объявлений для BMW, страница: 1
+2026-06-05 16:46:56,428 - kolesa_parser.py - INFO - Открыта страница 1 | BMW
+2026-06-05 16:46:56,482 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | BMW
+2026-06-05 16:47:19,414 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/196507707?search_id=bde5e1dd8c26a3de8fb13a1a7c36c07e593999f6&search_type=filter&advert_position=1
+2026-06-05 16:47:19,414 - kolesa_parser.py - ERROR - Неизвестная ошибка получения объявления https://kolesa.kz/a/show/196507707?search_id=bde5e1dd8c26a3de8fb13a1a7c36c07e593999f6&search_type=filter&advert_position=1
+2026-06-05 16:51:40,493 - kolesa_parser.py - INFO - Выбранная марка: bmw | страницы: с 1 по 1
+2026-06-05 16:51:40,493 - kolesa_parser.py - INFO - Получаем список объявлений для BMW, страница: 1
+2026-06-05 16:51:42,902 - kolesa_parser.py - INFO - Открыта страница 1 | BMW
+2026-06-05 16:51:42,987 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | BMW
+2026-06-05 16:51:53,011 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/206045098?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=1
+2026-06-05 16:51:53,036 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/206045098?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=1
+2026-06-05 16:51:53,038 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/206045098?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=1
+2026-06-05 16:51:56,046 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/206045098?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=1 | пропускаем
+2026-06-05 16:52:02,493 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/203593708?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=2
+2026-06-05 16:52:02,514 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/203593708?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=2
+2026-06-05 16:52:02,518 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/203593708?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=2
+2026-06-05 16:52:04,859 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/203593708?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=2 | пропускаем
+2026-06-05 16:52:12,217 - kolesa_parser.py - ERROR - Неизвестная ошибка получения объявления https://kolesa.kz/a/show/209230597?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=3
+2026-06-05 16:52:23,281 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218455687?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=4
+2026-06-05 16:52:23,306 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/218455687?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=4
+2026-06-05 16:52:23,310 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/218455687?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=4
+2026-06-05 16:52:27,387 - kolesa_parser.py - ERROR - Неизвестная ошибка получения объявления https://kolesa.kz/a/show/218455687?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=4
+2026-06-05 16:52:40,499 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/221342734?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=5
+2026-06-05 16:52:40,500 - kolesa_parser.py - ERROR - HTTPSConnectionPool(host='kolesa.kz', port=443): Max retries exceeded with url: /a/show/221342734?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=5 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 1106, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connection.py", line 796, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connection.py", line 975, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/util/ssl_.py", line 433, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/util/ssl_.py", line 477, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ssl.SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/util/retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kolesa.kz', port=443): Max retries exceeded with url: /a/show/221342734?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=5 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/kolesa_parser.py", line 94, in <module>
+    detail_response = requests.get(detail_url, timeout=15, headers=headers)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/api.py", line 87, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/adapters.py", line 727, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='kolesa.kz', port=443): Max retries exceeded with url: /a/show/221342734?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=5 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2026-06-05 16:52:40,537 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/221342734?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=5
+2026-06-05 16:52:40,540 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/221342734?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=5
+2026-06-05 16:52:44,774 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/221342734?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=5 | пропускаем
+2026-06-05 16:52:51,682 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221625280?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=6
+2026-06-05 16:52:51,704 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/221625280?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=6
+2026-06-05 16:52:51,705 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221625280?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=6 | пропускаем
+2026-06-05 16:53:01,744 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/221051589?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=7
+2026-06-05 16:53:01,745 - kolesa_parser.py - ERROR - HTTPSConnectionPool(host='kolesa.kz', port=443): Max retries exceeded with url: /a/show/221051589?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=7 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 1106, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connection.py", line 796, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connection.py", line 975, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/util/ssl_.py", line 433, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/util/ssl_.py", line 477, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ssl.SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/util/retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kolesa.kz', port=443): Max retries exceeded with url: /a/show/221051589?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=7 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/kolesa_parser.py", line 94, in <module>
+    detail_response = requests.get(detail_url, timeout=15, headers=headers)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/api.py", line 87, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/adapters.py", line 727, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='kolesa.kz', port=443): Max retries exceeded with url: /a/show/221051589?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=7 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2026-06-05 16:53:01,771 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/221051589?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=7
+2026-06-05 16:53:01,772 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221051589?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=7 | пропускаем
+2026-06-05 16:53:19,551 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/220112008?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=8
+2026-06-05 16:53:19,552 - kolesa_parser.py - ERROR - HTTPSConnectionPool(host='kolesa.kz', port=443): Max retries exceeded with url: /a/show/220112008?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=8 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 1106, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connection.py", line 796, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connection.py", line 975, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/util/ssl_.py", line 433, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/util/ssl_.py", line 477, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ssl.SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/util/retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kolesa.kz', port=443): Max retries exceeded with url: /a/show/220112008?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=8 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/kolesa_parser.py", line 94, in <module>
+    detail_response = requests.get(detail_url, timeout=15, headers=headers)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/api.py", line 87, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/adapters.py", line 727, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='kolesa.kz', port=443): Max retries exceeded with url: /a/show/220112008?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=8 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2026-06-05 16:53:19,585 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/220112008?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=8
+2026-06-05 16:53:19,586 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/220112008?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=8 | пропускаем
+2026-06-05 16:53:29,694 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221093473?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=9
+2026-06-05 16:53:29,714 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/221093473?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=9
+2026-06-05 16:53:29,717 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221093473?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=9
+2026-06-05 16:53:29,719 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/221093473?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=9
+2026-06-05 16:53:32,354 - kolesa_parser.py - ERROR - Неизвестная ошибка получения объявления https://kolesa.kz/a/show/221093473?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=9
+2026-06-05 16:53:48,166 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221026911?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=10
+2026-06-05 16:53:48,196 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/221026911?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=10
+2026-06-05 16:53:48,199 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/221026911?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=10
+2026-06-05 16:53:56,163 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/221026911?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=10 | пропускаем
+2026-06-05 16:54:05,881 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/179450266?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=11
+2026-06-05 16:54:05,881 - kolesa_parser.py - ERROR - HTTPSConnectionPool(host='kolesa.kz', port=443): Max retries exceeded with url: /a/show/179450266?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=11 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 1106, in _validate_conn
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connection.py", line 796, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+        sock=sock,
+    ...<14 lines>...
+        assert_fingerprint=self.assert_fingerprint,
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connection.py", line 975, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+        sock=sock,
+    ...<8 lines>...
+        tls_in_tls=tls_in_tls,
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/util/ssl_.py", line 433, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/util/ssl_.py", line 477, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ssl.SSLEOFError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 788, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+urllib3.exceptions.SSLError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/adapters.py", line 696, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/connectionpool.py", line 842, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/urllib3/util/retry.py", line 543, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='kolesa.kz', port=443): Max retries exceeded with url: /a/show/179450266?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=11 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/kolesa_parser.py", line 94, in <module>
+    detail_response = requests.get(detail_url, timeout=15, headers=headers)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/api.py", line 87, in get
+    return request("get", url, params=params, **kwargs)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/api.py", line 71, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/sessions.py", line 651, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/sessions.py", line 784, in send
+    r = adapter.send(request, **kwargs)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/requests/adapters.py", line 727, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='kolesa.kz', port=443): Max retries exceeded with url: /a/show/179450266?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=11 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))
+2026-06-05 16:54:05,909 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/179450266?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=11
+2026-06-05 16:54:05,911 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/179450266?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=11
+2026-06-05 16:54:07,299 - kolesa_parser.py - ERROR - Неизвестная ошибка получения объявления https://kolesa.kz/a/show/179450266?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=11
+2026-06-05 16:54:14,240 - kolesa_parser.py - ERROR - Неизвестная ошибка получения объявления https://kolesa.kz/a/show/222394395?search_id=f8ddf8776fa9ea1be3dbb44c9cf8be2a3f946006&search_type=filter&advert_position=12
+2026-06-05 17:03:24,153 - kolesa_parser.py - INFO - Выбранная марка: chevrolet | страницы: с 1 по 1
+2026-06-05 17:03:24,156 - kolesa_parser.py - INFO - Получаем список объявлений для CHEVROLET, страница: 1
+2026-06-05 17:03:24,166 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/chevrolet/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000
+2026-06-05 17:03:24,181 - kolesa_parser.py - INFO - Датасет chevrolet_1_1.csv для CHEVROLET, страницы 1 - 1 собран | затрачено 0.010724416933953762 сек.
+2026-06-05 17:11:58,684 - kolesa_parser.py - INFO - Выбранная марка: bmw | страницы: с 1 по 1
+2026-06-05 17:11:58,684 - kolesa_parser.py - INFO - Получаем список объявлений для BMW, страница: 1
+2026-06-05 17:12:02,150 - kolesa_parser.py - INFO - Открыта страница 1 | BMW
+2026-06-05 17:12:02,213 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | BMW
+2026-06-05 17:12:09,598 - kolesa_parser.py - ERROR - Ошибка открытия объявления https://kolesa.kz/a/show/221089031?search_id=b4e7363ac79df05c6a1f7adffdf71759e3cd18c0&search_type=filter&advert_position=1
+2026-06-05 17:12:09,599 - kolesa_parser.py - ERROR - Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/curl_cffi/requests/session.py", line 732, in _request_once
+    c.perform()
+    ~~~~~~~~~^^
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/curl_cffi/curl.py", line 505, in perform
+    self._check_error(ret, "perform")
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/curl_cffi/curl.py", line 269, in _check_error
+    raise error
+curl_cffi.curl.CurlError: Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/kolesa_parser.py", line 100, in <module>
+    detail_response = curl_requests.get(detail_url, impersonate='chrome', timeout=15, headers=headers)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/curl_cffi/requests/__init__.py", line 148, in get
+    return request(method="GET", url=url, **kwargs)
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/curl_cffi/requests/__init__.py", line 140, in request
+    return s.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/curl_cffi/requests/session.py", line 795, in request
+    return self._request_once(
+           ~~~~~~~~~~~~~~~~~~^
+        method=method,
+        ^^^^^^^^^^^^^^
+    ...<32 lines>...
+        discard_cookies=discard_cookies,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/ksa/CodeProjects/gp_5_DL/.venv/lib/python3.13/site-packages/curl_cffi/requests/session.py", line 739, in _request_once
+    raise error(str(e), e.code, rsp) from e
+curl_cffi.requests.exceptions.SSLError: Failed to perform, curl: (35) TLS connect error: error:00000000:invalid library (0):OPENSSL_internal:invalid library (0). See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-05 17:29:40,108 - kolesa_parser.py - INFO - Выбранная марка: bmw | страницы: с 1 по 1
+2026-06-05 17:29:40,114 - kolesa_parser.py - INFO - Получаем список объявлений для BMW, страница: 1
+2026-06-05 17:29:45,900 - kolesa_parser.py - INFO - Открыта страница 1 | BMW
+2026-06-05 17:29:45,985 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | BMW
+2026-06-05 17:29:52,547 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222398618?search_id=dcda080cc112eee9fcaf88ae366a06d8f74bb4a1&search_type=filter&advert_position=1
+2026-06-05 17:29:52,569 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/222398618?search_id=dcda080cc112eee9fcaf88ae366a06d8f74bb4a1&search_type=filter&advert_position=1
+2026-06-05 17:29:52,572 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222398618?search_id=dcda080cc112eee9fcaf88ae366a06d8f74bb4a1&search_type=filter&advert_position=1
+2026-06-05 17:29:52,573 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/222398618?search_id=dcda080cc112eee9fcaf88ae366a06d8f74bb4a1&search_type=filter&advert_position=1
+2026-06-05 17:29:52,573 - kolesa_parser.py - ERROR - 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/kolesa_parser.py", line 161, in <module>
+    description_text = detail_soup.find(class_='a-description__text').text
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2026-06-05 17:29:55,136 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/222398618?search_id=dcda080cc112eee9fcaf88ae366a06d8f74bb4a1&search_type=filter&advert_position=1 | пропускаем
+2026-06-05 17:30:02,251 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222399336?search_id=dcda080cc112eee9fcaf88ae366a06d8f74bb4a1&search_type=filter&advert_position=2
+2026-06-05 17:30:02,259 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/222399336?search_id=dcda080cc112eee9fcaf88ae366a06d8f74bb4a1&search_type=filter&advert_position=2
+2026-06-05 17:30:02,260 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/222399336?search_id=dcda080cc112eee9fcaf88ae366a06d8f74bb4a1&search_type=filter&advert_position=2
+2026-06-05 17:30:02,260 - kolesa_parser.py - ERROR - 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/kolesa_parser.py", line 161, in <module>
+    description_text = detail_soup.find(class_='a-description__text').text
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2026-06-05 17:30:20,804 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/222399336?search_id=dcda080cc112eee9fcaf88ae366a06d8f74bb4a1&search_type=filter&advert_position=2 | пропускаем
+2026-06-05 17:30:31,029 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217166865?search_id=dcda080cc112eee9fcaf88ae366a06d8f74bb4a1&search_type=filter&advert_position=3
+2026-06-05 17:30:31,052 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/217166865?search_id=dcda080cc112eee9fcaf88ae366a06d8f74bb4a1&search_type=filter&advert_position=3
+2026-06-05 17:30:31,054 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/217166865?search_id=dcda080cc112eee9fcaf88ae366a06d8f74bb4a1&search_type=filter&advert_position=3
+2026-06-05 17:30:31,056 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/217166865?search_id=dcda080cc112eee9fcaf88ae366a06d8f74bb4a1&search_type=filter&advert_position=3
+2026-06-05 17:30:31,056 - kolesa_parser.py - ERROR - 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/kolesa_parser.py", line 161, in <module>
+    description_text = detail_soup.find(class_='a-description__text').text
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2026-06-05 17:30:35,072 - kolesa_parser.py - INFO - Получено объявление BMW X3 19000000₸. id = 217166865 | затрачено 14.26709070801735 сек.
+2026-06-05 17:30:57,667 - kolesa_parser.py - ERROR - Неизвестная ошибка получения объявления https://kolesa.kz/a/show/188048127?search_id=dcda080cc112eee9fcaf88ae366a06d8f74bb4a1&search_type=filter&advert_position=4
+2026-06-05 17:31:10,881 - kolesa_parser.py - INFO - Выбранная марка: bmw | страницы: с 1 по 1
+2026-06-05 17:31:10,889 - kolesa_parser.py - INFO - Получаем список объявлений для BMW, страница: 1
+2026-06-05 17:31:11,532 - kolesa_parser.py - INFO - Открыта страница 1 | BMW
+2026-06-05 17:31:11,593 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | BMW
+2026-06-05 17:31:18,043 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220259172?search_id=327baf8fe569c0011acde86e22cd3c4af2eb51c2&search_type=filter&advert_position=1
+2026-06-05 17:31:18,061 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/220259172?search_id=327baf8fe569c0011acde86e22cd3c4af2eb51c2&search_type=filter&advert_position=1
+2026-06-05 17:31:18,065 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/220259172?search_id=327baf8fe569c0011acde86e22cd3c4af2eb51c2&search_type=filter&advert_position=1
+2026-06-05 17:31:18,065 - kolesa_parser.py - ERROR - 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/kolesa_parser.py", line 161, in <module>
+    description_text = detail_soup.find(class_='a-description__text').text
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2026-06-05 17:31:21,406 - kolesa_parser.py - INFO - Получено объявление BMW 735 3500000₸. id = 220259172 | затрачено 9.812608582898974 сек.
+2026-06-05 17:31:28,473 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/215110969?search_id=327baf8fe569c0011acde86e22cd3c4af2eb51c2&search_type=filter&advert_position=2
+2026-06-05 17:31:28,495 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/215110969?search_id=327baf8fe569c0011acde86e22cd3c4af2eb51c2&search_type=filter&advert_position=2
+2026-06-05 17:31:28,499 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/215110969?search_id=327baf8fe569c0011acde86e22cd3c4af2eb51c2&search_type=filter&advert_position=2
+2026-06-05 17:31:28,499 - kolesa_parser.py - ERROR - 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "/Users/ksa/CodeProjects/gp_5_DL/kolesa_parser.py", line 161, in <module>
+    description_text = detail_soup.find(class_='a-description__text').text
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'text'
+2026-06-05 17:31:30,322 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/215110969?search_id=327baf8fe569c0011acde86e22cd3c4af2eb51c2&search_type=filter&advert_position=2 | пропускаем
+2026-06-05 17:35:27,385 - kolesa_parser.py - INFO - Выбранная марка: hyundai | страницы: с 1 по 1
+2026-06-05 17:35:27,395 - kolesa_parser.py - INFO - Получаем список объявлений для HYUNDAI, страница: 1
+2026-06-05 17:35:28,135 - kolesa_parser.py - INFO - Открыта страница 1 | HYUNDAI
+2026-06-05 17:35:28,224 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | HYUNDAI
+2026-06-05 17:35:34,613 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222338258?search_id=7d028a681b8fea7c2f102512d586e5c5496b2097&search_type=filter&advert_position=1
+2026-06-05 17:35:34,624 - kolesa_parser.py - WARNING - Отсутствует город для объявления https://kolesa.kz/a/show/222338258?search_id=7d028a681b8fea7c2f102512d586e5c5496b2097&search_type=filter&advert_position=1
+2026-06-05 17:35:34,626 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222338258?search_id=7d028a681b8fea7c2f102512d586e5c5496b2097&search_type=filter&advert_position=1
+2026-06-05 17:35:34,627 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/222338258?search_id=7d028a681b8fea7c2f102512d586e5c5496b2097&search_type=filter&advert_position=1
+2026-06-05 17:35:34,627 - kolesa_parser.py - ERROR - 'NoneType' object has no attribute 'find'
+2026-06-05 17:35:38,546 - kolesa_parser.py - INFO - Получено объявление Hyundai Elantra 6300000₸. id = 222338258 | затрачено 10.321335540967993 сек.
+2026-06-05 17:41:47,694 - kolesa_parser.py - INFO - Выбранная марка: kia | страницы: с 1 по 1
+2026-06-05 17:41:47,704 - kolesa_parser.py - INFO - Получаем список объявлений для KIA, страница: 1
+2026-06-05 17:41:48,317 - kolesa_parser.py - INFO - Открыта страница 1 | KIA
+2026-06-05 17:41:48,375 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | KIA
+2026-06-05 17:41:55,563 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222185838?search_id=1f318b32086c401bb0551f3d36804504db17ba04&search_type=filter&advert_position=1
+2026-06-05 17:41:55,584 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/222185838?search_id=1f318b32086c401bb0551f3d36804504db17ba04&search_type=filter&advert_position=1
+2026-06-05 17:41:55,585 - kolesa_parser.py - ERROR - 'NoneType' object has no attribute 'text'
+2026-06-05 17:41:55,586 - kolesa_parser.py - ERROR - Ошибка получение ссылки для фото для объявления https://kolesa.kz/a/show/222185838?search_id=1f318b32086c401bb0551f3d36804504db17ba04&search_type=filter&advert_position=1 | пропускаем
+2026-06-05 17:42:01,365 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222046964?search_id=1f318b32086c401bb0551f3d36804504db17ba04&search_type=filter&advert_position=2
+2026-06-05 17:42:01,375 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222046964?search_id=1f318b32086c401bb0551f3d36804504db17ba04&search_type=filter&advert_position=2 | пропускаем
+2026-06-05 17:42:09,145 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222314021?search_id=1f318b32086c401bb0551f3d36804504db17ba04&search_type=filter&advert_position=3
+2026-06-05 17:42:09,169 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222314021?search_id=1f318b32086c401bb0551f3d36804504db17ba04&search_type=filter&advert_position=3
+2026-06-05 17:42:09,170 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/222314021?search_id=1f318b32086c401bb0551f3d36804504db17ba04&search_type=filter&advert_position=3
+2026-06-05 17:42:09,170 - kolesa_parser.py - ERROR - 'NoneType' object has no attribute 'text'
+2026-06-05 17:42:12,267 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/222314021?search_id=1f318b32086c401bb0551f3d36804504db17ba04&search_type=filter&advert_position=3 | пропускаем
+2026-06-05 17:42:18,864 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222374260?search_id=1f318b32086c401bb0551f3d36804504db17ba04&search_type=filter&advert_position=4
+2026-06-05 17:42:18,891 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/222374260?search_id=1f318b32086c401bb0551f3d36804504db17ba04&search_type=filter&advert_position=4
+2026-06-05 17:42:18,891 - kolesa_parser.py - ERROR - 'NoneType' object has no attribute 'text'
+2026-06-05 17:42:22,401 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/222374260?search_id=1f318b32086c401bb0551f3d36804504db17ba04&search_type=filter&advert_position=4 | пропускаем
+2026-06-05 17:56:47,046 - kolesa_parser.py - INFO - Выбранная марка: kia | страницы: с 1 по 1
+2026-06-05 17:56:47,056 - kolesa_parser.py - INFO - Получаем список объявлений для KIA, страница: 1
+2026-06-05 17:56:49,718 - kolesa_parser.py - INFO - Открыта страница 1 | KIA
+2026-06-05 17:56:49,803 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | KIA
+2026-06-05 17:56:55,622 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216076451?search_id=daae48a0cd4946454a88eaddeb83a02284e30f30&search_type=filter&advert_position=1
+2026-06-05 17:56:55,641 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/216076451?search_id=daae48a0cd4946454a88eaddeb83a02284e30f30&search_type=filter&advert_position=1
+2026-06-05 17:56:55,641 - kolesa_parser.py - ERROR - 'NoneType' object has no attribute 'text'
+2026-06-05 17:56:59,120 - kolesa_parser.py - INFO - Получено объявление Kia K5 6500000₸. id = 216076451 | затрачено 9.316333874943666 сек.
+2026-06-05 17:57:06,757 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220944190?search_id=daae48a0cd4946454a88eaddeb83a02284e30f30&search_type=filter&advert_position=2
+2026-06-05 17:57:06,781 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/220944190?search_id=daae48a0cd4946454a88eaddeb83a02284e30f30&search_type=filter&advert_position=2
+2026-06-05 17:57:06,781 - kolesa_parser.py - ERROR - 'NoneType' object has no attribute 'text'
+2026-06-05 17:57:10,395 - kolesa_parser.py - INFO - Получено объявление Kia Cerato 5000000₸. id = 220944190 | затрачено 11.27538095798809 сек.
+2026-06-05 17:57:16,143 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221775323?search_id=daae48a0cd4946454a88eaddeb83a02284e30f30&search_type=filter&advert_position=3
+2026-06-05 17:57:16,164 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/221775323?search_id=daae48a0cd4946454a88eaddeb83a02284e30f30&search_type=filter&advert_position=3
+2026-06-05 17:57:16,164 - kolesa_parser.py - ERROR - 'NoneType' object has no attribute 'text'
+2026-06-05 17:57:19,623 - kolesa_parser.py - INFO - Получено объявление Kia Stinger 17000000₸. id = 221775323 | затрачено 9.226983291911893 сек.
+2026-06-05 17:57:24,989 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221949297?search_id=daae48a0cd4946454a88eaddeb83a02284e30f30&search_type=filter&advert_position=4
+2026-06-05 17:57:25,014 - kolesa_parser.py - WARNING - Отсутствует описание для объявления https://kolesa.kz/a/show/221949297?search_id=daae48a0cd4946454a88eaddeb83a02284e30f30&search_type=filter&advert_position=4
+2026-06-05 17:57:25,014 - kolesa_parser.py - ERROR - 'NoneType' object has no attribute 'text'
+2026-06-05 17:57:29,381 - kolesa_parser.py - INFO - Получено объявление Kia Morning 6300000₸. id = 221949297 | затрачено 9.758350500022061 сек.
+2026-06-05 18:03:58,327 - kolesa_parser.py - INFO - Выбранная марка: toyota | страницы: с 1 по 1
+2026-06-05 18:03:58,334 - kolesa_parser.py - INFO - Получаем список объявлений для TOYOTA, страница: 1
+2026-06-05 18:04:02,663 - kolesa_parser.py - INFO - Открыта страница 1 | TOYOTA
+2026-06-05 18:04:02,752 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | TOYOTA
+2026-06-05 18:04:10,570 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222401803?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=1
+2026-06-05 18:04:10,592 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222401803?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=1 | пропускаем
+2026-06-05 18:04:17,794 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222402687?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=2
+2026-06-05 18:04:17,815 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222402687?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=2
+2026-06-05 18:04:33,241 - kolesa_parser.py - INFO - Получено объявление Toyota Alphard 6500000₸. id = 222402687 | затрачено 22.64865737501532 сек.
+2026-06-05 18:04:40,331 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221935149?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=3
+2026-06-05 18:04:44,784 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 8750000₸. id = 221935149 | затрачено 11.542168833082542 сек.
+2026-06-05 18:04:53,200 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218712949?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=4
+2026-06-05 18:04:57,920 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 2900000₸. id = 218712949 | затрачено 13.135886124917306 сек.
+2026-06-05 18:05:05,839 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216573784?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=5
+2026-06-05 18:05:09,676 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 2600000₸. id = 216573784 | затрачено 11.755965583957732 сек.
+2026-06-05 18:05:20,009 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222381826?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=6
+2026-06-05 18:05:25,440 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 4000000₸. id = 222381826 | затрачено 15.763559540966526 сек.
+2026-06-05 18:05:33,859 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222380777?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=7
+2026-06-05 18:05:33,870 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222380777?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=7
+2026-06-05 18:05:38,242 - kolesa_parser.py - INFO - Получено объявление Toyota Ipsum 4100000₸. id = 222380777 | затрачено 12.801883750013076 сек.
+2026-06-05 18:05:45,492 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221892453?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=8
+2026-06-05 18:05:49,582 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 7100000₸. id = 221892453 | затрачено 11.33926237502601 сек.
+2026-06-05 18:05:57,778 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222374346?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=9
+2026-06-05 18:06:02,192 - kolesa_parser.py - INFO - Получено объявление Toyota Venza 9999999₸. id = 222374346 | затрачено 12.60964237502776 сек.
+2026-06-05 18:06:09,636 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221893992?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=10
+2026-06-05 18:06:09,659 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221893992?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=10 | пропускаем
+2026-06-05 18:06:15,693 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221504357?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=11
+2026-06-05 18:06:19,258 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 25000000₸. id = 221504357 | затрачено 9.599136208067648 сек.
+2026-06-05 18:06:24,950 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221984990?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=12
+2026-06-05 18:06:28,924 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 15300000₸. id = 221984990 | затрачено 9.665303500019945 сек.
+2026-06-05 18:06:37,581 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218415619?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=13
+2026-06-05 18:06:41,445 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 9300000₸. id = 218415619 | затрачено 12.52094437496271 сек.
+2026-06-05 18:06:50,035 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221867753?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=14
+2026-06-05 18:06:55,330 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 41900000₸. id = 221867753 | затрачено 13.883865832933225 сек.
+2026-06-05 18:07:05,538 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221379264?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=15
+2026-06-05 18:07:09,428 - kolesa_parser.py - INFO - Получено объявление Toyota RAV4 15700000₸. id = 221379264 | затрачено 14.097520250012167 сек.
+2026-06-05 18:07:18,675 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221066624?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=16
+2026-06-05 18:07:18,719 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221066624?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=16
+2026-06-05 18:07:23,382 - kolesa_parser.py - INFO - Получено объявление Toyota Crown 22500000₸. id = 221066624 | затрачено 13.95407175004948 сек.
+2026-06-05 18:07:30,317 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222360121?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=17
+2026-06-05 18:07:30,329 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222360121?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=17 | пропускаем
+2026-06-05 18:07:36,951 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217605732?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=18
+2026-06-05 18:07:40,270 - kolesa_parser.py - INFO - Получено объявление Toyota RAV4 10900000₸. id = 217605732 | затрачено 9.941205875016749 сек.
+2026-06-05 18:07:46,058 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222402224?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=19
+2026-06-05 18:07:46,080 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222402224?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=19 | пропускаем
+2026-06-05 18:07:51,972 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217629756?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=20
+2026-06-05 18:07:51,994 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/217629756?search_id=d40dbc197352e2c5eb713438746fa05eb9b3a66f&search_type=filter&advert_position=20 | пропускаем
+2026-06-05 18:07:51,995 - kolesa_parser.py - INFO - Страница 1 (для TOYOTA) собрана | затрачено 233.6598921660334 сек.
+2026-06-05 18:07:56,168 - kolesa_parser.py - INFO - Датасет toyota_1_1.csv для TOYOTA, страницы 1 - 1 собран | затрачено 237.79137174994685 сек.
+2026-06-05 18:24:18,537 - kolesa_parser.py - INFO - Выбранная марка: toyota | страницы: с 2 по 2
+2026-06-05 18:24:18,548 - kolesa_parser.py - INFO - Получаем список объявлений для TOYOTA, страница: 2
+2026-06-05 18:24:33,552 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/toyota/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=2
+2026-06-05 18:24:45,338 - kolesa_parser.py - INFO - Выбранная марка: toyota | страницы: с 2 по 2
+2026-06-05 18:24:45,344 - kolesa_parser.py - INFO - Получаем список объявлений для TOYOTA, страница: 2
+2026-06-05 18:24:46,107 - kolesa_parser.py - INFO - Открыта страница 2 | TOYOTA
+2026-06-05 18:24:46,189 - kolesa_parser.py - INFO - Получены карточек для страницы 2 | TOYOTA
+2026-06-05 18:24:49,098 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221172210?search_id=bf368a7acfe2894df7d427c4ec36edaff7c92786&search_type=filter&advert_position=21
+2026-06-05 18:24:50,565 - kolesa_parser.py - ERROR - Неизвестная ошибка получения объявления https://kolesa.kz/a/show/221172210?search_id=bf368a7acfe2894df7d427c4ec36edaff7c92786&search_type=filter&advert_position=21
+2026-06-05 18:24:53,677 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221968773?search_id=bf368a7acfe2894df7d427c4ec36edaff7c92786&search_type=filter&advert_position=22
+2026-06-05 18:24:53,700 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221968773?search_id=bf368a7acfe2894df7d427c4ec36edaff7c92786&search_type=filter&advert_position=22 | пропускаем
+2026-06-05 18:24:56,620 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/211369961?search_id=bf368a7acfe2894df7d427c4ec36edaff7c92786&search_type=filter&advert_position=23
+2026-06-05 18:24:56,646 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/211369961?search_id=bf368a7acfe2894df7d427c4ec36edaff7c92786&search_type=filter&advert_position=23 | пропускаем
+2026-06-05 18:24:59,494 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220375590?search_id=bf368a7acfe2894df7d427c4ec36edaff7c92786&search_type=filter&advert_position=24
+2026-06-05 18:25:01,109 - kolesa_parser.py - ERROR - Неизвестная ошибка получения объявления https://kolesa.kz/a/show/220375590?search_id=bf368a7acfe2894df7d427c4ec36edaff7c92786&search_type=filter&advert_position=24
+2026-06-05 18:25:03,924 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222060391?search_id=bf368a7acfe2894df7d427c4ec36edaff7c92786&search_type=filter&advert_position=25
+2026-06-05 18:25:04,963 - kolesa_parser.py - ERROR - Неизвестная ошибка получения объявления https://kolesa.kz/a/show/222060391?search_id=bf368a7acfe2894df7d427c4ec36edaff7c92786&search_type=filter&advert_position=25
+2026-06-05 18:25:07,938 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222059178?search_id=bf368a7acfe2894df7d427c4ec36edaff7c92786&search_type=filter&advert_position=26
+2026-06-05 18:25:07,958 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222059178?search_id=bf368a7acfe2894df7d427c4ec36edaff7c92786&search_type=filter&advert_position=26 | пропускаем
+2026-06-05 18:25:10,347 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222004973?search_id=bf368a7acfe2894df7d427c4ec36edaff7c92786&search_type=filter&advert_position=27
+2026-06-05 18:25:11,179 - kolesa_parser.py - ERROR - Неизвестная ошибка получения объявления https://kolesa.kz/a/show/222004973?search_id=bf368a7acfe2894df7d427c4ec36edaff7c92786&search_type=filter&advert_position=27
+2026-06-05 18:25:13,065 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/198677793?search_id=bf368a7acfe2894df7d427c4ec36edaff7c92786&search_type=filter&advert_position=28
+2026-06-05 18:25:14,094 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/198677793?search_id=bf368a7acfe2894df7d427c4ec36edaff7c92786&search_type=filter&advert_position=28 | пропускаем
+2026-06-05 18:25:45,785 - kolesa_parser.py - INFO - Выбранная марка: toyota | страницы: с 2 по 2
+2026-06-05 18:25:45,798 - kolesa_parser.py - INFO - Получаем список объявлений для TOYOTA, страница: 2
+2026-06-05 18:25:46,770 - kolesa_parser.py - INFO - Открыта страница 2 | TOYOTA
+2026-06-05 18:25:46,865 - kolesa_parser.py - INFO - Получены карточек для страницы 2 | TOYOTA
+2026-06-05 18:25:49,356 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221885614?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=21
+2026-06-05 18:25:50,980 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 10000000₸. id = 221885614 | затрачено 4.114423000020906 сек.
+2026-06-05 18:25:53,389 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220185934?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=22
+2026-06-05 18:25:53,410 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/220185934?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=22
+2026-06-05 18:25:54,455 - kolesa_parser.py - INFO - Получено объявление Toyota Highlander 6500000₸. id = 220185934 | затрачено 3.4749059999594465 сек.
+2026-06-05 18:25:56,651 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221876034?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=23
+2026-06-05 18:25:57,546 - kolesa_parser.py - INFO - Получено объявление Toyota Mark X 3300000₸. id = 221876034 | затрачено 3.0907411250518635 сек.
+2026-06-05 18:26:00,548 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222384778?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=24
+2026-06-05 18:26:01,706 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 7500000₸. id = 222384778 | затрачено 4.159857125021517 сек.
+2026-06-05 18:26:03,597 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222385007?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=25
+2026-06-05 18:26:04,377 - kolesa_parser.py - INFO - Получено объявление Toyota Ipsum 3200000₸. id = 222385007 | затрачено 2.6716341249411926 сек.
+2026-06-05 18:26:06,632 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221745884?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=26
+2026-06-05 18:26:07,860 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 10000000₸. id = 221745884 | затрачено 3.482310082996264 сек.
+2026-06-05 18:26:10,428 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222382402?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=27
+2026-06-05 18:26:11,394 - kolesa_parser.py - INFO - Получено объявление Toyota Alphard 7500000₸. id = 222382402 | затрачено 3.533483083010651 сек.
+2026-06-05 18:26:14,236 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221846598?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=28
+2026-06-05 18:26:14,259 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221846598?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=28
+2026-06-05 18:26:15,464 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser 47000000₸. id = 221846598 | затрачено 4.069854083005339 сек.
+2026-06-05 18:26:18,158 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222380616?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=29
+2026-06-05 18:26:19,046 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 6400000₸. id = 222380616 | затрачено 3.5812404160387814 сек.
+2026-06-05 18:26:21,354 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221841724?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=30
+2026-06-05 18:26:22,036 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 6300000₸. id = 221841724 | затрачено 2.98999041703064 сек.
+2026-06-05 18:26:24,636 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222308113?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=31
+2026-06-05 18:26:24,648 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222308113?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=31 | пропускаем
+2026-06-05 18:26:26,744 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/176180454?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=32
+2026-06-05 18:26:26,755 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/176180454?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=32 | пропускаем
+2026-06-05 18:26:29,092 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221099737?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=33
+2026-06-05 18:26:30,376 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser 54980000₸. id = 221099737 | затрачено 3.621629250003025 сек.
+2026-06-05 18:26:33,265 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220881355?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=34
+2026-06-05 18:26:33,983 - kolesa_parser.py - INFO - Получено объявление Toyota Highlander 32000000₸. id = 220881355 | затрачено 3.60645475005731 сек.
+2026-06-05 18:26:37,456 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221115310?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=35
+2026-06-05 18:26:37,481 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221115310?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=35
+2026-06-05 18:26:38,270 - kolesa_parser.py - INFO - Получено объявление Toyota Land Cruiser Prado 9422000₸. id = 221115310 | затрачено 4.287097582942806 сек.
+2026-06-05 18:26:40,593 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217737325?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=36
+2026-06-05 18:26:41,842 - kolesa_parser.py - INFO - Получено объявление Toyota Hilux 8500000₸. id = 217737325 | затрачено 3.57138912496157 сек.
+2026-06-05 18:26:44,631 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220179672?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=37
+2026-06-05 18:26:45,737 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 7500000₸. id = 220179672 | затрачено 3.895154458936304 сек.
+2026-06-05 18:26:48,189 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221804517?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=38
+2026-06-05 18:26:48,210 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221804517?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=38
+2026-06-05 18:26:48,868 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 23800000₸. id = 221804517 | затрачено 3.1304888329468668 сек.
+2026-06-05 18:26:50,908 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221802916?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=39
+2026-06-05 18:26:51,816 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 9300000₸. id = 221802916 | затрачено 2.948168499977328 сек.
+2026-06-05 18:26:54,152 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221780706?search_id=e12e847e67c2e3b9f77acb53479724bf60a307c5&search_type=filter&advert_position=40
+2026-06-05 18:26:55,242 - kolesa_parser.py - INFO - Получено объявление Toyota Camry 6500000₸. id = 221780706 | затрачено 3.4251742919441313 сек.
+2026-06-05 18:26:55,242 - kolesa_parser.py - INFO - Страница 2 (для TOYOTA) собрана | затрачено 69.44324149994645 сек.
+2026-06-05 18:26:58,838 - kolesa_parser.py - INFO - Датасет toyota_2_2.csv для TOYOTA, страницы 2 - 2 собран | затрачено 73.04098975006491 сек.
+2026-06-05 21:15:11,241 - kolesa_parser.py - INFO - Выбранная марка: bmw | страницы: с 1 по 5
+2026-06-05 21:15:11,255 - kolesa_parser.py - INFO - Получаем список объявлений для BMW, страница: 1
+2026-06-05 21:15:26,261 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/bmw/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000
+2026-06-05 21:15:26,262 - kolesa_parser.py - ERROR - Неизвестная ошибка получения страницы 1 | BMW
+2026-06-05 21:16:43,616 - kolesa_parser.py - INFO - Выбранная марка: bmw | страницы: с 1 по 5
+2026-06-05 21:16:43,626 - kolesa_parser.py - INFO - Получаем список объявлений для BMW, страница: 1
+2026-06-05 21:16:44,285 - kolesa_parser.py - INFO - Открыта страница 1 | BMW
+2026-06-05 21:16:44,357 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | BMW
+2026-06-05 21:16:47,752 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220587901?search_id=a60a12936e05d133e826503963d02d163eea0794&search_type=filter&advert_position=1
+2026-06-05 21:16:47,776 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/220587901?search_id=a60a12936e05d133e826503963d02d163eea0794&search_type=filter&advert_position=1 | пропускаем
+2026-06-05 21:16:50,255 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222421312?search_id=a60a12936e05d133e826503963d02d163eea0794&search_type=filter&advert_position=2
+2026-06-05 21:16:51,401 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/222421312?search_id=a60a12936e05d133e826503963d02d163eea0794&search_type=filter&advert_position=2 | пропускаем
+2026-06-05 21:16:54,511 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/206175903?search_id=a60a12936e05d133e826503963d02d163eea0794&search_type=filter&advert_position=3
+2026-06-05 21:16:55,494 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/206175903?search_id=a60a12936e05d133e826503963d02d163eea0794&search_type=filter&advert_position=3 | пропускаем
+2026-06-05 21:16:57,376 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221842720?search_id=a60a12936e05d133e826503963d02d163eea0794&search_type=filter&advert_position=4
+2026-06-05 21:16:57,389 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221842720?search_id=a60a12936e05d133e826503963d02d163eea0794&search_type=filter&advert_position=4
+2026-06-05 21:16:57,998 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/221842720?search_id=a60a12936e05d133e826503963d02d163eea0794&search_type=filter&advert_position=4 | пропускаем
+2026-06-05 21:17:00,284 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222073172?search_id=a60a12936e05d133e826503963d02d163eea0794&search_type=filter&advert_position=5
+2026-06-05 21:17:00,795 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/222073172?search_id=a60a12936e05d133e826503963d02d163eea0794&search_type=filter&advert_position=5 | пропускаем
+2026-06-05 21:17:02,596 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/206769448?search_id=a60a12936e05d133e826503963d02d163eea0794&search_type=filter&advert_position=6
+2026-06-05 21:17:03,040 - kolesa_parser.py - ERROR - Ошибка загрузки и сохранения фото для объявления https://kolesa.kz/a/show/206769448?search_id=a60a12936e05d133e826503963d02d163eea0794&search_type=filter&advert_position=6 | пропускаем

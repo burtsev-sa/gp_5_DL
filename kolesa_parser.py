@@ -55,11 +55,12 @@ output_filename = f'{brand}_{page0}_{page1}'
 total_start = time.perf_counter() # старт замера времени для всех страниц
 
 rows = []
-
-# инициализируем сессию. это позволит больше быть похожим на поведение обычного браузера. через нее будем получать страницы
-session = curl_requests.Session(impersonate='chrome120', timeout=15, headers=headers)
+without_photos = []
+failed_cards = []
 
 for page in range(page0, page1 + 1):
+    # инициализируем сессию. это позволит больше быть похожим на поведение обычного браузера. через нее будем получать страницы
+    session = curl_requests.Session(impersonate='chrome120', timeout=12, headers=headers)
     try:
         page_start = time.perf_counter()
         if page == 1:
@@ -72,28 +73,36 @@ for page in range(page0, page1 + 1):
         try:
             response = session.get(url)
             log.info(f'Открыта страница {page} | {brand.upper()}')
-        except:
-            log.error(f'Ошибка открытия страницы {url}')
-            with open(debug_filename, 'w', encoding='utf-8') as f:
-                f.write(detail_response.text)
-            continue
+        except Exception as e:
+            log.error(f'Ошибка открытия страницы {url} | пробуем еще раз')
+            log.error(e)
+            time.sleep(random.uniform(30, 40))
+            try:
+                session = curl_requests.Session(impersonate='chrome120', timeout=12, headers=headers)
+                response = session.get(url)
+                log.info(f'Открыта страница {page} | {brand.upper()}')
+            except Exception as e:
+                time.sleep(random.uniform(10, 20))
+                log.error(f'Ошибка открытия страницы {url}')
+                log.error(e)
+                continue
 
         soup = BeautifulSoup(response.text, 'html.parser')
 
         cards = soup.find_all(class_='a-card')
         log.info(f'Получены карточек для страницы {page} | {brand.upper()}')
-    except:
+    except Exception as e:
         log.error(f'Неизвестная ошибка получения страницы {page} | {brand.upper()}')
-        with open(debug_filename, 'w', encoding='utf-8') as f:
-            f.write(detail_response.text)
+        log.error(e)
         continue
 
     for card in cards:
         start = time.perf_counter() # старт замера времени для объявления
-        time.sleep(random.uniform(1.5, 3))
+        time.sleep(random.uniform(4, 8))
         try:
             detail_url = card.find(class_='a-card__link').get('href')
             detail_url = f'https://kolesa.kz{detail_url}'
+            kolesa_id = detail_url.replace('https://kolesa.kz/a/show/', '').split('?')[0]
         except:
             log.error(f'Ошибка получения ссылки card = {card} | страница {page} | {brand.upper()}')
             continue
@@ -104,11 +113,10 @@ for page in range(page0, page1 + 1):
             except Exception as e:
                 log.error(f'Ошибка открытия объявления {detail_url}')
                 log.error(e)
+                failed_cards.append({'kolesa_id': kolesa_id, 'detail_url': detail_url, 'brand': brand, 'page': page, 'csv_name': output_filename})
                 continue
 
             detail_soup = BeautifulSoup(detail_response.text, 'html.parser')
-
-            kolesa_id = detail_url.replace('https://kolesa.kz/a/show/', '').split('?')[0]
 
             debug_filename = f'for_debug_{kolesa_id}.html'
 
@@ -163,47 +171,52 @@ for page in range(page0, page1 + 1):
 
             kz_registration = detail_soup.find('dt', title='Растаможен в Казахстане').find_next('dd').text
 
-            # не работает
-            # try:
-            #     description_text = detail_soup.find('div', attrs={'data-test': 'description-text'}).text
-            # except Exception as e:
-            #     log.warning(f'Отсутствует описание для объявления {detail_url}')
-            #     log.error(e)
-            #     description_text = None
-
-            # try:
-            #     publish_info = detail_soup.find(class_='offer__info-views').text
-            # except:
-            #     log.warning(f'Отсутствуют данные о публикации для объявления {detail_url}')
-            #     publish_info = None
-
             # получение фото
+            found_img = False
+            img_filename = None
+            img_url = None
+            imgs_count = 0
             try:
-                imgs_count = len(detail_soup.find(class_='gallery__thumbs-list').find_all(class_='gallery__thumb')) # количество фото
-                img_url = detail_soup.find(class_='gallery__main').find('img').get('src')
-                # https://www.centron.de/en/tutorial/get-file-extension-in-python-step-by-step-guide/
-                extension = Path(img_url).suffix
-            except:
-                log.error(f'Ошибка получение ссылки для фото для объявления {detail_url} | пропускаем')
-                with open(debug_filename, 'w', encoding='utf-8') as f:
-                    f.write(detail_response.text)
-                continue
+                # количество фото
+                imgs_count = len(detail_soup.find(class_='gallery__thumbs-list').find_all(class_='gallery__thumb')) 
 
-            try:
-                time.sleep(random.uniform(0.5, 1.5))
-                # https://stackoverflow.com/questions/30229231/python-save-image-from-url
-                img_data = session.get(img_url).content
-                img_filename = f'{kolesa_id}{extension}'
-                with open(Path(f'data/images/{img_filename}'), 'wb') as handler:
-                    handler.write(img_data)
-            except:
-                log.error(f'Ошибка загрузки и сохранения фото для объявления {detail_url} | пропускаем')
-                with open(debug_filename, 'w', encoding='utf-8') as f:
-                    f.write(detail_response.text)
-                continue
+                # ссылка для фото
+                try:
+                    img_url = detail_soup.find(class_='gallery__main').find('img').get('src')
+                    # https://www.centron.de/en/tutorial/get-file-extension-in-python-step-by-step-guide/
+                    extension = Path(img_url).suffix
+                    img_filename = f'{kolesa_id}{extension}'
+
+                    # скачивание фото
+                    for i in range(2):
+                        try:
+                            time.sleep(random.uniform(0.5, 1.5))
+                            # https://stackoverflow.com/questions/30229231/python-save-image-from-url
+                            img_data = session.get(img_url, timeout=8).content
+                            with open(Path(f'data/images/{img_filename}'), 'wb') as handler:
+                                handler.write(img_data)
+                            found_img = True
+                            break
+                        except Exception as e:
+                            log.error(f'Ошибка загрузки и сохранения фото для объявления {detail_url} | попробуем еще раз')
+                            log.error(e)
+                            if i == 1:
+                                without_photos.append({'kolesa_id': kolesa_id, 'kolesa_url': detail_url, 'imgs_count': imgs_count, 'img_filename': img_filename, 'img_url': img_url, 'csv_name': output_filename, 'brand': brand, 'page': page})
+                except Exception as e:
+                    log.error(f'Ошибка получение ссылки для фото для объявления {detail_url} | пропускаем')
+                    log.error(e)
+                    with open(Path(debug_filename), 'w', encoding='utf-8') as f:
+                        f.write(detail_response.text)
+                    without_photos.append({'kolesa_id': kolesa_id, 'kolesa_url': detail_url, 'imgs_count': imgs_count, 'img_filename': img_filename, 'img_url': img_url, 'csv_name': output_filename, 'brand': brand, 'page': page})
+
+            except Exception as e:
+                log.error(f'Ошибка получения количества фото для объявления {detail_url}')
+                log.error(e)
+                without_photos.append({'kolesa_id': kolesa_id, 'kolesa_url': detail_url, 'imgs_count': imgs_count, 'img_filename': img_filename, 'img_url': img_url, 'csv_name': output_filename, 'brand': brand, 'page': page})
 
             row = {
                 'kolesa_id': kolesa_id,
+                'kolesa_url': detail_url,
                 'parsed_at': datetime.now(timezone(timedelta(hours=3))), # https://younglinux.info/datetime/datetime
                 'brand': car_brand,
                 'model': car_model,
@@ -219,11 +232,11 @@ for page in range(page0, page1 + 1):
                 'steering_wheel': steering_wheel,
                 'color': color,
                 'kz_registration': kz_registration,
-                # 'description': description_text,
-                # 'publish_info': publish_info,
                 'imgs_count': imgs_count,
                 'price': price,
-                'img_filename': img_filename
+                'img_filename': img_filename,
+                'img_url': img_url,
+                'found_img': found_img
             }
 
             rows.append(row)
@@ -233,7 +246,7 @@ for page in range(page0, page1 + 1):
         except Exception as e:
             log.error(f'Неизвестная ошибка получения объявления {detail_url}')
             log.error(e)
-            with open(debug_filename, 'w', encoding='utf-8') as f:
+            with open(Path(debug_filename), 'w', encoding='utf-8') as f:
                 f.write(detail_response.text)
 
     page_finish = time.perf_counter()
@@ -245,7 +258,21 @@ for page in range(page0, page1 + 1):
 total_finish = time.perf_counter()
 total_res = total_finish - total_start
 
+if len(without_photos) > 0:
+    try:
+        df_without_photos = pd.DataFrame(without_photos).to_csv(Path(f'data/without_photos/{output_filename}.csv'), index=False)
+    except Exception as e:
+        log.error(e)
+
+if len(failed_cards) > 0:
+    try:
+        df_failed_cards = pd.DataFrame(failed_cards).to_csv(Path(f'data/failed/{output_filename}.csv'), index=False)
+    except Exception as e:
+        log.error(e)
+
 if len(rows) > 0:
     df = pd.DataFrame(rows).to_csv(Path(f'data/raw/{output_filename}.csv'), index=False)
 
     log.info(f'Датасет {output_filename}.csv для {brand.upper()}, страницы {page0} - {page1} собран | затрачено {total_res} сек.')
+    log.info(f'Объявлений без фото: {len(without_photos)}')
+    log.info(f'Объявлений не собрано {len(failed_cards)}')
