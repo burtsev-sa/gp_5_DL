@@ -1,0 +1,51 @@
+2026-06-05 02:40:07,065 - kolesa_parser.py - INFO - Выбранная марка: lexus | страниц: ['1', '1']
+2026-06-05 02:40:07,065 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 1
+2026-06-05 02:40:08,321 - kolesa_parser.py - INFO - Открыта страница 1 | LEXUS
+2026-06-05 02:40:08,407 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | LEXUS
+2026-06-05 02:40:15,819 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222337474?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=1
+2026-06-05 02:40:15,838 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 24000000₸. id = 222337474 | затрачено 7.431651084101759 сек.
+2026-06-05 02:40:24,505 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221858695?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=2
+2026-06-05 02:40:24,536 - kolesa_parser.py - INFO - Получено объявление Lexus RX 330 7000000₸. id = 221858695 | затрачено 8.697304375004023 сек.
+2026-06-05 02:40:29,342 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222335175?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=3
+2026-06-05 02:40:29,365 - kolesa_parser.py - INFO - Получено объявление Lexus RX 330 6600000₸. id = 222335175 | затрачено 4.8287404590519145 сек.
+2026-06-05 02:40:34,141 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222333930?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=4
+2026-06-05 02:40:34,150 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 7300000₸. id = 222333930 | затрачено 4.7853350839577615 сек.
+2026-06-05 02:40:39,356 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221417080?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=5
+2026-06-05 02:40:39,372 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 20500000₸. id = 221417080 | затрачено 5.221539499936625 сек.
+2026-06-05 02:40:47,465 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222334129?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=6
+2026-06-05 02:40:47,475 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300 4200000₸. id = 222334129 | затрачено 8.103061500005424 сек.
+2026-06-05 02:40:54,788 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222333325?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=7
+2026-06-05 02:40:54,799 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 8000000₸. id = 222333325 | затрачено 7.3235442080767825 сек.
+2026-06-05 02:41:00,220 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221108552?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=8
+2026-06-05 02:41:00,230 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 20500000₸. id = 221108552 | затрачено 5.431050540995784 сек.
+2026-06-05 02:41:06,230 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/170571327?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=9
+2026-06-05 02:41:06,267 - kolesa_parser.py - INFO - Получено объявление Lexus IS 250 5000000₸. id = 170571327 | затрачено 6.036563084111549 сек.
+2026-06-05 02:41:14,995 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222332117?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=10
+2026-06-05 02:41:15,025 - kolesa_parser.py - INFO - Получено объявление Lexus GS 300 3500000₸. id = 222332117 | затрачено 8.756677584024146 сек.
+2026-06-05 02:41:22,539 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222035682?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=11
+2026-06-05 02:41:22,560 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 25000000₸. id = 222035682 | затрачено 7.535060458001681 сек.
+2026-06-05 02:41:28,767 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222331903?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=12
+2026-06-05 02:41:28,796 - kolesa_parser.py - INFO - Получено объявление Lexus RX 300 22500000₸. id = 222331903 | затрачено 6.235632541938685 сек.
+2026-06-05 02:41:34,044 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220012459?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=13
+2026-06-05 02:41:34,069 - kolesa_parser.py - INFO - Получено объявление Lexus RX 400h 7200000₸. id = 220012459 | затрачено 5.2719224580796435 сек.
+2026-06-05 02:41:42,507 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221763671?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=14
+2026-06-05 02:41:42,525 - kolesa_parser.py - INFO - Получено объявление Lexus NX 250 23850000₸. id = 221763671 | затрачено 8.456220583058894 сек.
+2026-06-05 02:41:49,790 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218937601?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=15
+2026-06-05 02:41:49,807 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 8000000₸. id = 218937601 | затрачено 7.281315541942604 сек.
+2026-06-05 02:41:58,189 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216770912?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=16
+2026-06-05 02:41:58,213 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 13900000₸. id = 216770912 | затрачено 8.406768292072229 сек.
+2026-06-05 02:42:04,828 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221976343?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=17
+2026-06-05 02:42:04,852 - kolesa_parser.py - INFO - Получено объявление Lexus GX 460 27500000₸. id = 221976343 | затрачено 6.6379608749412 сек.
+2026-06-05 02:42:09,701 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221675361?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=18
+2026-06-05 02:42:09,723 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 8600000₸. id = 221675361 | затрачено 4.87044208298903 сек.
+2026-06-05 02:42:18,708 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222181995?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=19
+2026-06-05 02:42:18,721 - kolesa_parser.py - INFO - Получено объявление Lexus RX 300 5890000₸. id = 222181995 | затрачено 8.998402958037332 сек.
+2026-06-05 02:42:25,995 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216245375?search_id=a80f728f8dffc2ba39e30d6494bead27d0937918&search_type=filter&advert_position=20
+2026-06-05 02:42:26,016 - kolesa_parser.py - INFO - Получено объявление Lexus GX 470 13200000₸. id = 216245375 | затрачено 7.2946114159421995 сек.
+2026-06-05 02:42:26,016 - kolesa_parser.py - INFO - Страница 1 (для LEXUS) собрана | затрачено 138.95030504197348 сек.
+2026-06-05 02:42:33,423 - kolesa_parser.py - INFO - Датасет lexus_1_1.csv для LEXUS, страницы 1 - 1 собран | затрачено 146.33298666705377 сек.2026-06-05 14:44:48,862 - kolesa_parser.py - INFO - Выбранная марка: kia | страницы: с 1 по 1
+2026-06-05 14:44:48,862 - kolesa_parser.py - INFO - Получаем список объявлений для KIA, страница: 1
+2026-06-05 14:44:49,480 - kolesa_parser.py - INFO - Открыта страница 1 | KIA
+2026-06-05 14:44:49,556 - kolesa_parser.py - INFO - Получены карточек для страницы 1 | KIA
+2026-06-05 14:44:56,229 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220356629?search_id=c6c5e3106fce95054f6fb68a25b8b2dedc6ca6d1&search_type=filter&advert_position=1
+2026-06-05 14:44:56,258 - kolesa_parser.py - INFO - Получено объявление Kia Sportage 6700000₸. id = 220356629 | затрачено 6.702317583025433 сек.
