@@ -4567,3 +4567,719 @@
 2026-06-06 20:50:02,609 - kolesa_parser.py - INFO - Объявлений не собрано по ошибкам: 0
 2026-06-06 20:50:02,609 - kolesa_parser.py - INFO - Пропущено объявлений без пробега: 5
 2026-06-06 20:50:02,609 - kolesa_parser.py - INFO - Пропущенные страницы: нет
+2026-06-07 03:12:17,612 - kolesa_parser.py - INFO - Выбранная марка: lexus | страницы: с 25 по 50
+2026-06-07 03:12:49,610 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 25
+2026-06-07 03:13:01,623 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=25 | пробуем еще раз
+2026-06-07 03:13:01,624 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:14:10,974 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=25
+2026-06-07 03:14:10,976 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:14:43,944 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 26
+2026-06-07 03:14:55,949 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=26 | пробуем еще раз
+2026-06-07 03:14:55,949 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:15:53,379 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=26
+2026-06-07 03:15:53,382 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:16:26,497 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 27
+2026-06-07 03:16:38,502 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=27 | пробуем еще раз
+2026-06-07 03:16:38,502 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:17:43,353 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=27
+2026-06-07 03:17:43,360 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:18:16,550 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 28
+2026-06-07 03:18:28,561 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=28 | пробуем еще раз
+2026-06-07 03:18:28,561 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:19:28,978 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=28
+2026-06-07 03:19:28,997 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:20:01,158 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 29
+2026-06-07 03:20:13,158 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=29 | пробуем еще раз
+2026-06-07 03:20:13,159 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:21:20,572 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=29
+2026-06-07 03:21:20,574 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:21:51,084 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 30
+2026-06-07 03:22:03,089 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=30 | пробуем еще раз
+2026-06-07 03:22:03,089 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:23:05,302 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=30
+2026-06-07 03:23:05,304 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:23:38,930 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 31
+2026-06-07 03:23:50,937 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=31 | пробуем еще раз
+2026-06-07 03:23:50,939 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:24:47,605 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=31
+2026-06-07 03:24:47,606 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:25:22,111 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 32
+2026-06-07 03:25:34,116 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=32 | пробуем еще раз
+2026-06-07 03:25:34,116 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12004 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:26:41,897 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=32
+2026-06-07 03:26:41,898 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:27:16,474 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 33
+2026-06-07 03:27:28,480 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=33 | пробуем еще раз
+2026-06-07 03:27:28,480 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:28:27,037 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=33
+2026-06-07 03:28:27,039 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:28:58,834 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 34
+2026-06-07 03:29:10,839 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=34 | пробуем еще раз
+2026-06-07 03:29:10,840 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:30:12,470 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=34
+2026-06-07 03:30:12,472 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:30:46,663 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 35
+2026-06-07 03:30:58,668 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=35 | пробуем еще раз
+2026-06-07 03:30:58,669 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:31:59,874 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=35
+2026-06-07 03:31:59,876 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:32:34,556 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 36
+2026-06-07 03:32:46,565 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=36 | пробуем еще раз
+2026-06-07 03:32:46,565 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12004 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:33:46,576 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=36
+2026-06-07 03:33:46,578 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:34:20,241 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 37
+2026-06-07 03:34:32,297 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=37 | пробуем еще раз
+2026-06-07 03:34:32,298 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:35:36,957 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=37
+2026-06-07 03:35:36,959 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:36:10,045 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 38
+2026-06-07 03:36:22,051 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=38 | пробуем еще раз
+2026-06-07 03:36:22,051 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:37:33,057 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=38
+2026-06-07 03:37:33,060 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:38:06,897 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 39
+2026-06-07 03:38:18,903 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=39 | пробуем еще раз
+2026-06-07 03:38:18,905 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:39:27,317 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=39
+2026-06-07 03:39:27,318 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:39:59,692 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 40
+2026-06-07 03:40:11,697 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=40 | пробуем еще раз
+2026-06-07 03:40:11,698 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:41:14,227 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=40
+2026-06-07 03:41:14,230 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:41:44,413 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 41
+2026-06-07 03:41:56,418 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=41 | пробуем еще раз
+2026-06-07 03:41:56,419 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:42:53,749 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=41
+2026-06-07 03:42:53,751 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:43:26,652 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 42
+2026-06-07 03:43:38,658 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=42 | пробуем еще раз
+2026-06-07 03:43:38,658 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:44:37,895 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=42
+2026-06-07 03:44:37,897 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:45:12,018 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 43
+2026-06-07 03:45:24,026 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=43 | пробуем еще раз
+2026-06-07 03:45:24,026 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12004 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:46:22,840 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=43
+2026-06-07 03:46:22,841 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:46:53,444 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 44
+2026-06-07 03:47:05,449 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=44 | пробуем еще раз
+2026-06-07 03:47:05,450 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:48:13,806 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=44
+2026-06-07 03:48:13,809 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:48:43,891 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 45
+2026-06-07 03:48:55,896 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=45 | пробуем еще раз
+2026-06-07 03:48:55,897 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:50:06,777 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=45
+2026-06-07 03:50:06,781 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:50:40,051 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 46
+2026-06-07 03:50:52,058 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=46 | пробуем еще раз
+2026-06-07 03:50:52,059 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:51:51,293 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=46
+2026-06-07 03:51:51,295 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:52:23,862 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 47
+2026-06-07 03:52:35,868 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=47 | пробуем еще раз
+2026-06-07 03:52:35,869 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:53:40,736 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=47
+2026-06-07 03:53:40,737 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:54:11,767 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 48
+2026-06-07 03:54:23,774 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=48 | пробуем еще раз
+2026-06-07 03:54:23,774 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:55:31,902 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=48
+2026-06-07 03:55:31,903 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:56:06,016 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 49
+2026-06-07 03:56:18,022 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=49 | пробуем еще раз
+2026-06-07 03:56:18,023 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:57:15,755 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=49
+2026-06-07 03:57:15,757 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:57:46,743 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 50
+2026-06-07 03:57:58,750 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=50 | пробуем еще раз
+2026-06-07 03:57:58,752 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12003 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-07 03:59:03,430 - kolesa_parser.py - ERROR - Ошибка открытия страницы https://kolesa.kz/cars/lexus/avtomobili-s-probegom/?price%5Bfrom%5D=2000000&price%5Bto%5D=60000000&page=50
+2026-06-07 03:59:03,432 - kolesa_parser.py - ERROR - Failed to perform, curl: (28) Connection timed out after 12002 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-06-08 10:30:53,310 - kolesa_parser.py - INFO - Выбранная марка: kia | страницы: с 30 по 35
+2026-06-08 10:31:25,429 - kolesa_parser.py - INFO - Получаем список объявлений для KIA, страница: 30
+2026-06-08 10:31:26,422 - kolesa_parser.py - INFO - Открыта страница 30 | KIA
+2026-06-08 10:31:26,505 - kolesa_parser.py - INFO - Получены карточек для страницы 30 | KIA
+2026-06-08 10:31:38,043 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221971452?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=581
+2026-06-08 10:31:39,616 - kolesa_parser.py - INFO - Получено объявление Kia K5 14100000₸. id = 221971452 | затрачено 13.11088545806706 сек.
+2026-06-08 10:31:53,635 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/184557634?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=582
+2026-06-08 10:31:55,104 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 13500000₸. id = 184557634 | затрачено 15.487261667032726 сек.
+2026-06-08 10:32:05,951 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222310850?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=583
+2026-06-08 10:32:07,399 - kolesa_parser.py - INFO - Получено объявление Kia K7 9500000₸. id = 222310850 | затрачено 12.294488499988802 сек.
+2026-06-08 10:32:22,345 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221806445?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=584
+2026-06-08 10:32:22,357 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221806445?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=584 | пропускаем
+2026-06-08 10:32:35,340 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/206731143?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=585
+2026-06-08 10:32:37,197 - kolesa_parser.py - INFO - Получено объявление Kia Soul 6300000₸. id = 206731143 | затрачено 14.839322542073205 сек.
+2026-06-08 10:32:52,247 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222531612?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=586
+2026-06-08 10:32:52,270 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222531612?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=586 | пропускаем
+2026-06-08 10:33:03,734 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221564600?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=587
+2026-06-08 10:33:04,907 - kolesa_parser.py - INFO - Получено объявление Kia Soul 5600000₸. id = 221564600 | затрачено 12.636946459067985 сек.
+2026-06-08 10:33:19,968 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/200542204?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=588
+2026-06-08 10:33:21,301 - kolesa_parser.py - INFO - Получено объявление Kia Carnival 14000000₸. id = 200542204 | затрачено 16.39400216692593 сек.
+2026-06-08 10:33:36,625 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222121866?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=589
+2026-06-08 10:33:38,164 - kolesa_parser.py - INFO - Получено объявление Kia Optima 8000000₸. id = 222121866 | затрачено 16.862063166103326 сек.
+2026-06-08 10:33:51,911 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221927818?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=590
+2026-06-08 10:33:53,668 - kolesa_parser.py - INFO - Получено объявление Kia Optima 7900000₸. id = 221927818 | затрачено 15.503585917060263 сек.
+2026-06-08 10:34:04,759 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222113484?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=591
+2026-06-08 10:34:04,772 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222113484?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=591
+2026-06-08 10:34:05,936 - kolesa_parser.py - INFO - Получено объявление Kia Cerato 4100000₸. id = 222113484 | затрачено 12.267698499956168 сек.
+2026-06-08 10:34:16,977 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221271610?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=592
+2026-06-08 10:34:17,783 - kolesa_parser.py - INFO - Получено объявление Kia Cerato 7700000₸. id = 221271610 | затрачено 11.847128875087947 сек.
+2026-06-08 10:34:32,539 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221267465?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=593
+2026-06-08 10:34:34,109 - kolesa_parser.py - INFO - Получено объявление Kia Rio 7100000₸. id = 221267465 | затрачено 16.325113917002454 сек.
+2026-06-08 10:34:47,963 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222601088?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=594
+2026-06-08 10:34:48,719 - kolesa_parser.py - INFO - Получено объявление Kia Rio 4500000₸. id = 222601088 | затрачено 14.610064708045684 сек.
+2026-06-08 10:35:04,156 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220767511?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=595
+2026-06-08 10:35:05,598 - kolesa_parser.py - INFO - Получено объявление Kia K9 25000000₸. id = 220767511 | затрачено 16.878397541935556 сек.
+2026-06-08 10:35:18,022 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220169437?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=596
+2026-06-08 10:35:19,026 - kolesa_parser.py - INFO - Получено объявление Kia Sportage 13500000₸. id = 220169437 | затрачено 13.427507292013615 сек.
+2026-06-08 10:35:30,209 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219736261?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=597
+2026-06-08 10:35:31,864 - kolesa_parser.py - INFO - Получено объявление Kia Cerato 10800000₸. id = 219736261 | затрачено 12.837665291968733 сек.
+2026-06-08 10:35:44,423 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222323706?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=598
+2026-06-08 10:35:44,446 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222323706?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=598 | пропускаем
+2026-06-08 10:35:56,176 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221699627?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=599
+2026-06-08 10:35:56,200 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221699627?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=599
+2026-06-08 10:35:57,672 - kolesa_parser.py - INFO - Получено объявление Kia K5 7850000₸. id = 221699627 | затрачено 13.225440084002912 сек.
+2026-06-08 10:36:09,483 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221657350?search_id=4f7639fd76888e9597285f777b0fe98204b712f1&search_type=filter&advert_position=600
+2026-06-08 10:36:10,694 - kolesa_parser.py - INFO - Получено объявление Kia Sportage 12800000₸. id = 221657350 | затрачено 13.02161512488965 сек.
+2026-06-08 10:36:10,694 - kolesa_parser.py - INFO - Страница 30 (для KIA) собрана | затрачено 285.2643192090327 сек.
+2026-06-08 10:36:43,500 - kolesa_parser.py - INFO - Получаем список объявлений для KIA, страница: 31
+2026-06-08 10:36:44,042 - kolesa_parser.py - INFO - Открыта страница 31 | KIA
+2026-06-08 10:36:44,159 - kolesa_parser.py - INFO - Получены карточек для страницы 31 | KIA
+2026-06-08 10:36:55,827 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/208574328?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=601
+2026-06-08 10:36:57,488 - kolesa_parser.py - INFO - Получено объявление Kia Carnival 21000000₸. id = 208574328 | затрачено 13.329231832991354 сек.
+2026-06-08 10:37:10,316 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/194558070?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=602
+2026-06-08 10:37:11,211 - kolesa_parser.py - INFO - Получено объявление Kia Rio X-Line 8800000₸. id = 194558070 | затрачено 13.722250125021674 сек.
+2026-06-08 10:37:22,256 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222552294?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=603
+2026-06-08 10:37:22,278 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222552294?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=603
+2026-06-08 10:37:23,197 - kolesa_parser.py - INFO - Получено объявление Kia K5 12800000₸. id = 222552294 | затрачено 11.985402125050314 сек.
+2026-06-08 10:37:33,647 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221403615?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=604
+2026-06-08 10:37:34,801 - kolesa_parser.py - INFO - Получено объявление Kia Stinger 20000000₸. id = 221403615 | затрачено 11.603446707944386 сек.
+2026-06-08 10:37:47,832 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/215514667?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=605
+2026-06-08 10:37:48,673 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 17500000₸. id = 215514667 | затрачено 13.87131729198154 сек.
+2026-06-08 10:37:59,539 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/209019163?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=606
+2026-06-08 10:37:59,567 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/209019163?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=606
+2026-06-08 10:38:01,169 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 9300000₸. id = 209019163 | затрачено 12.496068167034537 сек.
+2026-06-08 10:38:11,693 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221971452?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=607
+2026-06-08 10:38:13,336 - kolesa_parser.py - INFO - Получено объявление Kia K5 14100000₸. id = 221971452 | затрачено 12.165645000059158 сек.
+2026-06-08 10:38:25,871 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/184557634?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=608
+2026-06-08 10:38:26,844 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 13500000₸. id = 184557634 | затрачено 13.50787454098463 сек.
+2026-06-08 10:38:39,036 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222310850?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=609
+2026-06-08 10:38:39,792 - kolesa_parser.py - INFO - Получено объявление Kia K7 9500000₸. id = 222310850 | затрачено 12.947420625016093 сек.
+2026-06-08 10:38:52,790 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221806445?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=610
+2026-06-08 10:38:52,814 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221806445?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=610 | пропускаем
+2026-06-08 10:39:06,086 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/206731143?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=611
+2026-06-08 10:39:07,635 - kolesa_parser.py - INFO - Получено объявление Kia Soul 6300000₸. id = 206731143 | затрачено 14.820421166019514 сек.
+2026-06-08 10:39:21,750 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222531612?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=612
+2026-06-08 10:39:21,783 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222531612?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=612 | пропускаем
+2026-06-08 10:39:33,978 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221564600?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=613
+2026-06-08 10:39:35,453 - kolesa_parser.py - INFO - Получено объявление Kia Soul 5600000₸. id = 221564600 | затрачено 13.669628250063397 сек.
+2026-06-08 10:39:47,728 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/200542204?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=614
+2026-06-08 10:39:49,011 - kolesa_parser.py - INFO - Получено объявление Kia Carnival 14000000₸. id = 200542204 | затрачено 13.558107583085075 сек.
+2026-06-08 10:40:00,210 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222121866?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=615
+2026-06-08 10:40:01,437 - kolesa_parser.py - INFO - Получено объявление Kia Optima 8000000₸. id = 222121866 | затрачено 12.425637375097722 сек.
+2026-06-08 10:40:16,008 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221927818?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=616
+2026-06-08 10:40:16,815 - kolesa_parser.py - INFO - Получено объявление Kia Optima 7900000₸. id = 221927818 | затрачено 15.37707670906093 сек.
+2026-06-08 10:40:29,044 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222113484?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=617
+2026-06-08 10:40:29,060 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222113484?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=617
+2026-06-08 10:40:29,813 - kolesa_parser.py - INFO - Получено объявление Kia Cerato 4100000₸. id = 222113484 | затрачено 12.997694166959263 сек.
+2026-06-08 10:40:45,283 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221271610?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=618
+2026-06-08 10:40:46,234 - kolesa_parser.py - INFO - Получено объявление Kia Cerato 7700000₸. id = 221271610 | затрачено 16.4211910830345 сек.
+2026-06-08 10:40:59,177 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221267465?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=619
+2026-06-08 10:41:00,737 - kolesa_parser.py - INFO - Получено объявление Kia Rio 7100000₸. id = 221267465 | затрачено 14.502548458985984 сек.
+2026-06-08 10:41:13,953 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222601088?search_id=f5f6028e16aef41b7f69ff83e6992b0e1d8530e6&search_type=filter&advert_position=620
+2026-06-08 10:41:14,807 - kolesa_parser.py - INFO - Получено объявление Kia Rio 4500000₸. id = 222601088 | затрачено 14.06897270900663 сек.
+2026-06-08 10:41:14,807 - kolesa_parser.py - INFO - Страница 31 (для KIA) собрана | затрачено 271.304686000105 сек.
+2026-06-08 10:41:52,343 - kolesa_parser.py - INFO - Получаем список объявлений для KIA, страница: 32
+2026-06-08 10:41:52,905 - kolesa_parser.py - INFO - Открыта страница 32 | KIA
+2026-06-08 10:41:52,960 - kolesa_parser.py - INFO - Получены карточек для страницы 32 | KIA
+2026-06-08 10:42:04,046 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222562374?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=621
+2026-06-08 10:42:05,616 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 8000000₸. id = 222562374 | затрачено 12.656102041015401 сек.
+2026-06-08 10:42:18,202 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222179283?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=622
+2026-06-08 10:42:19,525 - kolesa_parser.py - INFO - Получено объявление Kia K7 5500000₸. id = 222179283 | затрачено 13.909100707969628 сек.
+2026-06-08 10:42:32,355 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221758848?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=623
+2026-06-08 10:42:32,373 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221758848?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=623
+2026-06-08 10:42:33,613 - kolesa_parser.py - INFO - Получено объявление Kia Sportage 15300000₸. id = 221758848 | затрачено 14.08733274997212 сек.
+2026-06-08 10:42:47,924 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216040817?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=624
+2026-06-08 10:42:47,948 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/216040817?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=624 | пропускаем
+2026-06-08 10:42:58,532 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/208574328?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=625
+2026-06-08 10:42:59,649 - kolesa_parser.py - INFO - Получено объявление Kia Carnival 21000000₸. id = 208574328 | затрачено 11.700914500048384 сек.
+2026-06-08 10:43:10,683 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/194558070?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=626
+2026-06-08 10:43:12,300 - kolesa_parser.py - INFO - Получено объявление Kia Rio X-Line 8800000₸. id = 194558070 | затрачено 12.650032375007868 сек.
+2026-06-08 10:43:24,790 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222552294?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=627
+2026-06-08 10:43:24,803 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222552294?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=627
+2026-06-08 10:43:26,338 - kolesa_parser.py - INFO - Получено объявление Kia K5 12800000₸. id = 222552294 | затрачено 14.038074249983765 сек.
+2026-06-08 10:43:37,087 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221403615?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=628
+2026-06-08 10:43:37,945 - kolesa_parser.py - INFO - Получено объявление Kia Stinger 20000000₸. id = 221403615 | затрачено 11.607193542062305 сек.
+2026-06-08 10:43:50,526 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/215514667?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=629
+2026-06-08 10:43:51,608 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 17500000₸. id = 215514667 | затрачено 13.662050375016406 сек.
+2026-06-08 10:44:07,053 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/209019163?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=630
+2026-06-08 10:44:07,069 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/209019163?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=630
+2026-06-08 10:44:08,510 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 9300000₸. id = 209019163 | затрачено 17.06579908297863 сек.
+2026-06-08 10:44:23,280 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221971452?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=631
+2026-06-08 10:44:24,080 - kolesa_parser.py - INFO - Получено объявление Kia K5 14100000₸. id = 221971452 | затрачено 15.569241999997757 сек.
+2026-06-08 10:44:38,712 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/184557634?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=632
+2026-06-08 10:44:39,521 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 13500000₸. id = 184557634 | затрачено 15.440320000052452 сек.
+2026-06-08 10:44:52,289 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221806445?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=633
+2026-06-08 10:44:52,318 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221806445?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=633 | пропускаем
+2026-06-08 10:45:04,033 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/206731143?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=634
+2026-06-08 10:45:04,995 - kolesa_parser.py - INFO - Получено объявление Kia Soul 6300000₸. id = 206731143 | затрачено 12.676066541927867 сек.
+2026-06-08 10:45:15,374 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222531612?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=635
+2026-06-08 10:45:15,393 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222531612?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=635 | пропускаем
+2026-06-08 10:45:26,230 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221564600?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=636
+2026-06-08 10:45:27,801 - kolesa_parser.py - INFO - Получено объявление Kia Soul 5600000₸. id = 221564600 | затрачено 12.40840999991633 сек.
+2026-06-08 10:45:42,383 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/200542204?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=637
+2026-06-08 10:45:43,689 - kolesa_parser.py - INFO - Получено объявление Kia Carnival 14000000₸. id = 200542204 | затрачено 15.888204084010795 сек.
+2026-06-08 10:45:54,192 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221927818?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=638
+2026-06-08 10:45:55,326 - kolesa_parser.py - INFO - Получено объявление Kia Optima 7900000₸. id = 221927818 | затрачено 11.636048666900024 сек.
+2026-06-08 10:46:06,115 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222113484?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=639
+2026-06-08 10:46:06,128 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222113484?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=639
+2026-06-08 10:46:07,647 - kolesa_parser.py - INFO - Получено объявление Kia Cerato 4100000₸. id = 222113484 | затрачено 12.321459875092842 сек.
+2026-06-08 10:46:18,730 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221271610?search_id=16b50a93fc06f995a172d55cd967dec777d3683d&search_type=filter&advert_position=640
+2026-06-08 10:46:20,350 - kolesa_parser.py - INFO - Получено объявление Kia Cerato 7700000₸. id = 221271610 | затрачено 12.702765499940142 сек.
+2026-06-08 10:46:20,351 - kolesa_parser.py - INFO - Страница 32 (для KIA) собрана | затрачено 268.17651733302046 сек.
+2026-06-08 10:46:56,412 - kolesa_parser.py - INFO - Получаем список объявлений для KIA, страница: 33
+2026-06-08 10:46:56,933 - kolesa_parser.py - INFO - Открыта страница 33 | KIA
+2026-06-08 10:46:57,007 - kolesa_parser.py - INFO - Получены карточек для страницы 33 | KIA
+2026-06-08 10:47:09,236 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216040817?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=641
+2026-06-08 10:47:09,259 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/216040817?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=641 | пропускаем
+2026-06-08 10:47:23,042 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/208574328?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=642
+2026-06-08 10:47:24,472 - kolesa_parser.py - INFO - Получено объявление Kia Carnival 21000000₸. id = 208574328 | затрачено 15.2135056250263 сек.
+2026-06-08 10:47:35,614 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/194558070?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=643
+2026-06-08 10:47:37,159 - kolesa_parser.py - INFO - Получено объявление Kia Rio X-Line 8800000₸. id = 194558070 | затрачено 12.686234041000716 сек.
+2026-06-08 10:47:48,993 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222552294?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=644
+2026-06-08 10:47:49,011 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222552294?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=644
+2026-06-08 10:47:50,680 - kolesa_parser.py - INFO - Получено объявление Kia K5 12800000₸. id = 222552294 | затрачено 13.520845249993727 сек.
+2026-06-08 10:48:01,331 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221403615?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=645
+2026-06-08 10:48:02,409 - kolesa_parser.py - INFO - Получено объявление Kia Stinger 20000000₸. id = 221403615 | затрачено 11.729243582929485 сек.
+2026-06-08 10:48:15,923 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/215514667?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=646
+2026-06-08 10:48:16,857 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 17500000₸. id = 215514667 | затрачено 14.448182375053875 сек.
+2026-06-08 10:48:30,252 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/209019163?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=647
+2026-06-08 10:48:30,278 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/209019163?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=647
+2026-06-08 10:48:31,408 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 9300000₸. id = 209019163 | затрачено 14.55034341593273 сек.
+2026-06-08 10:48:44,175 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221971452?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=648
+2026-06-08 10:48:45,677 - kolesa_parser.py - INFO - Получено объявление Kia K5 14100000₸. id = 221971452 | затрачено 14.26919679204002 сек.
+2026-06-08 10:48:56,934 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/184557634?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=649
+2026-06-08 10:48:57,963 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 13500000₸. id = 184557634 | затрачено 12.285551749984734 сек.
+2026-06-08 10:49:09,911 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221806445?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=650
+2026-06-08 10:49:09,920 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221806445?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=650 | пропускаем
+2026-06-08 10:49:22,657 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/206731143?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=651
+2026-06-08 10:49:23,831 - kolesa_parser.py - INFO - Получено объявление Kia Soul 6300000₸. id = 206731143 | затрачено 13.91111029102467 сек.
+2026-06-08 10:49:34,191 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222531612?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=652
+2026-06-08 10:49:34,221 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222531612?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=652 | пропускаем
+2026-06-08 10:49:47,954 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221564600?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=653
+2026-06-08 10:49:49,144 - kolesa_parser.py - INFO - Получено объявление Kia Soul 5600000₸. id = 221564600 | затрачено 14.923831959022209 сек.
+2026-06-08 10:50:04,335 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/200542204?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=654
+2026-06-08 10:50:05,606 - kolesa_parser.py - INFO - Получено объявление Kia Carnival 14000000₸. id = 200542204 | затрачено 16.461647957912646 сек.
+2026-06-08 10:50:16,534 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221927818?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=655
+2026-06-08 10:50:18,203 - kolesa_parser.py - INFO - Получено объявление Kia Optima 7900000₸. id = 221927818 | затрачено 12.59708295809105 сек.
+2026-06-08 10:50:33,046 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222113484?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=656
+2026-06-08 10:50:33,070 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222113484?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=656
+2026-06-08 10:50:34,270 - kolesa_parser.py - INFO - Получено объявление Kia Cerato 4100000₸. id = 222113484 | затрачено 16.066976959002204 сек.
+2026-06-08 10:50:47,494 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221271610?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=657
+2026-06-08 10:50:48,671 - kolesa_parser.py - INFO - Получено объявление Kia Cerato 7700000₸. id = 221271610 | затрачено 14.400962791987695 сек.
+2026-06-08 10:50:59,573 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221267465?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=658
+2026-06-08 10:51:00,420 - kolesa_parser.py - INFO - Получено объявление Kia Rio 7100000₸. id = 221267465 | затрачено 11.748544083093293 сек.
+2026-06-08 10:51:13,087 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222601088?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=659
+2026-06-08 10:51:14,749 - kolesa_parser.py - INFO - Получено объявление Kia Rio 4500000₸. id = 222601088 | затрачено 14.328685624990612 сек.
+2026-06-08 10:51:27,443 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220767511?search_id=74719b5935f5fc7e7c4f52055dedb003316c1be9&search_type=filter&advert_position=660
+2026-06-08 10:51:28,277 - kolesa_parser.py - INFO - Получено объявление Kia K9 25000000₸. id = 220767511 | затрачено 13.528298957971856 сек.
+2026-06-08 10:51:28,278 - kolesa_parser.py - INFO - Страница 33 (для KIA) собрана | затрачено 271.8677257919917 сек.
+2026-06-08 10:52:03,278 - kolesa_parser.py - INFO - Получаем список объявлений для KIA, страница: 34
+2026-06-08 10:52:03,810 - kolesa_parser.py - INFO - Открыта страница 34 | KIA
+2026-06-08 10:52:03,875 - kolesa_parser.py - INFO - Получены карточек для страницы 34 | KIA
+2026-06-08 10:52:18,283 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222552294?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=661
+2026-06-08 10:52:18,296 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222552294?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=661
+2026-06-08 10:52:19,414 - kolesa_parser.py - INFO - Получено объявление Kia K5 12800000₸. id = 222552294 | затрачено 15.538671875023283 сек.
+2026-06-08 10:52:34,669 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221403615?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=662
+2026-06-08 10:52:35,398 - kolesa_parser.py - INFO - Получено объявление Kia Stinger 20000000₸. id = 221403615 | затрачено 15.983596249949187 сек.
+2026-06-08 10:52:48,387 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/215514667?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=663
+2026-06-08 10:52:49,310 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 17500000₸. id = 215514667 | затрачено 13.91178820899222 сек.
+2026-06-08 10:53:01,274 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/209019163?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=664
+2026-06-08 10:53:01,292 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/209019163?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=664
+2026-06-08 10:53:02,949 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 9300000₸. id = 209019163 | затрачено 13.639468875015154 сек.
+2026-06-08 10:53:16,437 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221971452?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=665
+2026-06-08 10:53:18,001 - kolesa_parser.py - INFO - Получено объявление Kia K5 14100000₸. id = 221971452 | затрачено 15.05132054106798 сек.
+2026-06-08 10:53:29,845 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/184557634?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=666
+2026-06-08 10:53:30,751 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 13500000₸. id = 184557634 | затрачено 12.749951374949887 сек.
+2026-06-08 10:53:44,907 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221806445?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=667
+2026-06-08 10:53:44,919 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221806445?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=667 | пропускаем
+2026-06-08 10:53:57,727 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/206731143?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=668
+2026-06-08 10:53:58,907 - kolesa_parser.py - INFO - Получено объявление Kia Soul 6300000₸. id = 206731143 | затрачено 13.988152374979109 сек.
+2026-06-08 10:54:11,362 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222531612?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=669
+2026-06-08 10:54:11,377 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222531612?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=669 | пропускаем
+2026-06-08 10:54:25,921 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221564600?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=670
+2026-06-08 10:54:26,795 - kolesa_parser.py - INFO - Получено объявление Kia Soul 5600000₸. id = 221564600 | затрачено 15.41856383299455 сек.
+2026-06-08 10:54:39,453 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/200542204?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=671
+2026-06-08 10:54:40,589 - kolesa_parser.py - INFO - Получено объявление Kia Carnival 14000000₸. id = 200542204 | затрачено 13.793856665957719 сек.
+2026-06-08 10:54:55,211 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221927818?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=672
+2026-06-08 10:54:56,332 - kolesa_parser.py - INFO - Получено объявление Kia Optima 7900000₸. id = 221927818 | затрачено 15.742975124972872 сек.
+2026-06-08 10:55:11,036 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222113484?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=673
+2026-06-08 10:55:11,051 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222113484?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=673
+2026-06-08 10:55:12,555 - kolesa_parser.py - INFO - Получено объявление Kia Cerato 4100000₸. id = 222113484 | затрачено 16.22285545791965 сек.
+2026-06-08 10:55:23,204 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221271610?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=674
+2026-06-08 10:55:24,861 - kolesa_parser.py - INFO - Получено объявление Kia Cerato 7700000₸. id = 221271610 | затрачено 12.3057380419923 сек.
+2026-06-08 10:55:35,851 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221267465?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=675
+2026-06-08 10:55:36,646 - kolesa_parser.py - INFO - Получено объявление Kia Rio 7100000₸. id = 221267465 | затрачено 11.778611290967092 сек.
+2026-06-08 10:55:51,765 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222601088?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=676
+2026-06-08 10:55:52,731 - kolesa_parser.py - INFO - Получено объявление Kia Rio 4500000₸. id = 222601088 | затрачено 16.08463399996981 сек.
+2026-06-08 10:56:05,688 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220767511?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=677
+2026-06-08 10:56:07,357 - kolesa_parser.py - INFO - Получено объявление Kia K9 25000000₸. id = 220767511 | затрачено 14.625847332994454 сек.
+2026-06-08 10:56:20,783 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220169437?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=678
+2026-06-08 10:56:21,552 - kolesa_parser.py - INFO - Получено объявление Kia Sportage 13500000₸. id = 220169437 | затрачено 14.194996332982555 сек.
+2026-06-08 10:56:32,081 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219736261?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=679
+2026-06-08 10:56:33,393 - kolesa_parser.py - INFO - Получено объявление Kia Cerato 10800000₸. id = 219736261 | затрачено 11.840133041958325 сек.
+2026-06-08 10:56:47,990 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222323706?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=680
+2026-06-08 10:56:48,014 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222323706?search_id=2edb0089149d5af0efbb76da795a35d2befdfd3c&search_type=filter&advert_position=680 | пропускаем
+2026-06-08 10:56:48,017 - kolesa_parser.py - INFO - Страница 34 (для KIA) собрана | затрачено 284.7413630830124 сек.
+2026-06-08 10:57:24,253 - kolesa_parser.py - INFO - Получаем список объявлений для KIA, страница: 35
+2026-06-08 10:57:24,938 - kolesa_parser.py - INFO - Открыта страница 35 | KIA
+2026-06-08 10:57:25,027 - kolesa_parser.py - INFO - Получены карточек для страницы 35 | KIA
+2026-06-08 10:57:39,805 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222552294?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=681
+2026-06-08 10:57:39,830 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222552294?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=681
+2026-06-08 10:57:41,167 - kolesa_parser.py - INFO - Получено объявление Kia K5 12800000₸. id = 222552294 | затрачено 16.139954667072743 сек.
+2026-06-08 10:57:54,051 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221403615?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=682
+2026-06-08 10:57:55,249 - kolesa_parser.py - INFO - Получено объявление Kia Stinger 20000000₸. id = 221403615 | затрачено 14.081881541060284 сек.
+2026-06-08 10:58:06,797 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/215514667?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=683
+2026-06-08 10:58:08,248 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 17500000₸. id = 215514667 | затрачено 12.999122417066246 сек.
+2026-06-08 10:58:23,211 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/209019163?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=684
+2026-06-08 10:58:23,242 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/209019163?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=684
+2026-06-08 10:58:24,676 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 9300000₸. id = 209019163 | затрачено 16.428442292031832 сек.
+2026-06-08 10:58:35,769 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221971452?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=685
+2026-06-08 10:58:36,874 - kolesa_parser.py - INFO - Получено объявление Kia K5 14100000₸. id = 221971452 | затрачено 12.197396875009872 сек.
+2026-06-08 10:58:47,295 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/184557634?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=686
+2026-06-08 10:58:48,195 - kolesa_parser.py - INFO - Получено объявление Kia Sorento 13500000₸. id = 184557634 | затрачено 11.320840207976289 сек.
+2026-06-08 10:59:01,200 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221806445?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=687
+2026-06-08 10:59:01,231 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221806445?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=687 | пропускаем
+2026-06-08 10:59:14,030 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/206731143?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=688
+2026-06-08 10:59:15,292 - kolesa_parser.py - INFO - Получено объявление Kia Soul 6300000₸. id = 206731143 | затрачено 14.0612828329904 сек.
+2026-06-08 10:59:26,394 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222531612?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=689
+2026-06-08 10:59:26,427 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222531612?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=689 | пропускаем
+2026-06-08 10:59:39,745 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221564600?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=690
+2026-06-08 10:59:41,491 - kolesa_parser.py - INFO - Получено объявление Kia Soul 5600000₸. id = 221564600 | затрачено 14.827746959053911 сек.
+2026-06-08 10:59:55,198 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/200542204?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=691
+2026-06-08 10:59:56,409 - kolesa_parser.py - INFO - Получено объявление Kia Carnival 14000000₸. id = 200542204 | затрачено 14.917134457966313 сек.
+2026-06-08 11:00:09,941 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221927818?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=692
+2026-06-08 11:00:10,746 - kolesa_parser.py - INFO - Получено объявление Kia Optima 7900000₸. id = 221927818 | затрачено 14.336212082998827 сек.
+2026-06-08 11:00:22,488 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222113484?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=693
+2026-06-08 11:00:22,511 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222113484?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=693
+2026-06-08 11:00:23,563 - kolesa_parser.py - INFO - Получено объявление Kia Cerato 4100000₸. id = 222113484 | затрачено 12.817060749977827 сек.
+2026-06-08 11:00:36,042 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221271610?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=694
+2026-06-08 11:00:37,082 - kolesa_parser.py - INFO - Получено объявление Kia Cerato 7700000₸. id = 221271610 | затрачено 13.51819987501949 сек.
+2026-06-08 11:00:48,623 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221267465?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=695
+2026-06-08 11:00:50,403 - kolesa_parser.py - INFO - Получено объявление Kia Rio 7100000₸. id = 221267465 | затрачено 13.320855624973774 сек.
+2026-06-08 11:01:02,678 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222601088?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=696
+2026-06-08 11:01:03,963 - kolesa_parser.py - INFO - Получено объявление Kia Rio 4500000₸. id = 222601088 | затрачено 13.559512207983062 сек.
+2026-06-08 11:01:15,728 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220767511?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=697
+2026-06-08 11:01:17,191 - kolesa_parser.py - INFO - Получено объявление Kia K9 25000000₸. id = 220767511 | затрачено 13.227439957903698 сек.
+2026-06-08 11:01:28,252 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220169437?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=698
+2026-06-08 11:01:29,495 - kolesa_parser.py - INFO - Получено объявление Kia Sportage 13500000₸. id = 220169437 | затрачено 12.30327449995093 сек.
+2026-06-08 11:01:42,411 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219736261?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=699
+2026-06-08 11:01:43,278 - kolesa_parser.py - INFO - Получено объявление Kia Cerato 10800000₸. id = 219736261 | затрачено 13.783029292011634 сек.
+2026-06-08 11:01:54,327 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222323706?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=700
+2026-06-08 11:01:54,353 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222323706?search_id=27780b2457f867d42a40afe4a18520bb505b2afd&search_type=filter&advert_position=700 | пропускаем
+2026-06-08 11:01:54,353 - kolesa_parser.py - INFO - Страница 35 (для KIA) собрана | затрачено 269.86224487493746 сек.
+2026-06-08 11:01:57,766 - kolesa_parser.py - INFO - Датасет kia_30_35.csv для KIA, страницы 30 - 35 собран | затрачено 1864.3438647080911 сек.
+2026-06-08 11:01:57,766 - kolesa_parser.py - INFO - Объявлений без фото: 0
+2026-06-08 11:01:57,766 - kolesa_parser.py - INFO - Объявлений не собрано по ошибкам: 0
+2026-06-08 11:01:57,766 - kolesa_parser.py - INFO - Пропущено объявлений без пробега: 17
+2026-06-08 11:01:57,766 - kolesa_parser.py - INFO - Пропущенные страницы: нет
+2026-06-08 11:12:48,693 - kolesa_parser.py - INFO - Выбранная марка: lexus | страницы: с 25 по 30
+2026-06-08 11:13:22,589 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 25
+2026-06-08 11:13:23,622 - kolesa_parser.py - INFO - Открыта страница 25 | LEXUS
+2026-06-08 11:13:23,794 - kolesa_parser.py - INFO - Получены карточек для страницы 25 | LEXUS
+2026-06-08 11:13:36,573 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221779692?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=481
+2026-06-08 11:13:37,979 - kolesa_parser.py - INFO - Получено объявление Lexus RX 300 6000000₸. id = 221779692 | затрачено 14.184133291011676 сек.
+2026-06-08 11:13:50,662 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222297189?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=482
+2026-06-08 11:13:51,730 - kolesa_parser.py - INFO - Получено объявление Lexus ES 250 19000000₸. id = 222297189 | затрачено 13.750093917013146 сек.
+2026-06-08 11:14:05,313 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222508819?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=483
+2026-06-08 11:14:05,324 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222508819?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=483 | пропускаем
+2026-06-08 11:14:16,644 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/197044481?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=484
+2026-06-08 11:14:18,035 - kolesa_parser.py - INFO - Получено объявление Lexus LS 500 32000000₸. id = 197044481 | затрачено 12.710191457998008 сек.
+2026-06-08 11:14:30,621 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/212968688?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=485
+2026-06-08 11:14:31,881 - kolesa_parser.py - INFO - Получено объявление Lexus NX 200 17500000₸. id = 212968688 | затрачено 13.845608875039034 сек.
+2026-06-08 11:14:43,112 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222425215?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=486
+2026-06-08 11:14:43,827 - kolesa_parser.py - INFO - Получено объявление Lexus NX 200t 12200000₸. id = 222425215 | затрачено 11.944878999958746 сек.
+2026-06-08 11:14:55,338 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/199727974?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=487
+2026-06-08 11:14:55,361 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/199727974?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=487 | пропускаем
+2026-06-08 11:15:10,244 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221308784?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=488
+2026-06-08 11:15:10,278 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221308784?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=488 | пропускаем
+2026-06-08 11:15:25,193 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219836711?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=489
+2026-06-08 11:15:26,463 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 38000000₸. id = 219836711 | затрачено 16.18882337503601 сек.
+2026-06-08 11:15:38,725 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/201162034?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=490
+2026-06-08 11:15:38,734 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/201162034?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=490 | пропускаем
+2026-06-08 11:15:51,716 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221931565?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=491
+2026-06-08 11:15:51,730 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221931565?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=491
+2026-06-08 11:15:52,829 - kolesa_parser.py - INFO - Получено объявление Lexus RX 300 27500000₸. id = 221931565 | затрачено 14.095415416988544 сек.
+2026-06-08 11:16:07,448 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221995721?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=492
+2026-06-08 11:16:07,472 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221995721?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=492 | пропускаем
+2026-06-08 11:16:19,198 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221128521?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=493
+2026-06-08 11:16:19,221 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221128521?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=493
+2026-06-08 11:16:19,998 - kolesa_parser.py - INFO - Получено объявление Lexus ES 330 4900000₸. id = 221128521 | затрачено 12.525584083981812 сек.
+2026-06-08 11:16:32,671 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218296679?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=494
+2026-06-08 11:16:33,838 - kolesa_parser.py - INFO - Получено объявление Lexus GS 350 7600000₸. id = 218296679 | затрачено 13.83962441701442 сек.
+2026-06-08 11:16:45,398 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222557777?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=495
+2026-06-08 11:16:45,421 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222557777?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=495 | пропускаем
+2026-06-08 11:16:58,914 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219951896?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=496
+2026-06-08 11:17:04,841 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 47000000₸. id = 219951896 | затрачено 19.419312916928902 сек.
+2026-06-08 11:17:18,176 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222223199?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=497
+2026-06-08 11:17:19,564 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300 5500000₸. id = 222223199 | затрачено 14.722961457911879 сек.
+2026-06-08 11:17:31,244 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/201691922?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=498
+2026-06-08 11:17:31,254 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/201691922?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=498 | пропускаем
+2026-06-08 11:17:43,117 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222131562?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=499
+2026-06-08 11:17:43,143 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222131562?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=499
+2026-06-08 11:17:44,637 - kolesa_parser.py - INFO - Получено объявление Lexus GX 460 13300000₸. id = 222131562 | затрачено 13.382963375071995 сек.
+2026-06-08 11:17:59,596 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221486886?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=500
+2026-06-08 11:17:59,623 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221486886?search_id=8015f842f1de44e0da1819f7e6e07f8aafcdcf5e&search_type=filter&advert_position=500 | пропускаем
+2026-06-08 11:17:59,623 - kolesa_parser.py - INFO - Страница 25 (для LEXUS) собрана | затрачено 277.0620077920612 сек.
+2026-06-08 11:18:39,150 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 26
+2026-06-08 11:18:39,840 - kolesa_parser.py - INFO - Открыта страница 26 | LEXUS
+2026-06-08 11:18:39,955 - kolesa_parser.py - INFO - Получены карточек для страницы 26 | LEXUS
+2026-06-08 11:18:51,241 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219951896?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=501
+2026-06-08 11:18:52,885 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 47000000₸. id = 219951896 | затрачено 12.930009999894537 сек.
+2026-06-08 11:19:08,209 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222223199?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=502
+2026-06-08 11:19:09,320 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300 5500000₸. id = 222223199 | затрачено 16.434189666993916 сек.
+2026-06-08 11:19:20,099 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/201691922?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=503
+2026-06-08 11:19:20,122 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/201691922?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=503 | пропускаем
+2026-06-08 11:19:33,240 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222131562?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=504
+2026-06-08 11:19:33,262 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222131562?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=504
+2026-06-08 11:19:34,800 - kolesa_parser.py - INFO - Получено объявление Lexus GX 460 13300000₸. id = 222131562 | затрачено 14.678071500035003 сек.
+2026-06-08 11:19:48,439 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221486886?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=505
+2026-06-08 11:19:48,466 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221486886?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=505 | пропускаем
+2026-06-08 11:20:05,902 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222408196?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=506
+2026-06-08 11:20:05,915 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222408196?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=506 | пропускаем
+2026-06-08 11:20:16,418 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217869021?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=507
+2026-06-08 11:20:17,633 - kolesa_parser.py - INFO - Получено объявление Lexus ES 250 19950000₸. id = 217869021 | затрачено 11.718161457916722 сек.
+2026-06-08 11:20:28,575 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/209371118?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=508
+2026-06-08 11:20:28,611 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/209371118?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=508
+2026-06-08 11:20:29,510 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 24500000₸. id = 209371118 | затрачено 11.87666250008624 сек.
+2026-06-08 11:20:40,724 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219086318?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=509
+2026-06-08 11:20:40,750 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/219086318?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=509 | пропускаем
+2026-06-08 11:20:54,876 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222569960?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=510
+2026-06-08 11:20:55,984 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 40000000₸. id = 222569960 | затрачено 15.233479458955117 сек.
+2026-06-08 11:21:08,350 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222311247?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=511
+2026-06-08 11:21:08,363 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222311247?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=511 | пропускаем
+2026-06-08 11:21:19,934 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/209409722?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=512
+2026-06-08 11:21:21,343 - kolesa_parser.py - INFO - Получено объявление Lexus RX 300 4000000₸. id = 209409722 | затрачено 12.979900582926348 сек.
+2026-06-08 11:21:35,155 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222032340?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=513
+2026-06-08 11:21:36,798 - kolesa_parser.py - INFO - Получено объявление Lexus ES 350 7500000₸. id = 222032340 | затрачено 15.453829666948877 сек.
+2026-06-08 11:21:47,436 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222269704?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=514
+2026-06-08 11:21:47,446 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222269704?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=514
+2026-06-08 11:21:48,969 - kolesa_parser.py - INFO - Получено объявление Lexus GX 460 40000000₸. id = 222269704 | затрачено 12.170630583073944 сек.
+2026-06-08 11:22:03,672 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219475953?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=515
+2026-06-08 11:22:05,266 - kolesa_parser.py - INFO - Получено объявление Lexus RX 300 5650000₸. id = 219475953 | затрачено 16.297079999931157 сек.
+2026-06-08 11:22:19,062 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220271888?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=516
+2026-06-08 11:22:20,233 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 8000000₸. id = 220271888 | затрачено 14.967139790998772 сек.
+2026-06-08 11:22:34,396 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221191779?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=517
+2026-06-08 11:22:35,476 - kolesa_parser.py - INFO - Получено объявление Lexus IS 250 6700000₸. id = 221191779 | затрачено 15.242773124948144 сек.
+2026-06-08 11:22:47,404 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222204376?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=518
+2026-06-08 11:22:48,922 - kolesa_parser.py - INFO - Получено объявление Lexus NX 200t 13333333₸. id = 222204376 | затрачено 13.445023041917011 сек.
+2026-06-08 11:23:03,703 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219925134?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=519
+2026-06-08 11:23:03,713 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/219925134?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=519
+2026-06-08 11:23:05,114 - kolesa_parser.py - INFO - Получено объявление Lexus ES 350 13000000₸. id = 219925134 | затрачено 16.192062208079733 сек.
+2026-06-08 11:23:16,875 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220280167?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=520
+2026-06-08 11:23:16,888 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/220280167?search_id=a60977222e31c17661bde53e1f97ee56697ec7b2&search_type=filter&advert_position=520 | пропускаем
+2026-06-08 11:23:16,888 - kolesa_parser.py - INFO - Страница 26 (для LEXUS) собрана | затрачено 277.73404762498103 сек.
+2026-06-08 11:23:51,717 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 27
+2026-06-08 11:23:52,597 - kolesa_parser.py - INFO - Открыта страница 27 | LEXUS
+2026-06-08 11:23:52,679 - kolesa_parser.py - INFO - Получены карточек для страницы 27 | LEXUS
+2026-06-08 11:24:05,078 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222204376?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=521
+2026-06-08 11:24:06,427 - kolesa_parser.py - INFO - Получено объявление Lexus NX 200t 13333333₸. id = 222204376 | затрачено 13.747269834042527 сек.
+2026-06-08 11:24:19,006 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219925134?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=522
+2026-06-08 11:24:19,018 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/219925134?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=522
+2026-06-08 11:24:19,900 - kolesa_parser.py - INFO - Получено объявление Lexus ES 350 13000000₸. id = 219925134 | затрачено 13.472397665958852 сек.
+2026-06-08 11:24:31,672 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220280167?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=523
+2026-06-08 11:24:31,697 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/220280167?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=523 | пропускаем
+2026-06-08 11:24:43,354 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222202684?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=524
+2026-06-08 11:24:44,886 - kolesa_parser.py - INFO - Получено объявление Lexus GS 300 4300000₸. id = 222202684 | затрачено 13.188576541026123 сек.
+2026-06-08 11:24:55,450 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219399303?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=525
+2026-06-08 11:24:55,464 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/219399303?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=525 | пропускаем
+2026-06-08 11:25:06,353 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220345896?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=526
+2026-06-08 11:25:07,922 - kolesa_parser.py - INFO - Получено объявление Lexus RX 200t 17000000₸. id = 220345896 | затрачено 12.456950374995358 сек.
+2026-06-08 11:25:19,436 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222509394?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=527
+2026-06-08 11:25:21,146 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 8140000₸. id = 222509394 | затрачено 13.224584916024469 сек.
+2026-06-08 11:25:33,240 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222558300?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=528
+2026-06-08 11:25:33,255 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222558300?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=528 | пропускаем
+2026-06-08 11:25:47,701 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222492369?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=529
+2026-06-08 11:25:49,030 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 41100000₸. id = 222492369 | затрачено 15.774632000015117 сек.
+2026-06-08 11:26:02,196 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222100756?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=530
+2026-06-08 11:26:03,073 - kolesa_parser.py - INFO - Получено объявление Lexus GX 460 17900000₸. id = 222100756 | затрачено 14.042129999957979 сек.
+2026-06-08 11:26:16,195 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221141388?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=531
+2026-06-08 11:26:16,214 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221141388?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=531
+2026-06-08 11:26:17,426 - kolesa_parser.py - INFO - Получено объявление Lexus ES 350 11500000₸. id = 221141388 | затрачено 14.352798582985997 сек.
+2026-06-08 11:26:30,226 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/218912137?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=532
+2026-06-08 11:26:31,438 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 6800000₸. id = 218912137 | затрачено 14.011729083955288 сек.
+2026-06-08 11:26:44,512 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222568815?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=533
+2026-06-08 11:26:45,705 - kolesa_parser.py - INFO - Получено объявление Lexus RX 200t 17800000₸. id = 222568815 | затрачено 14.26667595806066 сек.
+2026-06-08 11:26:59,564 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221675475?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=534
+2026-06-08 11:26:59,578 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221675475?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=534 | пропускаем
+2026-06-08 11:27:13,209 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220516435?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=535
+2026-06-08 11:27:14,344 - kolesa_parser.py - INFO - Получено объявление Lexus NX 300 13500000₸. id = 220516435 | затрачено 14.76570641703438 сек.
+2026-06-08 11:27:28,168 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222248177?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=536
+2026-06-08 11:27:28,958 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 8000000₸. id = 222248177 | затрачено 14.613794624921866 сек.
+2026-06-08 11:27:42,051 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222192684?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=537
+2026-06-08 11:27:43,450 - kolesa_parser.py - INFO - Получено объявление Lexus ES 250 35000000₸. id = 222192684 | затрачено 14.49145087506622 сек.
+2026-06-08 11:27:58,562 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219319646?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=538
+2026-06-08 11:28:00,235 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 9300000₸. id = 219319646 | затрачено 16.784452875028364 сек.
+2026-06-08 11:28:12,940 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222551116?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=539
+2026-06-08 11:28:12,962 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222551116?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=539 | пропускаем
+2026-06-08 11:28:26,129 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222054422?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=540
+2026-06-08 11:28:26,140 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222054422?search_id=326defbaee5dc916c5db0249dddd0f1291542c2b&search_type=filter&advert_position=540
+2026-06-08 11:28:27,490 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 42000000₸. id = 222054422 | затрачено 14.527751208981499 сек.
+2026-06-08 11:28:27,490 - kolesa_parser.py - INFO - Страница 27 (для LEXUS) собрана | затрачено 275.7699612909928 сек.
+2026-06-08 11:29:03,776 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 28
+2026-06-08 11:29:04,299 - kolesa_parser.py - INFO - Открыта страница 28 | LEXUS
+2026-06-08 11:29:04,354 - kolesa_parser.py - INFO - Получены карточек для страницы 28 | LEXUS
+2026-06-08 11:29:16,387 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221675475?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=541
+2026-06-08 11:29:16,402 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221675475?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=541 | пропускаем
+2026-06-08 11:29:31,955 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220516435?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=542
+2026-06-08 11:29:33,773 - kolesa_parser.py - INFO - Получено объявление Lexus NX 300 13500000₸. id = 220516435 | затрачено 17.37014833302237 сек.
+2026-06-08 11:29:46,372 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222248177?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=543
+2026-06-08 11:29:47,672 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 8000000₸. id = 222248177 | затрачено 13.898813000065275 сек.
+2026-06-08 11:30:01,474 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222192684?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=544
+2026-06-08 11:30:02,906 - kolesa_parser.py - INFO - Получено объявление Lexus ES 250 35000000₸. id = 222192684 | затрачено 15.233499499969184 сек.
+2026-06-08 11:30:13,732 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219319646?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=545
+2026-06-08 11:30:14,853 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 9300000₸. id = 219319646 | затрачено 11.946495709009469 сек.
+2026-06-08 11:30:29,180 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222551116?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=546
+2026-06-08 11:30:29,197 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222551116?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=546 | пропускаем
+2026-06-08 11:30:42,718 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222054422?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=547
+2026-06-08 11:30:42,727 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222054422?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=547
+2026-06-08 11:30:43,553 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 42000000₸. id = 222054422 | затрачено 14.355275250039995 сек.
+2026-06-08 11:30:58,091 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222432566?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=548
+2026-06-08 11:30:58,101 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222432566?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=548 | пропускаем
+2026-06-08 11:31:10,236 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216481689?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=549
+2026-06-08 11:31:10,271 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/216481689?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=549
+2026-06-08 11:31:11,230 - kolesa_parser.py - INFO - Получено объявление Lexus RX 270 13200000₸. id = 216481689 | затрачено 13.127866249997169 сек.
+2026-06-08 11:31:24,031 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222552886?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=550
+2026-06-08 11:31:25,455 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 4500000₸. id = 222552886 | затрачено 14.224892792059109 сек.
+2026-06-08 11:31:38,966 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221748935?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=551
+2026-06-08 11:31:38,978 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221748935?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=551 | пропускаем
+2026-06-08 11:31:52,862 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221550958?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=552
+2026-06-08 11:31:52,882 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221550958?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=552
+2026-06-08 11:31:54,018 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350h 36000000₸. id = 221550958 | затрачено 15.034033999894746 сек.
+2026-06-08 11:32:07,868 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222166912?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=553
+2026-06-08 11:32:07,895 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222166912?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=553 | пропускаем
+2026-06-08 11:32:21,928 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220888793?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=554
+2026-06-08 11:32:23,262 - kolesa_parser.py - INFO - Получено объявление Lexus GS 350 13500000₸. id = 220888793 | затрачено 15.365162665955722 сек.
+2026-06-08 11:32:33,897 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222577011?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=555
+2026-06-08 11:32:35,201 - kolesa_parser.py - INFO - Получено объявление Lexus ES 350 15000000₸. id = 222577011 | затрачено 11.938593667000532 сек.
+2026-06-08 11:32:47,148 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222417670?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=556
+2026-06-08 11:32:48,415 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 49000000₸. id = 222417670 | затрачено 13.213264834019355 сек.
+2026-06-08 11:33:01,179 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/210529778?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=557
+2026-06-08 11:33:01,192 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/210529778?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=557
+2026-06-08 11:33:02,622 - kolesa_parser.py - INFO - Получено объявление Lexus ES 250 22000000₸. id = 210529778 | затрачено 14.20671795902308 сек.
+2026-06-08 11:33:15,602 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/203350069?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=558
+2026-06-08 11:33:15,626 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/203350069?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=558
+2026-06-08 11:33:17,253 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 7600000₸. id = 203350069 | затрачено 14.630169540992938 сек.
+2026-06-08 11:33:30,258 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219164118?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=559
+2026-06-08 11:33:30,966 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 13800000₸. id = 219164118 | затрачено 13.713078624918126 сек.
+2026-06-08 11:33:41,467 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222427964?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=560
+2026-06-08 11:33:41,477 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222427964?search_id=9bf4bcaa8d7566611d7f44f747de53b40cc16b7b&search_type=filter&advert_position=560
+2026-06-08 11:33:42,473 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 5750000₸. id = 222427964 | затрачено 11.506070042029023 сек.
+2026-06-08 11:33:42,473 - kolesa_parser.py - INFO - Страница 28 (для LEXUS) собрана | затрачено 278.6814087500097 сек.
+2026-06-08 11:34:18,330 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 29
+2026-06-08 11:34:19,032 - kolesa_parser.py - INFO - Открыта страница 29 | LEXUS
+2026-06-08 11:34:19,096 - kolesa_parser.py - INFO - Получены карточек для страницы 29 | LEXUS
+2026-06-08 11:34:29,876 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/203350069?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=561
+2026-06-08 11:34:29,898 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/203350069?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=561
+2026-06-08 11:34:31,562 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 7600000₸. id = 203350069 | затрачено 12.465433042030782 сек.
+2026-06-08 11:34:43,504 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219164118?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=562
+2026-06-08 11:34:44,345 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 13800000₸. id = 219164118 | затрачено 12.782565791974775 сек.
+2026-06-08 11:34:57,751 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222427964?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=563
+2026-06-08 11:34:57,761 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222427964?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=563
+2026-06-08 11:34:58,584 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 5750000₸. id = 222427964 | затрачено 14.238391916966066 сек.
+2026-06-08 11:35:13,548 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222401341?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=564
+2026-06-08 11:35:13,571 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222401341?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=564 | пропускаем
+2026-06-08 11:35:27,177 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/171128809?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=565
+2026-06-08 11:35:28,528 - kolesa_parser.py - INFO - Получено объявление Lexus IS 300 8500000₸. id = 171128809 | затрачено 14.955801542033441 сек.
+2026-06-08 11:35:39,994 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222331903?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=566
+2026-06-08 11:35:40,008 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222331903?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=566
+2026-06-08 11:35:40,950 - kolesa_parser.py - INFO - Получено объявление Lexus RX 300 22500000₸. id = 222331903 | затрачено 12.421723666950129 сек.
+2026-06-08 11:35:56,314 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221100023?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=567
+2026-06-08 11:35:57,172 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 14000000₸. id = 221100023 | затрачено 16.22192270902451 сек.
+2026-06-08 11:36:08,423 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/201521562?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=568
+2026-06-08 11:36:09,470 - kolesa_parser.py - INFO - Получено объявление Lexus NX 200t 15700000₸. id = 201521562 | затрачено 12.297845542081632 сек.
+2026-06-08 11:36:21,366 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222549906?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=569
+2026-06-08 11:36:22,759 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 25500000₸. id = 222549906 | затрачено 13.287701332941651 сек.
+2026-06-08 11:36:37,866 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222337474?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=570
+2026-06-08 11:36:38,842 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 24000000₸. id = 222337474 | затрачено 16.08302970789373 сек.
+2026-06-08 11:36:50,061 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221376656?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=571
+2026-06-08 11:36:50,085 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221376656?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=571 | пропускаем
+2026-06-08 11:37:04,479 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222545223?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=572
+2026-06-08 11:37:05,900 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300 5000000₸. id = 222545223 | затрачено 15.81472250004299 сек.
+2026-06-08 11:37:17,942 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222525853?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=573
+2026-06-08 11:37:17,959 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222525853?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=573
+2026-06-08 11:37:19,594 - kolesa_parser.py - INFO - Получено объявление Lexus ES 300h 8000000₸. id = 222525853 | затрачено 13.692847667029127 сек.
+2026-06-08 11:37:30,481 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/156876791?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=574
+2026-06-08 11:37:30,491 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/156876791?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=574 | пропускаем
+2026-06-08 11:37:45,560 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/192207333?fromUserSearch=1&search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=575
+2026-06-08 11:37:46,701 - kolesa_parser.py - INFO - Получено объявление Lexus GS 350 14500000₸. id = 192207333 | затрачено 16.20940137503203 сек.
+2026-06-08 11:37:58,464 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221677745?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=576
+2026-06-08 11:37:59,273 - kolesa_parser.py - INFO - Получено объявление Lexus GX 470 17000000₸. id = 221677745 | затрачено 12.571817542077042 сек.
+2026-06-08 11:38:10,992 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/205813223?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=577
+2026-06-08 11:38:12,316 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 33000000₸. id = 205813223 | затрачено 13.042555457912385 сек.
+2026-06-08 11:38:25,794 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/219024847?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=578
+2026-06-08 11:38:26,598 - kolesa_parser.py - INFO - Получено объявление Lexus LX 470 9000000₸. id = 219024847 | затрачено 14.281919791013934 сек.
+2026-06-08 11:38:41,511 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221677475?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=579
+2026-06-08 11:38:41,537 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221677475?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=579 | пропускаем
+2026-06-08 11:38:54,625 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222396354?search_id=8df49ffe3c913f817f7e4623c32c6448be232df4&search_type=filter&advert_position=580
+2026-06-08 11:38:55,477 - kolesa_parser.py - INFO - Получено объявление Lexus LX 470 13800000₸. id = 222396354 | затрачено 13.938806082936935 сек.
+2026-06-08 11:38:55,477 - kolesa_parser.py - INFO - Страница 29 (для LEXUS) собрана | затрачено 277.1425057910383 сек.
+2026-06-08 11:39:28,965 - kolesa_parser.py - INFO - Получаем список объявлений для LEXUS, страница: 30
+2026-06-08 11:39:30,183 - kolesa_parser.py - INFO - Открыта страница 30 | LEXUS
+2026-06-08 11:39:30,252 - kolesa_parser.py - INFO - Получены карточек для страницы 30 | LEXUS
+2026-06-08 11:39:43,614 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222396354?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=581
+2026-06-08 11:39:44,438 - kolesa_parser.py - INFO - Получено объявление Lexus LX 470 13800000₸. id = 222396354 | затрачено 14.186342458007857 сек.
+2026-06-08 11:39:58,663 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222283623?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=582
+2026-06-08 11:39:58,689 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222283623?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=582 | пропускаем
+2026-06-08 11:40:13,376 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/214954316?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=583
+2026-06-08 11:40:14,354 - kolesa_parser.py - INFO - Получено объявление Lexus GX 460 23000000₸. id = 214954316 | затрачено 15.664650375023484 сек.
+2026-06-08 11:40:29,074 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/220859596?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=584
+2026-06-08 11:40:29,088 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/220859596?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=584
+2026-06-08 11:40:29,952 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 9700000₸. id = 220859596 | затрачено 15.597605250077322 сек.
+2026-06-08 11:40:41,686 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222531443?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=585
+2026-06-08 11:40:43,273 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 13600000₸. id = 222531443 | затрачено 13.321105167036876 сек.
+2026-06-08 11:40:58,418 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/217863625?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=586
+2026-06-08 11:40:58,435 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/217863625?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=586
+2026-06-08 11:40:59,475 - kolesa_parser.py - INFO - Получено объявление Lexus TX 46900000₸. id = 217863625 | затрачено 16.200859334087 сек.
+2026-06-08 11:41:14,421 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221516831?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=587
+2026-06-08 11:41:14,436 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/221516831?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=587
+2026-06-08 11:41:16,082 - kolesa_parser.py - INFO - Получено объявление Lexus RX 400h 7500000₸. id = 221516831 | затрачено 16.607074625091627 сек.
+2026-06-08 11:41:27,205 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222206651?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=588
+2026-06-08 11:41:27,216 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222206651?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=588
+2026-06-08 11:41:28,582 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 22000000₸. id = 222206651 | затрачено 12.499717166996561 сек.
+2026-06-08 11:41:39,695 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222404053?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=589
+2026-06-08 11:41:39,722 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/222404053?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=589 | пропускаем
+2026-06-08 11:41:52,666 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/213350730?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=590
+2026-06-08 11:41:52,680 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/213350730?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=590
+2026-06-08 11:41:54,338 - kolesa_parser.py - INFO - Получено объявление Lexus IS 300 19000000₸. id = 213350730 | затрачено 14.616020250017755 сек.
+2026-06-08 11:42:05,359 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221508204?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=591
+2026-06-08 11:42:06,539 - kolesa_parser.py - INFO - Получено объявление Lexus GS 350 7800000₸. id = 221508204 | затрачено 12.19970583403483 сек.
+2026-06-08 11:42:20,488 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222545927?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=592
+2026-06-08 11:42:20,515 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222545927?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=592
+2026-06-08 11:42:21,539 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 35000000₸. id = 222545927 | затрачено 15.000225792056881 сек.
+2026-06-08 11:42:35,834 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222545746?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=593
+2026-06-08 11:42:35,845 - kolesa_parser.py - WARNING - Отсутствует цвет для объявления https://kolesa.kz/a/show/222545746?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=593
+2026-06-08 11:42:37,322 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 17900000₸. id = 222545746 | затрачено 15.782118667033501 сек.
+2026-06-08 11:42:55,692 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222042718?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=594
+2026-06-08 11:42:56,584 - kolesa_parser.py - INFO - Получено объявление Lexus LX 570 26500000₸. id = 222042718 | затрачено 19.26170200004708 сек.
+2026-06-08 11:43:12,871 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222001474?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=595
+2026-06-08 11:43:14,292 - kolesa_parser.py - INFO - Получено объявление Lexus RX 350 7500000₸. id = 222001474 | затрачено 17.707675082958303 сек.
+2026-06-08 11:43:25,624 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221315869?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=596
+2026-06-08 11:43:26,836 - kolesa_parser.py - INFO - Получено объявление Lexus GS 300 6200000₸. id = 221315869 | затрачено 12.543356999987736 сек.
+2026-06-08 11:43:39,120 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/221502148?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=597
+2026-06-08 11:43:39,133 - kolesa_parser.py - ERROR - Отсутствует пробег для объявления https://kolesa.kz/a/show/221502148?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=597 | пропускаем
+2026-06-08 11:43:54,012 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/216209461?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=598
+2026-06-08 11:43:55,414 - kolesa_parser.py - INFO - Получено объявление Lexus RX 300 4000000₸. id = 216209461 | затрачено 16.28095962491352 сек.
+2026-06-08 11:44:09,427 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/162997171?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=599
+2026-06-08 11:44:10,155 - kolesa_parser.py - INFO - Получено объявление Lexus RX 300 5000000₸. id = 162997171 | затрачено 14.73987404210493 сек.
+2026-06-08 11:44:24,218 - kolesa_parser.py - INFO - Открыто объявление https://kolesa.kz/a/show/222400587?search_id=13912724937bd3ddb7764cfe1da5ff599330fcbb&search_type=filter&advert_position=600
+2026-06-08 11:44:25,410 - kolesa_parser.py - INFO - Получено объявление Lexus RX 300 4900000₸. id = 222400587 | затрачено 15.255277000018395 сек.
+2026-06-08 11:44:25,410 - kolesa_parser.py - INFO - Страница 30 (для LEXUS) собрана | затрачено 296.4406635829946 сек.
+2026-06-08 11:44:30,062 - kolesa_parser.py - INFO - Датасет lexus_25_30.csv для LEXUS, страницы 25 - 30 собран | затрачено 1901.2890752499225 сек.
+2026-06-08 11:44:30,062 - kolesa_parser.py - INFO - Объявлений без фото: 0
+2026-06-08 11:44:30,062 - kolesa_parser.py - INFO - Объявлений не собрано по ошибкам: 0
+2026-06-08 11:44:30,062 - kolesa_parser.py - INFO - Пропущено объявлений без пробега: 31
+2026-06-08 11:44:30,062 - kolesa_parser.py - INFO - Пропущенные страницы: нет
