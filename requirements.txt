@@ -1,0 +1,7 @@
+pandas
+numpy
+requests
+bs4
+curl_cffi
+scikit-learn 
+torch
