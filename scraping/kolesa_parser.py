@@ -277,7 +277,7 @@ if len(failed_cards) > 0:
         log.error(e)
 
 if len(rows) > 0:
-    df = pd.DataFrame(rows).to_csv(Path(f'data/raw/{output_filename}.csv'), index=False)
+    pd.DataFrame(rows).to_csv(Path(f'../data/raw/{output_filename}.csv'), index=False)
 
     log.info(f'Датасет {output_filename}.csv для {brand.upper()}, страницы {page0} - {page1} собран | затрачено {total_res} сек.')
     log.info(f'Объявлений без фото: {len(without_photos)}')
