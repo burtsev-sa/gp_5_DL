@@ -3,3 +3,4 @@ numpy
 requests
 bs4
 curl_cffi
+gdown
