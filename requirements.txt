@@ -5,3 +5,4 @@ bs4
 curl_cffi
 scikit-learn 
 torch
+tqdm
