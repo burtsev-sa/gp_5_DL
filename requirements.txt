@@ -6,3 +6,4 @@ curl_cffi
 scikit-learn 
 torch
 tqdm
+wandb
