@@ -1,0 +1,220 @@
+0
+year
+engine_volume
+mileage
+imgs_count
+g_start_year
+g_end_year
+g_number
+g_age_car_release
+g_span
+car_age
+log_mileage
+mileage_per_year
+log_mileage_per_year
+log_imgs_count
+steering_wheel
+kz_registration
+g_is_current
+g_is_restyling
+generation_number_missing
+is_premium
+is_big_city
+is_electric
+is_new_car
+is_recent_car
+is_old_car
+is_metallic
+color_known
+has_low_mileage
+has_high_mileage
+is_automatic_like
+has_few_photos
+has_many_photos
+brand_Audi
+brand_BMW
+brand_Chevrolet
+brand_Hyundai
+brand_Kia
+brand_Lexus
+brand_Mercedes-Benz
+brand_Toyota
+m_other_100
+m_other_520
+m_other_525
+m_other_528
+m_other_530
+m_other_535
+m_other_540
+m_other_740
+m_other_80
+m_other_A4
+m_other_A6
+m_other_A8
+m_other_Accent
+m_other_Alphard
+m_other_Avante
+m_other_Avensis
+m_other_Aveo
+m_other_C 180
+m_other_Camry
+m_other_Captiva
+m_other_Carnival
+m_other_Cee'd
+m_other_Cerato
+m_other_Cobalt
+m_other_Corolla
+m_other_Creta
+m_other_Cruze
+m_other_E 200
+m_other_E 220
+m_other_E 240
+m_other_E 280
+m_other_E 300
+m_other_E 320
+m_other_ES 250
+m_other_ES 300
+m_other_ES 300h
+m_other_ES 350
+m_other_Elantra
+m_other_G 63 AMG
+m_other_GL 500
+m_other_GS 300
+m_other_GS 350
+m_other_GX 460
+m_other_GX 470
+m_other_Grandeur
+m_other_Highlander
+m_other_K5
+m_other_K7
+m_other_LX 470
+m_other_LX 570
+m_other_Lacetti
+m_other_Land Cruiser
+m_other_Land Cruiser Prado
+m_other_Malibu
+m_other_Monza
+m_other_Nexia
+m_other_Niva
+m_other_Onix
+m_other_Optima
+m_other_Other
+m_other_Palisade
+m_other_Q5
+m_other_Q7
+m_other_RAV4
+m_other_RX 200t
+m_other_RX 300
+m_other_RX 330
+m_other_RX 350
+m_other_Rio
+m_other_S 320
+m_other_S 500
+m_other_Santa Fe
+m_other_Sienna
+m_other_Sonata
+m_other_Sorento
+m_other_Soul
+m_other_Sportage
+m_other_Sprinter
+m_other_Starex
+m_other_Tracker
+m_other_Tucson
+m_other_X5
+m_other_X6
+m_other_X7
+b_other_Other
+b_other_Внедорожник
+b_other_Кроссовер
+b_other_Купе
+b_other_Лифтбек
+b_other_Микроавтобус
+b_other_Минивэн
+b_other_Пикап
+b_other_Седан
+b_other_Универсал
+b_other_Фургон
+b_other_Хэтчбек
+body_segment_compact_wagon
+body_segment_pickup
+body_segment_sedan_like
+body_segment_sport_open
+body_segment_suv_like
+body_segment_van_like
+fuel_type_Электрический
+fuel_type_бензин
+fuel_type_газ
+fuel_type_газ-бензин
+fuel_type_гибрид
+fuel_type_дизель
+transmission_Автомат
+transmission_Вариатор
+transmission_Механика
+transmission_Робот
+drive_type_Задний привод
+drive_type_Передний привод
+drive_type_Полный привод
+cc_other_Other
+cc_other_Актау
+cc_other_Актобе
+cc_other_Алматы
+cc_other_Астана
+cc_other_Атырау
+cc_other_Жанаозен
+cc_other_Караганда
+cc_other_Кокшетау
+cc_other_Костанай
+cc_other_Кызылорда
+cc_other_Павлодар
+cc_other_Петропавловск
+cc_other_Рудный
+cc_other_Семей
+cc_other_Талдыкорган
+cc_other_Тараз
+cc_other_Туркестан
+cc_other_Уральск
+cc_other_Усть-Каменогорск
+cc_other_Шымкент
+region_Абайская область
+region_Акмолинская область
+region_Актюбинская область
+region_Алматинская область
+region_Атырауская область
+region_Восточно-Казахстанская область
+region_Жамбылская область
+region_Жетысуская область
+region_Западно-Казахстанская область
+region_Карагандинская область
+region_Костанайская область
+region_Кызылординская область
+region_Мангистауская область
+region_Павлодарская область
+region_Северо-Казахстанская область
+region_Туркестанская область
+region_Улытауская область
+city_tier_other_city
+city_tier_regional_center
+city_tier_tier_1
+city_tier_tier_2
+age_bucket_0_1
+age_bucket_13_20
+age_bucket_20_plus
+age_bucket_2_3
+age_bucket_4_7
+age_bucket_8_12
+c_other_Other
+c_other_unknown
+c_other_бежевый
+c_other_белый
+c_other_бордовый
+c_other_вишня
+c_other_голубой
+c_other_зеленый
+c_other_золотистый
+c_other_коричневый
+c_other_красный
+c_other_серебристый
+c_other_серый
+c_other_синий
+c_other_хамелеон
+c_other_черный
