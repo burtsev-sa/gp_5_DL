@@ -1,8 +1,17 @@
 .venv/
 .envrc
-data/images/
-data/models/
 wandb/
 __pycache__/
 *.pt
 .DS_Store
+
+# в data/ держим только датасеты, которые читают ноутбуки.
+# остальное (картинки, модели, промежуточные таблицы, скрейпинг) лежит в W&B
+# и в ветках scraping / eda_prepro
+data/*
+!data/X_train.csv
+!data/X_test.csv
+!data/y_train.csv
+!data/y_test.csv
+!data/prepared_df_images.csv
+!data/brand_df_images.csv
