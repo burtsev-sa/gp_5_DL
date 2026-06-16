@@ -15,3 +15,6 @@ data/*
 !data/y_test.csv
 !data/prepared_df_images.csv
 !data/brand_df_images.csv
+!data/results_dl_images.csv
+!data/results_alexnet.csv
+!data/all_results_img.csv
