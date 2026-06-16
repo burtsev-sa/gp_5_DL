@@ -1,0 +1,92 @@
+
+Epoch: 1
+100%|██████████| 58/58 [00:00<00:00, 274.77it/s]
+
+Train set: Average loss: 47.3857
+Val set: Average loss: 1.6215, MAE: 8546270.00, RMSE: 23072096.47, R2: -4.2312
+
+Epoch: 2
+100%|██████████| 58/58 [00:00<00:00, 312.64it/s]
+
+Train set: Average loss: 0.8326
+Val set: Average loss: 0.6123, MAE: 8553997.00, RMSE: 33947867.43, R2: -10.3253
+
+Epoch: 3
+100%|██████████| 58/58 [00:00<00:00, 330.85it/s]
+
+Train set: Average loss: 0.3243
+Val set: Average loss: 0.4696, MAE: 5093787.00, RMSE: 17426342.34, R2: -1.9843
+
+Epoch: 4
+100%|██████████| 58/58 [00:00<00:00, 409.93it/s]
+
+Train set: Average loss: 0.1928
+Val set: Average loss: 0.3342, MAE: 4406258.00, RMSE: 15098776.07, R2: -1.2403
+
+Epoch: 5
+100%|██████████| 58/58 [00:00<00:00, 332.50it/s]
+
+Train set: Average loss: 0.1287
+Val set: Average loss: 0.2837, MAE: 3491645.25, RMSE: 7834441.64, R2: 0.3968
+
+Epoch: 6
+100%|██████████| 58/58 [00:00<00:00, 349.54it/s]
+
+Train set: Average loss: 0.0966
+Val set: Average loss: 0.2429, MAE: 3238748.25, RMSE: 5783092.20, R2: 0.6713
+
+Epoch: 7
+100%|██████████| 58/58 [00:00<00:00, 454.91it/s]
+
+Train set: Average loss: 0.0770
+Val set: Average loss: 0.2329, MAE: 3046091.00, RMSE: 6152356.64, R2: 0.6280
+
+Epoch: 8
+100%|██████████| 58/58 [00:00<00:00, 360.54it/s]
+
+Train set: Average loss: 0.0648
+Val set: Average loss: 0.2203, MAE: 2847691.00, RMSE: 5085142.55, R2: 0.7459
+
+Epoch: 9
+100%|██████████| 58/58 [00:00<00:00, 369.62it/s]
+
+Train set: Average loss: 0.0518
+Val set: Average loss: 0.2032, MAE: 2727681.25, RMSE: 5025852.09, R2: 0.7518
+
+Epoch: 10
+100%|██████████| 58/58 [00:00<00:00, 315.28it/s]
+
+Train set: Average loss: 0.0448
+Val set: Average loss: 0.1864, MAE: 2593727.25, RMSE: 4740017.36, R2: 0.7792
+
+Epoch: 11
+100%|██████████| 58/58 [00:00<00:00, 316.13it/s]
+
+Train set: Average loss: 0.0412
+Val set: Average loss: 0.1966, MAE: 2540920.00, RMSE: 4725183.84, R2: 0.7806
+
+Epoch: 12
+100%|██████████| 58/58 [00:00<00:00, 372.99it/s]
+
+Train set: Average loss: 0.0359
+Val set: Average loss: 0.2005, MAE: 2603877.50, RMSE: 4950014.73, R2: 0.7592
+
+Epoch: 13
+100%|██████████| 58/58 [00:00<00:00, 410.78it/s]
+
+Train set: Average loss: 0.0348
+Val set: Average loss: 0.1878, MAE: 2484892.25, RMSE: 4744833.92, R2: 0.7788
+
+Epoch: 14
+100%|██████████| 58/58 [00:00<00:00, 310.39it/s]
+
+Train set: Average loss: 0.0325
+Val set: Average loss: 0.1962, MAE: 2484277.75, RMSE: 4510751.73, R2: 0.8000
+
+Epoch: 15
+100%|██████████| 58/58 [00:00<00:00, 346.47it/s]
+
+Train set: Average loss: 0.0302
+Val set: Average loss: 0.1871, MAE: 2459178.00, RMSE: 4477382.13, R2: 0.8030
+Training is ended!
+Test set: Average loss: 0.1456, MAE: 2431247.25, RMSE: 4377199.84, R2: 0.8284

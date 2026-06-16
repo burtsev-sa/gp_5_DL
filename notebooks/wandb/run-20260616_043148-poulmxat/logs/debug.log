@@ -1,0 +1,96 @@
+2026-06-16 04:31:48,455 INFO    MainThread:79291 [wandb_init.py:setup_run_log_directory():723] Logging user logs to /Users/sburtsev/Documents/hse/смадимо/гп5/gp_5_DL/notebooks/wandb/run-20260616_043148-poulmxat/logs/debug.log
+2026-06-16 04:31:48,455 INFO    MainThread:79291 [wandb_init.py:setup_run_log_directory():724] Logging internal logs to /Users/sburtsev/Documents/hse/смадимо/гп5/gp_5_DL/notebooks/wandb/run-20260616_043148-poulmxat/logs/debug-internal.log
+2026-06-16 04:31:48,455 INFO    MainThread:79291 [wandb_init.py:monkeypatch_ipython():642] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x144be7fa0>
+2026-06-16 04:31:48,456 INFO    MainThread:79291 [wandb_init.py:init():850] calling init triggers
+2026-06-16 04:31:48,456 INFO    MainThread:79291 [wandb_init.py:init():855] wandb.init called with sweep_config: {}
+config: {'entity': 'armntvs-d3v-student', 'lr': 0.001, 'num_epochs': 15, 'project': 'kolesa-cars', 'seed': 42, 'test_batch_size': 256, 'train_batch_size': 64, 'wandb': True, '_wandb': {}}
+2026-06-16 04:31:48,456 INFO    MainThread:79291 [wandb_init.py:init():898] starting backend
+2026-06-16 04:31:48,456 INFO    MainThread:79291 [wandb_init.py:init():913] sending inform_init request
+2026-06-16 04:31:49,399 INFO    MainThread:79291 [wandb_init.py:init():918] backend started and connected
+2026-06-16 04:31:49,402 INFO    MainThread:79291 [wandb_run.py:_label_probe_notebook():1345] probe notebook
+2026-06-16 04:31:49,402 INFO    MainThread:79291 [wandb_init.py:init():988] updated telemetry
+2026-06-16 04:31:49,425 INFO    MainThread:79291 [wandb_init.py:init():1011] communicating run to backend with 90.0 second timeout
+2026-06-16 04:31:49,900 INFO    MainThread:79291 [wandb_init.py:init():1056] starting run threads in backend
+2026-06-16 04:31:49,957 INFO    MainThread:79291 [wandb_run.py:_console_start():2554] atexit reg
+2026-06-16 04:31:49,957 INFO    MainThread:79291 [wandb_run.py:_redirect():2403] redirect: wrap_raw
+2026-06-16 04:31:49,957 INFO    MainThread:79291 [wandb_run.py:_redirect():2472] Wrapping output streams.
+2026-06-16 04:31:49,957 INFO    MainThread:79291 [wandb_run.py:_redirect():2495] Redirects installed.
+2026-06-16 04:31:49,958 INFO    MainThread:79291 [wandb_init.py:init():1094] run started, returning control to user process
+2026-06-16 04:31:49,958 INFO    MainThread:79291 [wandb_run.py:_config_callback():1415] config_cb None None {'model': 'ResMLP(\n  (fc1): Linear(in_features=570, out_features=256, bias=True)\n  (block1): ResBlock(\n    (fc1): Linear(in_features=256, out_features=256, bias=True)\n    (fc2): Linear(in_features=256, out_features=256, bias=True)\n  )\n  (block2): ResBlock(\n    (fc1): Linear(in_features=256, out_features=256, bias=True)\n    (fc2): Linear(in_features=256, out_features=256, bias=True)\n  )\n  (fc2): Linear(in_features=256, out_features=1, bias=True)\n)'}
+2026-06-16 04:31:49,966 INFO    MainThread:79291 [wandb_watch.py:_watch():69] Watching
+2026-06-16 04:31:55,973 INFO    MainThread:79291 [wandb_run.py:_finish():2321] finishing run armntvs-d3v-student/kolesa-cars/poulmxat
+2026-06-16 04:31:55,973 INFO    MainThread:79291 [jupyter.py:save_history():435] not saving jupyter history
+2026-06-16 04:31:55,973 INFO    MainThread:79291 [jupyter.py:save_ipynb():362] not saving jupyter notebook
+2026-06-16 04:31:55,973 INFO    MainThread:79291 [wandb_init.py:_jupyter_teardown():627] cleaning up jupyter logic
+2026-06-16 04:31:55,973 INFO    MainThread:79291 [wandb_run.py:_atexit_cleanup():2520] got exitcode: 0
+2026-06-16 04:31:55,974 INFO    MainThread:79291 [wandb_run.py:_restore():2502] restore
+2026-06-16 04:31:55,974 INFO    MainThread:79291 [wandb_run.py:_restore():2508] restore done
+2026-06-16 04:32:14,636 ERROR   MainThread:79291 [wandb_init.py:init():1601] [no run ID] error in wandb.init()
+Traceback (most recent call last):
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/wandb_init.py", line 1586, in init
+    run = wi.init(run_settings, run_config, run_printer)
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/wandb_init.py", line 914, in init
+    interface = service.inform_init(
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/lib/service/service_connection.py", line 285, in inform_init
+    self._asyncer.run(init_and_wait_for_response)
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/lib/asyncio_manager.py", line 137, in run
+    return future.result()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/concurrent/futures/_base.py", line 445, in result
+    return self.__get_result()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/concurrent/futures/_base.py", line 390, in __get_result
+    raise self._exception
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/lib/asyncio_manager.py", line 223, in _wrap
+    return await fn()
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/lib/service/service_connection.py", line 282, in init_and_wait_for_response
+    handle = await self._client.deliver(server_request)
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/lib/service/service_client.py", line 60, in deliver
+    handle = self._mailbox.require_response(request)
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/mailbox/mailbox.py", line 90, in require_response
+    raise MailboxClosedError()
+wandb.sdk.mailbox.mailbox.MailboxClosedError
+2026-06-16 04:32:36,535 ERROR   MainThread:79291 [wandb_init.py:init():1601] [no run ID] error in wandb.init()
+Traceback (most recent call last):
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/wandb_init.py", line 1586, in init
+    run = wi.init(run_settings, run_config, run_printer)
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/wandb_init.py", line 914, in init
+    interface = service.inform_init(
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/lib/service/service_connection.py", line 285, in inform_init
+    self._asyncer.run(init_and_wait_for_response)
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/lib/asyncio_manager.py", line 137, in run
+    return future.result()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/concurrent/futures/_base.py", line 445, in result
+    return self.__get_result()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/concurrent/futures/_base.py", line 390, in __get_result
+    raise self._exception
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/lib/asyncio_manager.py", line 223, in _wrap
+    return await fn()
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/lib/service/service_connection.py", line 282, in init_and_wait_for_response
+    handle = await self._client.deliver(server_request)
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/lib/service/service_client.py", line 60, in deliver
+    handle = self._mailbox.require_response(request)
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/mailbox/mailbox.py", line 90, in require_response
+    raise MailboxClosedError()
+wandb.sdk.mailbox.mailbox.MailboxClosedError
+2026-06-16 04:32:47,924 ERROR   MainThread:79291 [wandb_init.py:init():1601] [no run ID] error in wandb.init()
+Traceback (most recent call last):
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/wandb_init.py", line 1586, in init
+    run = wi.init(run_settings, run_config, run_printer)
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/wandb_init.py", line 914, in init
+    interface = service.inform_init(
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/lib/service/service_connection.py", line 285, in inform_init
+    self._asyncer.run(init_and_wait_for_response)
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/lib/asyncio_manager.py", line 137, in run
+    return future.result()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/concurrent/futures/_base.py", line 445, in result
+    return self.__get_result()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/concurrent/futures/_base.py", line 390, in __get_result
+    raise self._exception
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/lib/asyncio_manager.py", line 223, in _wrap
+    return await fn()
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/lib/service/service_connection.py", line 282, in init_and_wait_for_response
+    handle = await self._client.deliver(server_request)
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/lib/service/service_client.py", line 60, in deliver
+    handle = self._mailbox.require_response(request)
+  File "/Users/sburtsev/Library/Python/3.9/lib/python/site-packages/wandb/sdk/mailbox/mailbox.py", line 90, in require_response
+    raise MailboxClosedError()
+wandb.sdk.mailbox.mailbox.MailboxClosedError
