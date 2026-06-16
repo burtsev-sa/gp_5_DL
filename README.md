@@ -41,30 +41,25 @@
 
 ```text
 gp_5_DL/
-├── mlp_img/
+├── dl/
+│   ├── alexnet.ipynb
+│   ├── all_results_img.ipynb
 │   ├── dl_images.ipynb
-├── mlp_tab/
-│   ├── mpl_tab.ipynb
+│   ├── mlp_tab.ipynb
 ├── data/
 │   ├── images/
 │   ├── raw/
-│   │   └── *.csv 
+│   │   └── *.csv
 │   ├── models/
-│   │   └── *.pt
-│   ├── brand_df_images.csv
-│   ├── clean_df.csv
-│   ├── df_images.csv
-│   ├── df_merged.csv
-│   ├── df_table.csv
-│   └── prepared_df_images.csv
+│   ├── *.csv
 ├── eda_prepro/
 │   ├── image_eda.ipynb
 │   ├── prepare_raw_data.ipynb
+│   ├── prepro_tab.ipynb
 │   └── split_datasets.ipynb
 ├── logs/
 │   ├── config.json
 │   ├── kolesa_parser_logs.log
-│   ├── kolesa_parser_logs_old.log
 │   └── logger.py
 ├── scraping/
 │   ├── kolesa_parser.py
